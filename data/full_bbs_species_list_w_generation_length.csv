@@ -1,0 +1,761 @@
+seq,aou,english,french,spanish,order,family,genus,species,unid_combined,sci_name,GenLength
+6,1770,Black-bellied Whistling-Duck,Dendrocygne à ventre noir,Dendrocygna autumnalis,Anseriformes,Anatidae,Dendrocygna,autumnalis,TRUE,Dendrocygna autumnalis,2.362207056
+7,1780,Fulvous Whistling-Duck,Dendrocygne fauve,Dendrocygna bicolor,Anseriformes,Anatidae,Dendrocygna,bicolor,TRUE,Dendrocygna bicolor,2.619713927
+8,1760,Emperor Goose,Oie empereur,Anser canagicus,Anseriformes,Anatidae,Anser,canagicus,TRUE,Anser canagicus,8.008237927
+9,1690,Snow Goose (all forms),Oie des neiges (toutes les formes),Anser caerulescens,Anseriformes,Anatidae,Anser,caerulescens,TRUE,Anser caerulescens,8.764038712
+10,1691,(Blue Goose) Snow Goose,Oie des neiges (forme bleue),Anser caerulescens (blue form),Anseriformes,Anatidae,Anser,caerulescens (blue form),TRUE,Anser caerulescens (blue form),8.764038712
+11,1700,Ross's Goose,Oie de Ross,Anser rossii,Anseriformes,Anatidae,Anser,rossii,TRUE,Anser rossii,6.250561565
+13,1710,Greater White-fronted Goose,Oie rieuse,Anser albifrons,Anseriformes,Anatidae,Anser,albifrons,TRUE,Anser albifrons,8.40029148
+18,1730,Brant,Bernache cravant,Branta bernicla,Anseriformes,Anatidae,Branta,bernicla,TRUE,Branta bernicla,9.908548955
+19,1740,(Black Brant) Brant,Bernache cravant (groupe nigricans),Branta bernicla nigricans,Anseriformes,Anatidae,Branta,bernicla nigricans,TRUE,Branta bernicla nigricans,9.908548955
+21,1725,Cackling Goose,Bernache de Hutchins,Branta hutchinsii,Anseriformes,Anatidae,Branta,hutchinsii,TRUE,Branta hutchinsii,9.217436837
+22,1720,Canada Goose,Bernache du Canada,Branta canadensis,Anseriformes,Anatidae,Branta,canadensis,TRUE,Branta canadensis,9.449200494
+23,1782,Mute Swan,Cygne tuberculé,Cygnus olor,Anseriformes,Anatidae,Cygnus,olor,TRUE,Cygnus olor,9.800268867
+24,1810,Trumpeter Swan,Cygne trompette,Cygnus buccinator,Anseriformes,Anatidae,Cygnus,buccinator,TRUE,Cygnus buccinator,9.306894418
+25,1800,Tundra Swan,Cygne siffleur,Cygnus columbianus,Anseriformes,Anatidae,Cygnus,columbianus,TRUE,Cygnus columbianus,11.99546495
+27,20630,Egyptian Goose,Ouette d'Égypte,Alopochen aegyptiaca,Anseriformes,Anatidae,Alopochen,aegyptiaca,TRUE,Alopochen aegyptiaca,6.553195244
+30,10210,Muscovy Duck,Canard musqué,Cairina moschata,Anseriformes,Anatidae,Cairina,moschata,TRUE,Cairina moschata,3.935264598
+31,1440,Wood Duck,Canard branchu,Aix sponsa,Anseriformes,Anatidae,Aix,sponsa,TRUE,Aix sponsa,4.056081918
+34,1400,Blue-winged Teal,Sarcelle à ailes bleues,Spatula discors,Anseriformes,Anatidae,Spatula,discors,TRUE,Spatula discors,3.937736958
+35,1410,Cinnamon Teal,Sarcelle cannelle,Spatula cyanoptera,Anseriformes,Anatidae,Spatula,cyanoptera,TRUE,Spatula cyanoptera,2.91362668
+36,1420,Northern Shoveler,Canard souchet,Spatula clypeata,Anseriformes,Anatidae,Spatula,clypeata,TRUE,Spatula clypeata,4.095844242
+37,1350,Gadwall,Canard chipeau,Mareca strepera,Anseriformes,Anatidae,Mareca,strepera,TRUE,Mareca strepera,3.673352314
+39,1360,Eurasian Wigeon,Canard siffleur,Mareca penelope,Anseriformes,Anatidae,Mareca,penelope,TRUE,Mareca penelope,3.789266937
+40,1370,American Wigeon,Canard d'Amérique,Mareca americana,Anseriformes,Anatidae,Mareca,americana,TRUE,Mareca americana,3.89349214
+42,1320,Mallard,Canard colvert,Anas platyrhynchos,Anseriformes,Anatidae,Anas,platyrhynchos,TRUE,Anas platyrhynchos,4.781012977
+43,1331,Mexican Duck,Canard du Mexique,Anas diazi,Anseriformes,Anatidae,Anas,diazi,TRUE,Anas diazi,4.781012977
+44,1330,American Black Duck,Canard noir,Anas rubripes,Anseriformes,Anatidae,Anas,rubripes,TRUE,Anas rubripes,4.821432747
+45,1340,Mottled Duck,Canard brun,Anas fulvigula,Anseriformes,Anatidae,Anas,fulvigula,TRUE,Anas fulvigula,4.552456265
+46,1326,hybrid Mallard x Black / Mexican / Mottled Duck,hybride Canard colvert x noir / Mexique / brun,Anas platyrhynchos x rubripes / diazi / fulvigula,Anseriformes,Anatidae,Anas,platyrhynchos x rubripes / diazi / fulvigula,TRUE,Anas platyrhynchos x rubripes / diazi / fulvigula,NA
+48,1430,Northern Pintail,Canard pilet,Anas acuta,Anseriformes,Anatidae,Anas,acuta,TRUE,Anas acuta,4.947677081
+49,1390,Green-winged Teal,Sarcelle d'hiver,Anas crecca,Anseriformes,Anatidae,Anas,crecca,TRUE,Anas crecca,3.878402736
+50,1470,Canvasback,Fuligule à dos blanc,Aythya valisineria,Anseriformes,Anatidae,Aythya,valisineria,TRUE,Aythya valisineria,5.161870032
+51,1460,Redhead,Fuligule à tête rouge,Aythya americana,Anseriformes,Anatidae,Aythya,americana,TRUE,Aythya americana,4.194698424
+53,1500,Ring-necked Duck,Fuligule à collier,Aythya collaris,Anseriformes,Anatidae,Aythya,collaris,TRUE,Aythya collaris,3.76042376
+54,1491,Tufted Duck,Fuligule morillon,Aythya fuligula,Anseriformes,Anatidae,Aythya,fuligula,TRUE,Aythya fuligula,4.012210421
+55,1480,Greater Scaup,Fuligule milouinan,Aythya marila,Anseriformes,Anatidae,Aythya,marila,TRUE,Aythya marila,4.148126497
+56,1490,Lesser Scaup,Petit Fuligule,Aythya affinis,Anseriformes,Anatidae,Aythya,affinis,TRUE,Aythya affinis,5.023958311
+57,1489,unid. Greater Scaup / Lesser Scaup,unid Fuligule milouinan / Petit Fuligule,Aythya marila / affinis,Anseriformes,Anatidae,Aythya,marila / affinis,TRUE,Aythya marila / affinis,NA
+58,1570,Steller's Eider,Eider de Steller,Polysticta stelleri,Anseriformes,Anatidae,Polysticta,stelleri,TRUE,Polysticta stelleri,7.71950274
+59,1580,Spectacled Eider,Eider à lunettes,Somateria fischeri,Anseriformes,Anatidae,Somateria,fischeri,TRUE,Somateria fischeri,8.325095728
+60,1620,King Eider,Eider à tête grise,Somateria spectabilis,Anseriformes,Anatidae,Somateria,spectabilis,TRUE,Somateria spectabilis,11.365329
+61,1590,Common Eider,Eider à duvet,Somateria mollissima,Anseriformes,Anatidae,Somateria,mollissima,TRUE,Somateria mollissima,11.21901402
+62,1550,Harlequin Duck,Arlequin plongeur,Histrionicus histrionicus,Anseriformes,Anatidae,Histrionicus,histrionicus,TRUE,Histrionicus histrionicus,6.149206491
+63,1660,Surf Scoter,Macreuse à front blanc,Melanitta perspicillata,Anseriformes,Anatidae,Melanitta,perspicillata,TRUE,Melanitta perspicillata,5.513907439
+64,1650,White-winged Scoter,Macreuse à ailes blanches,Melanitta deglandi,Anseriformes,Anatidae,Melanitta,deglandi,TRUE,Melanitta deglandi,5.438067803
+67,1630,Black Scoter,Macreuse à bec jaune,Melanitta americana,Anseriformes,Anatidae,Melanitta,americana,TRUE,Melanitta americana,5.343234274
+68,1657,unid. scoter,unid macreuse sp.,Melanitta sp.,Anseriformes,Anatidae,Melanitta,sp.,TRUE,Melanitta sp.,NA
+69,1540,Long-tailed Duck,Harelde kakawi,Clangula hyemalis,Anseriformes,Anatidae,Clangula,hyemalis,TRUE,Clangula hyemalis,6.005650979
+70,1530,Bufflehead,Petit Garrot,Bucephala albeola,Anseriformes,Anatidae,Bucephala,albeola,TRUE,Bucephala albeola,5.492261298
+71,1510,Common Goldeneye,Garrot à oeil d'or,Bucephala clangula,Anseriformes,Anatidae,Bucephala,clangula,TRUE,Bucephala clangula,7.109900304
+72,1520,Barrow's Goldeneye,Garrot d'Islande,Bucephala islandica,Anseriformes,Anatidae,Bucephala,islandica,TRUE,Bucephala islandica,6.602453125
+73,1512,unid. Common Goldeneye / Barrow's Goldeneye,unid Garrot à oeil d'or / Garrot d'Islande,Bucephala clangula / islandica,Anseriformes,Anatidae,Bucephala,clangula / islandica,TRUE,Bucephala clangula / islandica,NA
+75,1310,Hooded Merganser,Harle couronné,Lophodytes cucullatus,Anseriformes,Anatidae,Lophodytes,cucullatus,TRUE,Lophodytes cucullatus,4.513622284
+76,1290,Common Merganser,Grand Harle,Mergus merganser,Anseriformes,Anatidae,Mergus,merganser,TRUE,Mergus merganser,5.050720794
+77,1300,Red-breasted Merganser,Harle huppé,Mergus serrator,Anseriformes,Anatidae,Mergus,serrator,TRUE,Mergus serrator,5.730468376
+79,1670,Ruddy Duck,Érismature rousse,Oxyura jamaicensis,Anseriformes,Anatidae,Oxyura,jamaicensis,TRUE,Oxyura jamaicensis,3.856815295
+80,3110,Plain Chachalaca,Ortalide chacamel,Ortalis vetula,Galliformes,Cracidae,Ortalis,vetula,TRUE,Ortalis vetula,4.804508169
+88,2920,Mountain Quail,Colin des montagnes,Oreortyx pictus,Galliformes,Odontophoridae,Oreortyx,pictus,TRUE,Oreortyx pictus,2.578428464
+93,2890,Northern Bobwhite,Colin de Virginie,Colinus virginianus,Galliformes,Odontophoridae,Colinus,virginianus,TRUE,Colinus virginianus,2.258734621
+95,2930,Scaled Quail,Colin écaillé,Callipepla squamata,Galliformes,Odontophoridae,Callipepla,squamata,TRUE,Callipepla squamata,2.152866308
+97,2940,California Quail,Colin de Californie,Callipepla californica,Galliformes,Odontophoridae,Callipepla,californica,TRUE,Callipepla californica,2.222432767
+98,2950,Gambel's Quail,Colin de Gambel,Callipepla gambelii,Galliformes,Odontophoridae,Callipepla,gambelii,TRUE,Callipepla gambelii,2.126172625
+99,2960,Montezuma Quail,Colin arlequin,Cyrtonyx montezumae,Galliformes,Odontophoridae,Cyrtonyx,montezumae,TRUE,Cyrtonyx montezumae,2.186048879
+103,3100,Wild Turkey,Dindon sauvage,Meleagris gallopavo,Galliformes,Phasianidae,Meleagris,gallopavo,TRUE,Meleagris gallopavo,4.689787737
+105,3000,Ruffed Grouse,Gélinotte huppée,Bonasa umbellus,Galliformes,Phasianidae,Bonasa,umbellus,TRUE,Bonasa umbellus,2.398076811
+106,2980,Spruce Grouse,Tétras du Canada,Canachites canadensis,Galliformes,Phasianidae,Canachites,canadensis,TRUE,Canachites canadensis,3.394960462
+107,3010,Willow Ptarmigan,Lagopède des saules,Lagopus lagopus,Galliformes,Phasianidae,Lagopus,lagopus,TRUE,Lagopus lagopus,2.332812222
+108,3020,Rock Ptarmigan,Lagopède alpin,Lagopus muta,Galliformes,Phasianidae,Lagopus,muta,TRUE,Lagopus muta,2.992514649
+109,3040,White-tailed Ptarmigan,Lagopède à queue blanche,Lagopus leucura,Galliformes,Phasianidae,Lagopus,leucura,TRUE,Lagopus leucura,4.116172628
+110,3090,Greater Sage-Grouse,Tétras des armoises,Centrocercus urophasianus,Galliformes,Phasianidae,Centrocercus,urophasianus,TRUE,Centrocercus urophasianus,3.822699139
+111,3089,Gunnison Sage-Grouse,Tétras du Gunnison,Centrocercus minimus,Galliformes,Phasianidae,Centrocercus,minimus,TRUE,Centrocercus minimus,4.623188277
+112,2970,Dusky Grouse,Tétras sombre,Dendragapus obscurus,Galliformes,Phasianidae,Dendragapus,obscurus,TRUE,Dendragapus obscurus,4.475357304
+113,2971,Sooty Grouse,Tétras fuligineux,Dendragapus fuliginosus,Galliformes,Phasianidae,Dendragapus,fuliginosus,TRUE,Dendragapus fuliginosus,3.583927834
+114,2973,Blue Grouse (Dusky/Sooty),Tétras sombre (sombre/fuligineux),Dendragapus obscurus / fuliginosus,Galliformes,Phasianidae,Dendragapus,obscurus / fuliginosus,TRUE,Dendragapus obscurus / fuliginosus,4.029642569
+115,3080,Sharp-tailed Grouse,Tétras à queue fine,Tympanuchus phasianellus,Galliformes,Phasianidae,Tympanuchus,phasianellus,TRUE,Tympanuchus phasianellus,2.537761556
+116,3050,Greater Prairie-Chicken,Tétras des prairies,Tympanuchus cupido,Galliformes,Phasianidae,Tympanuchus,cupido,TRUE,Tympanuchus cupido,2.633883697
+117,3070,Lesser Prairie-Chicken,Tétras pâle,Tympanuchus pallidicinctus,Galliformes,Phasianidae,Tympanuchus,pallidicinctus,TRUE,Tympanuchus pallidicinctus,2.835452238
+118,2881,Gray Partridge,Perdrix grise,Perdix perdix,Galliformes,Phasianidae,Perdix,perdix,TRUE,Perdix perdix,1.933238715
+119,3091,Ring-necked Pheasant,Faisan de Colchide,Phasianus colchicus,Galliformes,Phasianidae,Phasianus,colchicus,TRUE,Phasianus colchicus,4.77330905
+120,3095,Indian Peafowl,Paon bleu,Pavo cristatus,Galliformes,Phasianidae,Pavo,cristatus,TRUE,Pavo cristatus,8.830374084
+123,2882,Chukar,Perdrix choukar,Alectoris chukar,Galliformes,Phasianidae,Alectoris,chukar,TRUE,Alectoris chukar,2.271141313
+125,50,Least Grebe,Grèbe minime,Tachybaptus dominicus,Podicipediformes,Podicipedidae,Tachybaptus,dominicus,TRUE,Tachybaptus dominicus,3.26637837
+126,60,Pied-billed Grebe,Grèbe à bec bigarré,Podilymbus podiceps,Podicipediformes,Podicipedidae,Podilymbus,podiceps,TRUE,Podilymbus podiceps,3.428296921
+127,30,Horned Grebe,Grèbe esclavon,Podiceps auritus,Podicipediformes,Podicipedidae,Podiceps,auritus,TRUE,Podiceps auritus,4.411423392
+128,20,Red-necked Grebe,Grèbe jougris,Podiceps grisegena,Podicipediformes,Podicipedidae,Podiceps,grisegena,TRUE,Podiceps grisegena,5.626612132
+129,40,Eared Grebe,Grèbe à cou noir,Podiceps nigricollis,Podicipediformes,Podicipedidae,Podiceps,nigricollis,TRUE,Podiceps nigricollis,5.027990321
+130,10,Western Grebe,Grèbe élégant,Aechmophorus occidentalis,Podicipediformes,Podicipedidae,Aechmophorus,occidentalis,TRUE,Aechmophorus occidentalis,5.331588962
+131,11,Clark's Grebe,Grèbe à face blanche,Aechmophorus clarkii,Podicipediformes,Podicipedidae,Aechmophorus,clarkii,TRUE,Aechmophorus clarkii,4.814294093
+132,12,Western Grebe (Clark's/Western),Grèbe élégant (à face blanche/élégant),Aechmophorus occidentalis / clarkii,Podicipediformes,Podicipedidae,Aechmophorus,occidentalis / clarkii,TRUE,Aechmophorus occidentalis / clarkii,5.072941527499999
+133,3131,Rock Pigeon,Pigeon biset,Columba livia,Columbiformes,Columbidae,Columba,livia,TRUE,Columba livia,3.993083763
+138,3140,White-crowned Pigeon,Pigeon à couronne blanche,Patagioenas leucocephala,Columbiformes,Columbidae,Patagioenas,leucocephala,TRUE,Patagioenas leucocephala,3.54887253
+139,3130,Red-billed Pigeon,Pigeon à bec rouge,Patagioenas flavirostris,Columbiformes,Columbidae,Patagioenas,flavirostris,TRUE,Patagioenas flavirostris,4.680046722
+140,3120,Band-tailed Pigeon,Pigeon à queue barrée,Patagioenas fasciata,Columbiformes,Columbidae,Patagioenas,fasciata,TRUE,Patagioenas fasciata,4.394132128
+143,3152,African Collared-Dove (a.k.a. Ringed Turtle-Dove),Tourterelle rieuse,Streptopelia roseogrisea,Columbiformes,Columbidae,Streptopelia,roseogrisea,TRUE,Streptopelia roseogrisea,4.20927217
+145,22860,Eurasian Collared-Dove,Tourterelle turque,Streptopelia decaocto,Columbiformes,Columbidae,Streptopelia,decaocto,TRUE,Streptopelia decaocto,3.455689008
+146,3151,Spotted Dove,Tourterelle tigrine,Streptopelia chinensis,Columbiformes,Columbidae,Streptopelia,chinensis,TRUE,Streptopelia chinensis,3.744876563
+147,3210,Inca Dove,Colombe inca,Columbina inca,Columbiformes,Columbidae,Columbina,inca,TRUE,Columbina inca,2.799722853
+148,3200,Common Ground Dove,Colombe à queue noire,Columbina passerina,Columbiformes,Columbidae,Columbina,passerina,TRUE,Columbina passerina,2.931066034
+150,3201,Ruddy Ground Dove,Colombe rousse,Columbina talpacoti,Columbiformes,Columbidae,Columbina,talpacoti,TRUE,Columbina talpacoti,2.668992315
+155,3180,White-tipped Dove,Colombe de Verreaux,Leptotila verreauxi,Columbiformes,Columbidae,Leptotila,verreauxi,TRUE,Leptotila verreauxi,4.306651531
+161,3190,White-winged Dove,Tourterelle à ailes blanches,Zenaida asiatica,Columbiformes,Columbidae,Zenaida,asiatica,TRUE,Zenaida asiatica,4.063751857
+163,3160,Mourning Dove,Tourterelle triste,Zenaida macroura,Columbiformes,Columbidae,Zenaida,macroura,TRUE,Zenaida macroura,5.371662876
+165,3830,Smooth-billed Ani,Ani à bec lisse,Crotophaga ani,Cuculiformes,Cuculidae,Crotophaga,ani,TRUE,Crotophaga ani,4.226881546
+166,3840,Groove-billed Ani,Ani à bec cannelé,Crotophaga sulcirostris,Cuculiformes,Cuculidae,Crotophaga,sulcirostris,TRUE,Crotophaga sulcirostris,3.192426485
+171,3850,Greater Roadrunner,Grand Géocoucou,Geococcyx californianus,Cuculiformes,Cuculidae,Geococcyx,californianus,TRUE,Geococcyx californianus,3.216720014
+176,3870,Yellow-billed Cuckoo,Coulicou à bec jaune,Coccyzus americanus,Cuculiformes,Cuculidae,Coccyzus,americanus,TRUE,Coccyzus americanus,2.532871766
+177,3860,Mangrove Cuckoo,Coulicou manioc,Coccyzus minor,Cuculiformes,Cuculidae,Coccyzus,minor,TRUE,Coccyzus minor,3.030901654
+178,3880,Black-billed Cuckoo,Coulicou à bec noir,Coccyzus erythropthalmus,Cuculiformes,Cuculidae,Coccyzus,erythropthalmus,TRUE,Coccyzus erythropthalmus,2.543153489
+179,3875,unid. Yellow-billed Cuckoo / Black-billed Cuckoo,unid Coulicou à bec jaune / Coulicou à bec noir,Coccyzus americanus / erythropthalmus,Cuculiformes,Cuculidae,Coccyzus,americanus / erythropthalmus,TRUE,Coccyzus americanus / erythropthalmus,NA
+181,4210,Lesser Nighthawk,Engoulevent minime,Chordeiles acutipennis,Caprimulgiformes,Caprimulgidae,Chordeiles,acutipennis,TRUE,Chordeiles acutipennis,3.361353004
+182,4200,Common Nighthawk,Engoulevent d'Amérique,Chordeiles minor,Caprimulgiformes,Caprimulgidae,Chordeiles,minor,TRUE,Chordeiles minor,4.585997652
+183,4201,Antillean Nighthawk,Engoulevent piramidig,Chordeiles gundlachii,Caprimulgiformes,Caprimulgidae,Chordeiles,gundlachii,TRUE,Chordeiles gundlachii,3.541195629
+184,4205,unid. Lesser Nighthawk / Common Nighthawk,unid Engoulevent minime / Engoulevent d'Amérique,Chordeiles acutipennis / minor,Caprimulgiformes,Caprimulgidae,Chordeiles,acutipennis / minor,TRUE,Chordeiles acutipennis / minor,NA
+185,4206,unid. Common Nighthawk / Antillean Nighthawk,unid Engoulevent d'Amérique / piramidig,Chordeiles minor / gundlachii,Caprimulgiformes,Caprimulgidae,Chordeiles,minor / gundlachii,TRUE,Chordeiles minor / gundlachii,NA
+186,4190,Common Pauraque,Engoulevent pauraqué,Nyctidromus albicollis,Caprimulgiformes,Caprimulgidae,Nyctidromus,albicollis,TRUE,Nyctidromus albicollis,3.603698927
+187,4180,Common Poorwill,Engoulevent de Nuttall,Phalaenoptilus nuttallii,Caprimulgiformes,Caprimulgidae,Phalaenoptilus,nuttallii,TRUE,Phalaenoptilus nuttallii,2.767326657
+190,4160,Chuck-will's-widow,Engoulevent de Caroline,Antrostomus carolinensis,Caprimulgiformes,Caprimulgidae,Antrostomus,carolinensis,TRUE,Antrostomus carolinensis,4.055669608
+194,4171,Eastern Whip-poor-will,Engoulevent bois-pourri,Antrostomus vociferus,Caprimulgiformes,Caprimulgidae,Antrostomus,vociferus,TRUE,Antrostomus vociferus,3.696018219
+195,4172,Mexican Whip-poor-will,Engoulevent d'Arizona,Antrostomus arizonae,Caprimulgiformes,Caprimulgidae,Antrostomus,arizonae,TRUE,Antrostomus arizonae,2.236175921
+200,4220,Black Swift,Martinet sombre,Cypseloides niger,Apodiformes,Apodidae,Cypseloides,niger,TRUE,Cypseloides niger,3.738376237
+205,4230,Chimney Swift,Martinet ramoneur,Chaetura pelagica,Apodiformes,Apodidae,Chaetura,pelagica,TRUE,Chaetura pelagica,3.009395796
+206,4240,Vaux's Swift,Martinet de Vaux,Chaetura vauxi,Apodiformes,Apodidae,Chaetura,vauxi,TRUE,Chaetura vauxi,2.348481441
+210,4250,White-throated Swift,Martinet à gorge blanche,Aeronautes saxatalis,Apodiformes,Apodidae,Aeronautes,saxatalis,TRUE,Aeronautes saxatalis,2.447301252
+223,4260,Rivoli's Hummingbird,Colibri de Rivoli,Eugenes fulgens,Apodiformes,Trochilidae,Eugenes,fulgens,TRUE,Eugenes fulgens,2.436407199
+228,4270,Blue-throated Mountain-gem,Colibri à gorge bleue,Lampornis clemenciae,Apodiformes,Trochilidae,Lampornis,clemenciae,TRUE,Lampornis clemenciae,2.285390248
+233,4370,Lucifer Hummingbird,Colibri lucifer,Calothorax lucifer,Apodiformes,Trochilidae,Calothorax,lucifer,TRUE,Calothorax lucifer,1.739492024
+235,4280,Ruby-throated Hummingbird,Colibri à gorge rubis,Archilochus colubris,Apodiformes,Trochilidae,Archilochus,colubris,TRUE,Archilochus colubris,2.160837318
+236,4290,Black-chinned Hummingbird,Colibri à gorge noire,Archilochus alexandri,Apodiformes,Trochilidae,Archilochus,alexandri,TRUE,Archilochus alexandri,2.449862119
+237,4295,unid. Ruby-throated / Black-chinned Hummingbird,unid Colibri à gorge rubis / Colibri à gorge noire,Archilochus colubris / alexandri,Apodiformes,Trochilidae,Archilochus,colubris / alexandri,TRUE,Archilochus colubris / alexandri,NA
+239,4310,Anna's Hummingbird,Colibri d'Anna,Calypte anna,Apodiformes,Trochilidae,Calypte,anna,TRUE,Calypte anna,2.079680549
+240,4300,Costa's Hummingbird,Colibri de Costa,Calypte costae,Apodiformes,Trochilidae,Calypte,costae,TRUE,Calypte costae,2.093650257
+241,4360,Calliope Hummingbird,Colibri calliope,Selasphorus calliope,Apodiformes,Trochilidae,Selasphorus,calliope,TRUE,Selasphorus calliope,1.947960776
+242,4330,Rufous Hummingbird,Colibri roux,Selasphorus rufus,Apodiformes,Trochilidae,Selasphorus,rufus,TRUE,Selasphorus rufus,2.128899918
+243,4340,Allen's Hummingbird,Colibri d'Allen,Selasphorus sasin,Apodiformes,Trochilidae,Selasphorus,sasin,TRUE,Selasphorus sasin,1.968304783
+244,4335,unid. Rufous Hummingbird / Allen's Hummingbird,unid Colibri roux / Colibri d'Allen,Selasphorus rufus / sasin,Apodiformes,Trochilidae,Selasphorus,rufus / sasin,TRUE,Selasphorus rufus / sasin,NA
+245,4402,unid. hummingbird,unid Colibri sp.,Trochilid sp.,Apodiformes,Trochilidae,Trochilid,sp.,TRUE,Trochilid sp.,NA
+246,4320,Broad-tailed Hummingbird,Colibri à queue large,Selasphorus platycercus,Apodiformes,Trochilidae,Selasphorus,platycercus,TRUE,Selasphorus platycercus,2.592795163
+250,4410,Broad-billed Hummingbird,Colibri circé,Cynanthus latirostris,Apodiformes,Trochilidae,Cynanthus,latirostris,TRUE,Cynanthus latirostris,2.148992039
+267,4391,Violet-crowned Hummingbird,Ariane à couronne violette,Ramosomyia violiceps,Apodiformes,Trochilidae,Ramosomyia,violiceps,TRUE,Ramosomyia violiceps,2.005123679
+273,4390,Buff-bellied Hummingbird,Ariane du Yucatan,Amazilia yucatanensis,Apodiformes,Trochilidae,Amazilia,yucatanensis,TRUE,Amazilia yucatanensis,2.400276472
+282,2111,Ridgway's Rail,Râle de Californie,Rallus obsoletus,Gruiformes,Rallidae,Rallus,obsoletus,TRUE,Rallus obsoletus,2.107426457
+284,2080,King Rail,Râle élégant,Rallus elegans,Gruiformes,Rallidae,Rallus,elegans,TRUE,Rallus elegans,3.269379405
+285,2110,Clapper Rail,Râle tapageur,Rallus crepitans,Gruiformes,Rallidae,Rallus,crepitans,TRUE,Rallus crepitans,1.968098426
+286,2090,unid. Clapper / King Rail,unid Râle élégant / Râle Gris,Rallus crepitans / elegans,Gruiformes,Rallidae,Rallus,crepitans / elegans,TRUE,Rallus crepitans / elegans,NA
+287,2120,Virginia Rail,Râle de Virginie,Rallus limicola,Gruiformes,Rallidae,Rallus,limicola,TRUE,Rallus limicola,2.141265419
+289,2140,Sora,Marouette de Caroline,Porzana carolina,Gruiformes,Rallidae,Porzana,carolina,TRUE,Porzana carolina,1.865370331
+290,2190,Common Gallinule,Gallinule d'Amérique,Gallinula galeata,Gruiformes,Rallidae,Gallinula,galeata,TRUE,Gallinula galeata,2.561011413
+293,2210,American Coot,Foulque d'Amérique,Fulica americana,Gruiformes,Rallidae,Fulica,americana,TRUE,Fulica americana,4.031447748
+294,2180,Purple Gallinule,Talève violacée,Porphyrio martinicus,Gruiformes,Rallidae,Porphyrio,martinicus,TRUE,Porphyrio martinicus,2.12580627
+296,21930,Purple Swamphen,Talève sultane,Porphyrio porphyrio,Gruiformes,Rallidae,Porphyrio,porphyrio,TRUE,Porphyrio porphyrio,4.738939682
+297,2150,Yellow Rail,Râle jaune,Coturnicops noveboracensis,Gruiformes,Rallidae,Coturnicops,noveboracensis,TRUE,Coturnicops noveboracensis,2.126855185
+301,2160,Black Rail,Râle noir,Laterallus jamaicensis,Gruiformes,Rallidae,Laterallus,jamaicensis,TRUE,Laterallus jamaicensis,1.776870411
+303,2070,Limpkin,Courlan brun,Aramus guarauna,Gruiformes,Aramidae,Aramus,guarauna,TRUE,Aramus guarauna,3.850647088
+304,2060,Sandhill Crane,Grue du Canada,Antigone canadensis,Gruiformes,Gruidae,Antigone,canadensis,TRUE,Antigone canadensis,11.45521958
+306,2040,Whooping Crane,Grue blanche,Grus americana,Gruiformes,Gruidae,Grus,americana,TRUE,Grus americana,13.3237574
+309,2260,Black-necked Stilt,Échasse d'Amérique,Himantopus mexicanus,Charadriiformes,Recurvirostridae,Himantopus,mexicanus,TRUE,Himantopus mexicanus,5.599142123
+310,2250,American Avocet,Avocette d'Amérique,Recurvirostra americana,Charadriiformes,Recurvirostridae,Recurvirostra,americana,TRUE,Recurvirostra americana,4.550597019
+312,2860,American Oystercatcher,Huîtrier d'Amérique,Haematopus palliatus,Charadriiformes,Haematopodidae,Haematopus,palliatus,TRUE,Haematopus palliatus,10.57979184
+313,2870,Black Oystercatcher,Huîtrier de Bachman,Haematopus bachmani,Charadriiformes,Haematopodidae,Haematopus,bachmani,TRUE,Haematopus bachmani,13.44842345
+316,2700,Black-bellied Plover,Pluvier argenté,Pluvialis squatarola,Charadriiformes,Charadriidae,Pluvialis,squatarola,TRUE,Pluvialis squatarola,7.553302577
+318,2720,American Golden-Plover,Pluvier bronzé,Pluvialis dominica,Charadriiformes,Charadriidae,Pluvialis,dominica,TRUE,Pluvialis dominica,4.088413021
+319,2721,Pacific Golden-Plover,Pluvier fauve,Pluvialis fulva,Charadriiformes,Charadriidae,Pluvialis,fulva,TRUE,Pluvialis fulva,4.149693666
+321,2730,Killdeer,Pluvier kildir,Charadrius vociferus,Charadriiformes,Charadriidae,Charadrius,vociferus,TRUE,Charadrius vociferus,3.924036198
+322,2750,Common Ringed Plover,Pluvier grand-gravelot,Charadrius hiaticula,Charadriiformes,Charadriidae,Charadrius,hiaticula,TRUE,Charadrius hiaticula,3.91495782
+323,2740,Semipalmated Plover,Pluvier semipalmé,Charadrius semipalmatus,Charadriiformes,Charadriidae,Charadrius,semipalmatus,TRUE,Charadrius semipalmatus,3.532632541
+324,2770,Piping Plover,Pluvier siffleur,Charadrius melodus,Charadriiformes,Charadriidae,Charadrius,melodus,TRUE,Charadrius melodus,3.460657405
+328,2800,Wilson's Plover,Pluvier de Wilson,Charadrius wilsonia,Charadriiformes,Charadriidae,Charadrius,wilsonia,TRUE,Charadrius wilsonia,3.796131561
+330,2810,Mountain Plover,Pluvier montagnard,Charadrius montanus,Charadriiformes,Charadriidae,Charadrius,montanus,TRUE,Charadrius montanus,4.01403855
+331,2780,Snowy Plover,Pluvier neigeux,Charadrius nivosus,Charadriiformes,Charadriidae,Charadrius,nivosus,TRUE,Charadrius nivosus,3.148432375
+333,2610,Upland Sandpiper,Maubèche des champs,Bartramia longicauda,Charadriiformes,Scolopacidae,Bartramia,longicauda,TRUE,Bartramia longicauda,3.646180638
+334,2680,Bristle-thighed Curlew,Courlis d'Alaska,Numenius tahitiensis,Charadriiformes,Scolopacidae,Numenius,tahitiensis,TRUE,Numenius tahitiensis,7.916148687
+335,2650,Whimbrel,Courlis corlieu,Numenius phaeopus,Charadriiformes,Scolopacidae,Numenius,phaeopus,TRUE,Numenius phaeopus,6.456258669
+337,2640,Long-billed Curlew,Courlis à long bec,Numenius americanus,Charadriiformes,Scolopacidae,Numenius,americanus,TRUE,Numenius americanus,6.748466121
+341,2500,Bar-tailed Godwit,Barge rousse,Limosa lapponica,Charadriiformes,Scolopacidae,Limosa,lapponica,TRUE,Limosa lapponica,8.434449747
+343,2510,Hudsonian Godwit,Barge hudsonienne,Limosa haemastica,Charadriiformes,Scolopacidae,Limosa,haemastica,TRUE,Limosa haemastica,6.29698994
+344,2490,Marbled Godwit,Barge marbrée,Limosa fedoa,Charadriiformes,Scolopacidae,Limosa,fedoa,TRUE,Limosa fedoa,7.439255425
+345,2830,Ruddy Turnstone,Tournepierre à collier,Arenaria interpres,Charadriiformes,Scolopacidae,Arenaria,interpres,TRUE,Arenaria interpres,6.151059997
+346,2840,Black Turnstone,Tournepierre noir,Arenaria melanocephala,Charadriiformes,Scolopacidae,Arenaria,melanocephala,TRUE,Arenaria melanocephala,5.55907662
+348,2340,Red Knot,Bécasseau maubèche,Calidris canutus,Charadriiformes,Scolopacidae,Calidris,canutus,TRUE,Calidris canutus,6.902901295
+349,2820,Surfbird,Bécasseau du ressac,Calidris virgata,Charadriiformes,Scolopacidae,Calidris,virgata,TRUE,Calidris virgata,5.17868575
+350,2600,Ruff,Combattant varié,Calidris pugnax,Charadriiformes,Scolopacidae,Calidris,pugnax,TRUE,Calidris pugnax,5.195099056
+352,2380,Sharp-tailed Sandpiper,Bécasseau à queue pointue,Calidris acuminata,Charadriiformes,Scolopacidae,Calidris,acuminata,TRUE,Calidris acuminata,5.090169128
+353,2330,Stilt Sandpiper,Bécasseau à échasses,Calidris himantopus,Charadriiformes,Scolopacidae,Calidris,himantopus,TRUE,Calidris himantopus,4.172919294
+358,2422,Red-necked Stint,Bécasseau à col roux,Calidris ruficollis,Charadriiformes,Scolopacidae,Calidris,ruficollis,TRUE,Calidris ruficollis,4.432837722
+359,2480,Sanderling,Bécasseau sanderling,Calidris alba,Charadriiformes,Scolopacidae,Calidris,alba,TRUE,Calidris alba,6.351770644
+360,2430,Dunlin,Bécasseau variable,Calidris alpina,Charadriiformes,Scolopacidae,Calidris,alpina,TRUE,Calidris alpina,7.199400859
+361,2356,Rock Sandpiper,Bécasseau des Aléoutiennes,Calidris ptilocnemis,Charadriiformes,Scolopacidae,Calidris,ptilocnemis,TRUE,Calidris ptilocnemis,4.318243167
+362,2350,Purple Sandpiper,Bécasseau violet,Calidris maritima,Charadriiformes,Scolopacidae,Calidris,maritima,TRUE,Calidris maritima,7.092913384
+363,2410,Baird's Sandpiper,Bécasseau de Baird,Calidris bairdii,Charadriiformes,Scolopacidae,Calidris,bairdii,TRUE,Calidris bairdii,3.570053391
+365,2420,Least Sandpiper,Bécasseau minuscule,Calidris minutilla,Charadriiformes,Scolopacidae,Calidris,minutilla,TRUE,Calidris minutilla,3.403927912
+366,2400,White-rumped Sandpiper,Bécasseau à croupion blanc,Calidris fuscicollis,Charadriiformes,Scolopacidae,Calidris,fuscicollis,TRUE,Calidris fuscicollis,3.609445038
+367,2620,Buff-breasted Sandpiper,Bécasseau roussâtre,Calidris subruficollis,Charadriiformes,Scolopacidae,Calidris,subruficollis,TRUE,Calidris subruficollis,3.93558609
+368,2390,Pectoral Sandpiper,Bécasseau à poitrine cendrée,Calidris melanotos,Charadriiformes,Scolopacidae,Calidris,melanotos,TRUE,Calidris melanotos,4.396025167
+369,2460,Semipalmated Sandpiper,Bécasseau semipalmé,Calidris pusilla,Charadriiformes,Scolopacidae,Calidris,pusilla,TRUE,Calidris pusilla,3.918940547
+370,2470,Western Sandpiper,Bécasseau d'Alaska,Calidris mauri,Charadriiformes,Scolopacidae,Calidris,mauri,TRUE,Calidris mauri,4.041078866
+371,2429,unid. small ''peep'' sandpiper,unid petit Bécasseau sp.,Calidris sp.,Charadriiformes,Scolopacidae,Calidris,sp.,TRUE,Calidris sp.,NA
+372,2310,Short-billed Dowitcher,Bécassin roux,Limnodromus griseus,Charadriiformes,Scolopacidae,Limnodromus,griseus,TRUE,Limnodromus griseus,3.974131267
+373,2320,Long-billed Dowitcher,Bécassin à long bec,Limnodromus scolopaceus,Charadriiformes,Scolopacidae,Limnodromus,scolopaceus,TRUE,Limnodromus scolopaceus,3.771513142
+374,2327,unid. Short-billed / Long-billed Dowitcher,unid Bécassin roux / Bécassin à long bec,Limnodromus griseus / scolopaceus,Charadriiformes,Scolopacidae,Limnodromus,griseus / scolopaceus,TRUE,Limnodromus griseus / scolopaceus,NA
+377,2280,American Woodcock,Bécasse d'Amérique,Scolopax minor,Charadriiformes,Scolopacidae,Scolopax,minor,TRUE,Scolopax minor,3.860470492
+381,2300,Wilson's Snipe,Bécassine de Wilson,Gallinago delicata,Charadriiformes,Scolopacidae,Gallinago,delicata,TRUE,Gallinago delicata,2.606551743
+383,2631,Common Sandpiper,Chevalier guignette,Actitis hypoleucos,Charadriiformes,Scolopacidae,Actitis,hypoleucos,TRUE,Actitis hypoleucos,4.422382063
+384,2630,Spotted Sandpiper,Chevalier grivelé,Actitis macularius,Charadriiformes,Scolopacidae,Actitis,macularius,TRUE,Actitis macularius,3.655805581
+386,2560,Solitary Sandpiper,Chevalier solitaire,Tringa solitaria,Charadriiformes,Scolopacidae,Tringa,solitaria,TRUE,Tringa solitaria,3.038332371
+388,2590,Wandering Tattler,Chevalier errant,Tringa incana,Charadriiformes,Scolopacidae,Tringa,incana,TRUE,Tringa incana,5.4776429
+389,2550,Lesser Yellowlegs,Petit Chevalier,Tringa flavipes,Charadriiformes,Scolopacidae,Tringa,flavipes,TRUE,Tringa flavipes,4.061051404
+390,2580,Willet,Chevalier semipalmé,Tringa semipalmata,Charadriiformes,Scolopacidae,Tringa,semipalmata,TRUE,Tringa semipalmata,5.541358723
+392,2530,Common Greenshank,Chevalier aboyeur,Tringa nebularia,Charadriiformes,Scolopacidae,Tringa,nebularia,TRUE,Tringa nebularia,6.344784467
+393,2540,Greater Yellowlegs,Grand Chevalier,Tringa melanoleuca,Charadriiformes,Scolopacidae,Tringa,melanoleuca,TRUE,Tringa melanoleuca,4.856839238
+394,2555,unid. Greater Yellowlegs / Lesser Yellowlegs,unid Grand Chevalier / Petit Chevalier,Tringa melanoleuca / flavipes,Charadriiformes,Scolopacidae,Tringa,melanoleuca / flavipes,TRUE,Tringa melanoleuca / flavipes,NA
+398,2240,Wilson's Phalarope,Phalarope de Wilson,Phalaropus tricolor,Charadriiformes,Scolopacidae,Phalaropus,tricolor,TRUE,Phalaropus tricolor,3.18429541
+399,2230,Red-necked Phalarope,Phalarope à bec étroit,Phalaropus lobatus,Charadriiformes,Scolopacidae,Phalaropus,lobatus,TRUE,Phalaropus lobatus,3.222582303
+400,2220,Red Phalarope,Phalarope à bec large,Phalaropus fulicarius,Charadriiformes,Scolopacidae,Phalaropus,fulicarius,TRUE,Phalaropus fulicarius,3.253246216
+404,360,Pomarine Jaeger,Labbe pomarin,Stercorarius pomarinus,Charadriiformes,Stercorariidae,Stercorarius,pomarinus,TRUE,Stercorarius pomarinus,9.47828739
+405,370,Parasitic Jaeger,Labbe parasite,Stercorarius parasiticus,Charadriiformes,Stercorariidae,Stercorarius,parasiticus,TRUE,Stercorarius parasiticus,11.21131415
+406,380,Long-tailed Jaeger,Labbe à longue queue,Stercorarius longicaudus,Charadriiformes,Stercorariidae,Stercorarius,longicaudus,TRUE,Stercorarius longicaudus,7.780979306
+408,300,Common Murre,Guillemot marmette,Uria aalge,Charadriiformes,Alcidae,Uria,aalge,TRUE,Uria aalge,14.77223838
+409,310,Thick-billed Murre,Guillemot de Brünnich,Uria lomvia,Charadriiformes,Alcidae,Uria,lomvia,TRUE,Uria lomvia,12.9330039
+410,315,unid. Common Murre / Thick-billed Murre,unid Guillemot marmette / Guillemot de Brünnich,Uria aalge / lomvia,Charadriiformes,Laridae,Uria,aalge / lomvia,TRUE,Uria aalge / lomvia,NA
+411,320,Razorbill,Petit Pingouin,Alca torda,Charadriiformes,Alcidae,Alca,torda,TRUE,Alca torda,16.36956071
+412,270,Black Guillemot,Guillemot à miroir,Cepphus grylle,Charadriiformes,Alcidae,Cepphus,grylle,TRUE,Cepphus grylle,9.218016945
+413,290,Pigeon Guillemot,Guillemot colombin,Cepphus columba,Charadriiformes,Alcidae,Cepphus,columba,TRUE,Cepphus columba,7.710186337
+415,230,Marbled Murrelet,Guillemot marbré,Brachyramphus marmoratus,Charadriiformes,Alcidae,Brachyramphus,marmoratus,TRUE,Brachyramphus marmoratus,6.559886244
+416,240,Kittlitz's Murrelet,Guillemot de Kittlitz,Brachyramphus brevirostris,Charadriiformes,Alcidae,Brachyramphus,brevirostris,TRUE,Brachyramphus brevirostris,6.346917839
+420,210,Ancient Murrelet,Guillemot à cou blanc,Synthliboramphus antiquus,Charadriiformes,Alcidae,Synthliboramphus,antiquus,TRUE,Synthliboramphus antiquus,5.455651679
+421,160,Cassin's Auklet,Starique de Cassin,Ptychoramphus aleuticus,Charadriiformes,Alcidae,Ptychoramphus,aleuticus,TRUE,Ptychoramphus aleuticus,6.853379493
+426,150,Rhinoceros Auklet,Macareux rhinocéros,Cerorhinca monocerata,Charadriiformes,Alcidae,Cerorhinca,monocerata,TRUE,Cerorhinca monocerata,7.084329275
+428,140,Horned Puffin,Macareux cornu,Fratercula corniculata,Charadriiformes,Alcidae,Fratercula,corniculata,TRUE,Fratercula corniculata,9.558374051
+429,120,Tufted Puffin,Macareux huppé,Fratercula cirrhata,Charadriiformes,Alcidae,Fratercula,cirrhata,TRUE,Fratercula cirrhata,9.595511299
+431,400,Black-legged Kittiwake,Mouette tridactyle,Rissa tridactyla,Charadriiformes,Laridae,Rissa,tridactyla,TRUE,Rissa tridactyla,9.781390857
+434,620,Sabine's Gull,Mouette de Sabine,Xema sabini,Charadriiformes,Laridae,Xema,sabini,TRUE,Xema sabini,6.057992649
+435,600,Bonaparte's Gull,Mouette de Bonaparte,Chroicocephalus philadelphia,Charadriiformes,Laridae,Chroicocephalus,philadelphia,TRUE,Chroicocephalus philadelphia,6.67781153
+437,551,Black-headed Gull,Mouette rieuse,Chroicocephalus ridibundus,Charadriiformes,Laridae,Chroicocephalus,ridibundus,TRUE,Chroicocephalus ridibundus,9.848458435
+438,601,Little Gull,Mouette pygmée,Hydrocoloeus minutus,Charadriiformes,Laridae,Hydrocoloeus,minutus,TRUE,Hydrocoloeus minutus,5.336173634
+439,610,Ross's Gull,Mouette rosée,Rhodostethia rosea,Charadriiformes,Laridae,Rhodostethia,rosea,TRUE,Rhodostethia rosea,5.354197202
+441,580,Laughing Gull,Mouette atricille,Leucophaeus atricilla,Charadriiformes,Laridae,Leucophaeus,atricilla,TRUE,Leucophaeus atricilla,7.865540035
+442,590,Franklin's Gull,Mouette de Franklin,Leucophaeus pipixcan,Charadriiformes,Laridae,Leucophaeus,pipixcan,TRUE,Leucophaeus pipixcan,7.124439976
+446,570,Heermann's Gull,Goéland de Heermann,Larus heermanni,Charadriiformes,Laridae,Larus,heermanni,TRUE,Larus heermanni,8.913901392
+448,550,Short-billed Gull,Goéland à bec court,Larus brachyrhynchus,Charadriiformes,Laridae,Larus,brachyrhynchus,TRUE,Larus brachyrhynchus,10.67097076
+449,540,Ring-billed Gull,Goéland à bec cerclé,Larus delawarensis,Charadriiformes,Laridae,Larus,delawarensis,TRUE,Larus delawarensis,10.06890851
+450,490,Western Gull,Goéland d'Audubon,Larus occidentalis,Charadriiformes,Laridae,Larus,occidentalis,TRUE,Larus occidentalis,12.27999724
+452,530,California Gull,Goéland de Californie,Larus californicus,Charadriiformes,Laridae,Larus,californicus,TRUE,Larus californicus,9.7533411310000009
+453,510,Herring Gull,Goéland argenté,Larus argentatus,Charadriiformes,Laridae,Larus,argentatus,TRUE,Larus argentatus,14.07477897
+455,430,Iceland Gull,Goéland arctique,Larus glaucoides,Charadriiformes,Laridae,Larus,glaucoides,TRUE,Larus glaucoides,10.84160531
+456,500,Lesser Black-backed Gull,Goéland brun,Larus fuscus,Charadriiformes,Laridae,Larus,fuscus,TRUE,Larus fuscus,12.62376603
+457,480,Slaty-backed Gull,Goéland à manteau ardoisé,Larus schistisagus,Charadriiformes,Laridae,Larus,schistisagus,TRUE,Larus schistisagus,9.509962568
+458,440,Glaucous-winged Gull,Goéland à ailes grises,Larus glaucescens,Charadriiformes,Laridae,Larus,glaucescens,TRUE,Larus glaucescens,13.81947507
+459,495,hybrid Western Gull x Glaucous-winged Gull,hybride Goéland à ailes grises x d'Audubon,Larus occidentalis x glaucescens,Charadriiformes,Laridae,Larus,occidentalis x glaucescens,TRUE,Larus occidentalis x glaucescens,NA
+460,420,Glaucous Gull,Goéland bourgmestre,Larus hyperboreus,Charadriiformes,Laridae,Larus,hyperboreus,TRUE,Larus hyperboreus,10.6158173
+461,470,Great Black-backed Gull,Goéland marin,Larus marinus,Charadriiformes,Laridae,Larus,marinus,TRUE,Larus marinus,12.51374299
+463,534,unid. gull,unid Goéland sp.,Gull sp.,Charadriiformes,Laridae,Gull,sp.,TRUE,Gull sp.,NA
+470,730,Aleutian Tern,Sterne des Aléoutiennes,Onychoprion aleuticus,Charadriiformes,Laridae,Onychoprion,aleuticus,TRUE,Onychoprion aleuticus,8.94876682
+471,740,Least Tern,Petite Sterne,Sternula antillarum,Charadriiformes,Laridae,Sternula,antillarum,TRUE,Sternula antillarum,8.372812288
+473,630,Gull-billed Tern,Sterne hansel,Gelochelidon nilotica,Charadriiformes,Laridae,Gelochelidon,nilotica,TRUE,Gelochelidon nilotica,9.747824285
+474,640,Caspian Tern,Sterne caspienne,Hydroprogne caspia,Charadriiformes,Laridae,Hydroprogne,caspia,TRUE,Hydroprogne caspia,9.749406689
+475,770,Black Tern,Guifette noire,Chlidonias niger,Charadriiformes,Laridae,Chlidonias,niger,TRUE,Chlidonias niger,5.682020735
+478,720,Roseate Tern,Sterne de Dougall,Sterna dougallii,Charadriiformes,Laridae,Sterna,dougallii,TRUE,Sterna dougallii,8.35663561
+479,700,Common Tern,Sterne pierregarin,Sterna hirundo,Charadriiformes,Laridae,Sterna,hirundo,TRUE,Sterna hirundo,10.39724168
+480,710,Arctic Tern,Sterne arctique,Sterna paradisaea,Charadriiformes,Laridae,Sterna,paradisaea,TRUE,Sterna paradisaea,11.27037394
+481,690,Forster's Tern,Sterne de Forster,Sterna forsteri,Charadriiformes,Laridae,Sterna,forsteri,TRUE,Sterna forsteri,7.679346806
+482,650,Royal Tern,Sterne royale,Thalasseus maximus,Charadriiformes,Laridae,Thalasseus,maximus,TRUE,Thalasseus maximus,10.50757482
+483,670,Sandwich Tern,Sterne caugek,Thalasseus sandvicensis,Charadriiformes,Laridae,Thalasseus,sandvicensis,TRUE,Thalasseus sandvicensis,8.530597521
+484,660,Elegant Tern,Sterne élégante,Thalasseus elegans,Charadriiformes,Laridae,Thalasseus,elegans,TRUE,Thalasseus elegans,8.902271266
+485,634,unid. tern,unid Sterne sp.,Tern sp.,Charadriiformes,Laridae,Tern,sp.,TRUE,Tern sp.,NA
+486,800,Black Skimmer,Bec-en-ciseaux noir,Rynchops niger,Charadriiformes,Laridae,Rynchops,niger,TRUE,Rynchops niger,7.011577329
+489,1130,Red-billed Tropicbird,Phaéton à bec rouge,Phaethon aethereus,Phaethontiformes,Phaethontidae,Phaethon,aethereus,TRUE,Phaethon aethereus,10.371904
+491,110,Red-throated Loon,Plongeon catmarin,Gavia stellata,Gaviiformes,Gaviidae,Gavia,stellata,TRUE,Gavia stellata,8.185562761
+492,90,Arctic Loon,Plongeon arctique,Gavia arctica,Gaviiformes,Gaviidae,Gavia,arctica,TRUE,Gavia arctica,9.441438261
+493,100,Pacific Loon,Plongeon du Pacifique,Gavia pacifica,Gaviiformes,Gaviidae,Gavia,pacifica,TRUE,Gavia pacifica,9.053883332
+494,70,Common Loon,Plongeon huard,Gavia immer,Gaviiformes,Gaviidae,Gavia,immer,TRUE,Gavia immer,11.29641116
+495,80,Yellow-billed Loon,Plongeon à bec blanc,Gavia adamsii,Gaviiformes,Gaviidae,Gavia,adamsii,TRUE,Gavia adamsii,11.08256021
+496,77,unid. loon,plongeon sp.,Gavia sp.,Gaviiformes,Gaviidae,Gavia,sp.,TRUE,Gavia sp.,NA
+513,1060,Leach's Storm-Petrel,Océanite cul-blanc,Hydrobates leucorhous,Procellariiformes,Hydrobatidae,Hydrobates,leucorhous,TRUE,Hydrobates leucorhous,14.81217019
+523,860,Northern Fulmar,Fulmar boréal,Fulmarus glacialis,Procellariiformes,Procellariidae,Fulmarus,glacialis,TRUE,Fulmarus glacialis,25.34141952
+547,880,Cory's Shearwater,Puffin cendré,Calonectris diomedea,Procellariiformes,Procellariidae,Calonectris,diomedea,TRUE,Calonectris diomedea,13.74119658
+558,900,Manx Shearwater,Puffin des Anglais,Puffinus puffinus,Procellariiformes,Procellariidae,Puffinus,puffinus,TRUE,Puffinus puffinus,19.8224991
+565,1880,Wood Stork,Tantale d'Amérique,Mycteria americana,Ciconiiformes,Ciconiidae,Mycteria,americana,TRUE,Mycteria americana,8.840286446
+567,1280,Magnificent Frigatebird,Frégate superbe,Fregata magnificens,Suliformes,Fregatidae,Fregata,magnificens,TRUE,Fregata magnificens,12.58221354
+569,1140,Masked Booby,Fou masqué,Sula dactylatra,Suliformes,Sulidae,Sula,dactylatra,TRUE,Sula dactylatra,11.092777
+571,1141,Blue-footed Booby,Fou à pieds bleus,Sula nebouxii,Suliformes,Sulidae,Sula,nebouxii,TRUE,Sula nebouxii,9.578962811
+572,1150,Brown Booby,Fou brun,Sula leucogaster,Suliformes,Sulidae,Sula,leucogaster,TRUE,Sula leucogaster,11.58103036
+574,1170,Northern Gannet,Fou de Bassan,Morus bassanus,Suliformes,Sulidae,Morus,bassanus,TRUE,Morus bassanus,15.03603245
+575,1180,Anhinga,Anhinga d'Amérique,Anhinga anhinga,Suliformes,Anhingidae,Anhinga,anhinga,TRUE,Anhinga anhinga,6.251448767
+576,1220,Brandt's Cormorant,Cormoran de Brandt,Urile penicillatus,Suliformes,Phalacrocoracidae,Urile,penicillatus,TRUE,Urile penicillatus,7.174787446
+578,1230,Pelagic Cormorant,Cormoran pélagique,Urile pelagicus,Suliformes,Phalacrocoracidae,Urile,pelagicus,TRUE,Urile pelagicus,7.14754948
+579,1207,unid. west coast cormorant,unid Cormoran de la côte ouest,Urile sp.,Suliformes,Phalacrocoracidae,Urile,sp.,TRUE,Urile sp.,NA
+580,1190,Great Cormorant,Grand Cormoran,Phalacrocorax carbo,Suliformes,Phalacrocoracidae,Phalacrocorax,carbo,TRUE,Phalacrocorax carbo,8.710598315
+581,1200,Double-crested Cormorant,Cormoran à aigrettes,Nannopterum auritum,Suliformes,Phalacrocoracidae,Nannopterum,auritum,TRUE,Nannopterum auritum,7.21950274
+582,1206,unid. Double-crested Cormorant / Great Cormorant,Cormoran à aigrettes / Grand Cormoran,Nannopterum auritus / carbo,Suliformes,Phalacrocoracidae,Nannopterum,auritus / carbo,TRUE,Nannopterum auritus / carbo,NA
+583,1210,Neotropic Cormorant,Cormoran vigua,Nannopterum brasilianum,Suliformes,Phalacrocoracidae,Nannopterum,brasilianum,TRUE,Nannopterum brasilianum,5.464667654
+584,1205,unid. Neotropic / Double-crested Cormorant,Cormoran vigua / Cormoran à aigrettes,Nannopterum brasilianum / auritum,Suliformes,Phalacrocoracidae,Nannopterum,brasilianum / auritum,TRUE,Nannopterum brasilianum / auritum,NA
+585,1250,American White Pelican,Pélican d'Amérique,Pelecanus erythrorhynchos,Pelecaniformes,Pelecanidae,Pelecanus,erythrorhynchos,TRUE,Pelecanus erythrorhynchos,15.03473199
+586,1260,Brown Pelican,Pélican brun,Pelecanus occidentalis,Pelecaniformes,Pelecanidae,Pelecanus,occidentalis,TRUE,Pelecanus occidentalis,9.953688603
+588,1900,American Bittern,Butor d'Amérique,Botaurus lentiginosus,Pelecaniformes,Ardeidae,Botaurus,lentiginosus,TRUE,Botaurus lentiginosus,3.52468164
+590,1910,Least Bittern,Petit Blongios,Ixobrychus exilis,Pelecaniformes,Ardeidae,Ixobrychus,exilis,TRUE,Ixobrychus exilis,3.135139649
+592,1940,Great Blue Heron,Grand Héron,Ardea herodias,Pelecaniformes,Ardeidae,Ardea,herodias,TRUE,Ardea herodias,7.44001806
+593,1920,(Great White Heron) Great Blue Heron,Grand Héron (blanche),Ardea herodias occidentalis,Pelecaniformes,Ardeidae,Ardea,herodias occidentalis,TRUE,Ardea herodias occidentalis,7.44001806
+595,1960,Great Egret,Grande Aigrette,Ardea alba,Pelecaniformes,Ardeidae,Ardea,alba,TRUE,Ardea alba,6.036657469
+598,1961,Little Egret,Aigrette garzette,Egretta garzetta,Pelecaniformes,Ardeidae,Egretta,garzetta,TRUE,Egretta garzetta,4.243232507
+600,1970,Snowy Egret,Aigrette neigeuse,Egretta thula,Pelecaniformes,Ardeidae,Egretta,thula,TRUE,Egretta thula,4.106743696
+601,2000,Little Blue Heron,Aigrette bleue,Egretta caerulea,Pelecaniformes,Ardeidae,Egretta,caerulea,TRUE,Egretta caerulea,3.463573215
+602,1990,Tricolored Heron,Aigrette tricolore,Egretta tricolor,Pelecaniformes,Ardeidae,Egretta,tricolor,TRUE,Egretta tricolor,5.300525251
+603,1980,Reddish Egret,Aigrette roussâtre,Egretta rufescens,Pelecaniformes,Ardeidae,Egretta,rufescens,TRUE,Egretta rufescens,8.27913135
+604,2001,Cattle Egret,Héron garde-boeufs,Bubulcus ibis,Pelecaniformes,Ardeidae,Bubulcus,ibis,TRUE,Bubulcus ibis,6.069601865
+606,2010,Green Heron,Héron vert,Butorides virescens,Pelecaniformes,Ardeidae,Butorides,virescens,TRUE,Butorides virescens,4.210398689
+609,2020,Black-crowned Night-Heron,Bihoreau gris,Nycticorax nycticorax,Pelecaniformes,Ardeidae,Nycticorax,nycticorax,TRUE,Nycticorax nycticorax,5.994405196
+610,2030,Yellow-crowned Night-Heron,Bihoreau violacé,Nyctanassa violacea,Pelecaniformes,Ardeidae,Nyctanassa,violacea,TRUE,Nyctanassa violacea,4.640267872
+611,2035,unid Black-crowned / Yellow-crowned Night-Heron,unid Bihoreau gris / Bihoreau violacé,Nycticorax / Nyctanassa nycticorax / violacea,Pelecaniformes,Ardeidae,Nycticorax / Nyctanassa,nycticorax / violacea,TRUE,Nycticorax / Nyctanassa nycticorax / violacea,NA
+613,1945,unid. heron / egret,unid héron / aigrette sp.,Ardeid sp.,Pelecaniformes,Ardeidae,Ardeid,sp.,TRUE,Ardeid sp.,NA
+614,1840,White Ibis,Ibis blanc,Eudocimus albus,Pelecaniformes,Threskiornithidae,Eudocimus,albus,TRUE,Eudocimus albus,6.506976058
+616,1860,Glossy Ibis,Ibis falcinelle,Plegadis falcinellus,Pelecaniformes,Threskiornithidae,Plegadis,falcinellus,TRUE,Plegadis falcinellus,7.246297223
+617,1870,White-faced Ibis,Ibis à face blanche,Plegadis chihi,Pelecaniformes,Threskiornithidae,Plegadis,chihi,TRUE,Plegadis chihi,5.140344254
+618,1861,unid. Glossy Ibis / White-faced Ibis,unid Ibis falcinelle / Ibis à face blanche,Plegadis falcinellus / chihi,Pelecaniformes,Threskiornithidae,Plegadis,falcinellus / chihi,TRUE,Plegadis falcinellus / chihi,NA
+619,1830,Roseate Spoonbill,Spatule rosée,Platalea ajaja,Pelecaniformes,Threskiornithidae,Platalea,ajaja,TRUE,Platalea ajaja,7.852077571
+620,3240,California Condor,Condor de Californie,Gymnogyps californianus,Cathartiformes,Cathartidae,Gymnogyps,californianus,TRUE,Gymnogyps californianus,19.02782152
+622,3260,Black Vulture,Urubu noir,Coragyps atratus,Cathartiformes,Cathartidae,Coragyps,atratus,TRUE,Coragyps atratus,14.19923167
+623,3250,Turkey Vulture,Urubu à tête rouge,Cathartes aura,Cathartiformes,Cathartidae,Cathartes,aura,TRUE,Cathartes aura,6.805193786
+624,3255,unid. Black Vulture / Turkey Vulture,unid Urubu noir / Urubu à tête rouge,Coragyps / Cathartes atratus / aura,Cathartiformes,Cathartidae,Coragyps / Cathartes,atratus / aura,TRUE,Coragyps / Cathartes atratus / aura,NA
+626,3640,Osprey,Balbuzard pêcheur,Pandion haliaetus,Accipitriformes,Pandionidae,Pandion,haliaetus,TRUE,Pandion haliaetus,9.901877185
+627,3280,White-tailed Kite,Élanion à queue blanche,Elanus leucurus,Accipitriformes,Accipitridae,Elanus,leucurus,TRUE,Elanus leucurus,4.286761197
+628,3271,Hook-billed Kite,Bec-en-croc de Temminck,Chondrohierax uncinatus,Accipitriformes,Accipitridae,Chondrohierax,uncinatus,TRUE,Chondrohierax uncinatus,5.812065414
+630,3270,Swallow-tailed Kite,Naucler à queue fourchue,Elanoides forficatus,Accipitriformes,Accipitridae,Elanoides,forficatus,TRUE,Elanoides forficatus,6.56465429
+633,3490,Golden Eagle,Aigle royal,Aquila chrysaetos,Accipitriformes,Accipitridae,Aquila,chrysaetos,TRUE,Aquila chrysaetos,16.25526957
+638,3310,Northern Harrier,Busard des marais,Circus hudsonius,Accipitriformes,Accipitridae,Circus,hudsonius,TRUE,Circus hudsonius,4.471506812
+640,3320,Sharp-shinned Hawk,Épervier brun,Accipiter striatus,Accipitriformes,Accipitridae,Accipiter,striatus,TRUE,Accipiter striatus,5.472726925
+641,3330,Cooper's Hawk,Épervier de Cooper,Accipiter cooperii,Accipitriformes,Accipitridae,Accipiter,cooperii,TRUE,Accipiter cooperii,5.552181056
+643,3340,Northern Goshawk,Autour des palombes,Accipiter gentilis,Accipitriformes,Accipitridae,Accipiter,gentilis,TRUE,Accipiter gentilis,7.483527603
+644,3333,unid. Accipiter hawk,unid épervier sp.,Accipiter sp.,Accipitriformes,Accipitridae,Accipiter,sp.,TRUE,Accipiter sp.,NA
+646,3520,Bald Eagle,Pygargue à tête blanche,Haliaeetus leucocephalus,Accipitriformes,Accipitridae,Haliaeetus,leucocephalus,TRUE,Haliaeetus leucocephalus,14.1937938
+649,3290,Mississippi Kite,Milan du Mississippi,Ictinia mississippiensis,Accipitriformes,Accipitridae,Ictinia,mississippiensis,TRUE,Ictinia mississippiensis,5.087532041
+653,3300,Snail Kite,Milan des marais,Rostrhamus sociabilis,Accipitriformes,Accipitridae,Rostrhamus,sociabilis,TRUE,Rostrhamus sociabilis,6.950263444
+654,3450,Common Black Hawk,Buse noire,Buteogallus anthracinus,Accipitriformes,Accipitridae,Buteogallus,anthracinus,TRUE,Buteogallus anthracinus,6.337329136
+658,3350,Harris's Hawk,Buse de Harris,Parabuteo unicinctus,Accipitriformes,Accipitridae,Parabuteo,unicinctus,TRUE,Parabuteo unicinctus,6.591665147
+659,3410,White-tailed Hawk,Buse à queue blanche,Geranoaetus albicaudatus,Accipitriformes,Accipitridae,Geranoaetus,albicaudatus,TRUE,Geranoaetus albicaudatus,6.56131443
+661,3460,Gray Hawk,Buse grise,Buteo plagiatus,Accipitriformes,Accipitridae,Buteo,plagiatus,TRUE,Buteo plagiatus,5.921470545
+662,3390,Red-shouldered Hawk,Buse à épaulettes,Buteo lineatus,Accipitriformes,Accipitridae,Buteo,lineatus,TRUE,Buteo lineatus,5.553059841
+663,3430,Broad-winged Hawk,Petite Buse,Buteo platypterus,Accipitriformes,Accipitridae,Buteo,platypterus,TRUE,Buteo platypterus,5.770490449
+664,3440,Short-tailed Hawk,Buse à queue courte,Buteo brachyurus,Accipitriformes,Accipitridae,Buteo,brachyurus,TRUE,Buteo brachyurus,6.410114842
+665,3420,Swainson's Hawk,Buse de Swainson,Buteo swainsoni,Accipitriformes,Accipitridae,Buteo,swainsoni,TRUE,Buteo swainsoni,8.447092745
+666,3400,Zone-tailed Hawk,Buse à queue barrée,Buteo albonotatus,Accipitriformes,Accipitridae,Buteo,albonotatus,TRUE,Buteo albonotatus,6.688781903
+667,3370,Red-tailed Hawk (all forms),Buse à queue rousse (toutes les formes),Buteo jamaicensis,Accipitriformes,Accipitridae,Buteo,jamaicensis,TRUE,Buteo jamaicensis,9.188919209
+668,3380,(Harlan's Hawk) Red-tailed Hawk,Buse à queue rousse (groupe harlani),Buteo jamaicensis harlani,Accipitriformes,Accipitridae,Buteo,jamaicensis harlani,TRUE,Buteo jamaicensis harlani,9.188919209
+669,3470,Rough-legged Hawk,Buse pattue,Buteo lagopus,Accipitriformes,Accipitridae,Buteo,lagopus,TRUE,Buteo lagopus,7.360487325
+670,3480,Ferruginous Hawk,Buse rouilleuse,Buteo regalis,Accipitriformes,Accipitridae,Buteo,regalis,TRUE,Buteo regalis,6.860257537
+672,3451,unid. Buteo hawk,unid Buse sp.,Buteo sp.,Accipitriformes,Accipitridae,Buteo,sp.,TRUE,Buteo sp.,NA
+673,3650,Barn Owl,Effraie des clochers,Tyto alba,Strigiformes,Tytonidae,Tyto,alba,TRUE,Tyto alba,5.81585489
+675,3740,Flammulated Owl,Petit-duc nain,Psiloscops flammeolus,Strigiformes,Strigidae,Psiloscops,flammeolus,TRUE,Psiloscops flammeolus,2.988728353
+676,3731,Whiskered Screech-Owl,Petit-duc à moustaches,Megascops trichopsis,Strigiformes,Strigidae,Megascops,trichopsis,TRUE,Megascops trichopsis,2.804824262
+679,3732,Western Screech-Owl,Petit-duc des montagnes,Megascops kennicottii,Strigiformes,Strigidae,Megascops,kennicottii,TRUE,Megascops kennicottii,3.55858021
+680,3730,Eastern Screech-Owl,Petit-duc maculé,Megascops asio,Strigiformes,Strigidae,Megascops,asio,TRUE,Megascops asio,3.933060173
+685,3750,Great Horned Owl,Grand-duc d'Amérique,Bubo virginianus,Strigiformes,Strigidae,Bubo,virginianus,TRUE,Bubo virginianus,7.580364415
+686,3760,Snowy Owl,Harfang des neiges,Bubo scandiacus,Strigiformes,Strigidae,Bubo,scandiacus,TRUE,Bubo scandiacus,8.099700474
+687,3770,Northern Hawk Owl,Chouette épervière,Surnia ulula,Strigiformes,Strigidae,Surnia,ulula,TRUE,Surnia ulula,3.258330764
+688,3790,Northern Pygmy-Owl,Chevêchette naine,Glaucidium gnoma,Strigiformes,Strigidae,Glaucidium,gnoma,TRUE,Glaucidium gnoma,2.412193292
+692,3800,Ferruginous Pygmy-Owl,Chevêchette brune,Glaucidium brasilianum,Strigiformes,Strigidae,Glaucidium,brasilianum,TRUE,Glaucidium brasilianum,2.930105264
+693,3810,Elf Owl,Chevêchette des saguaros,Micrathene whitneyi,Strigiformes,Strigidae,Micrathene,whitneyi,TRUE,Micrathene whitneyi,2.606385289
+694,3780,Burrowing Owl,Chevêche des terriers,Athene cunicularia,Strigiformes,Strigidae,Athene,cunicularia,TRUE,Athene cunicularia,3.059077808
+695,3690,Spotted Owl,Chouette tachetée,Strix occidentalis,Strigiformes,Strigidae,Strix,occidentalis,TRUE,Strix occidentalis,6.652308631
+696,3680,Barred Owl,Chouette rayée,Strix varia,Strigiformes,Strigidae,Strix,varia,TRUE,Strix varia,6.404935458
+701,3700,Great Gray Owl,Chouette lapone,Strix nebulosa,Strigiformes,Strigidae,Strix,nebulosa,TRUE,Strix nebulosa,5.974684397
+702,3660,Long-eared Owl,Hibou moyen-duc,Asio otus,Strigiformes,Strigidae,Asio,otus,TRUE,Asio otus,4.927442511
+704,3670,Short-eared Owl,Hibou des marais,Asio flammeus,Strigiformes,Strigidae,Asio,flammeus,TRUE,Asio flammeus,3.982087093
+706,3710,Boreal Owl,Nyctale de Tengmalm,Aegolius funereus,Strigiformes,Strigidae,Aegolius,funereus,TRUE,Aegolius funereus,4.116172628
+707,3720,Northern Saw-whet Owl,Petite Nyctale,Aegolius acadicus,Strigiformes,Strigidae,Aegolius,acadicus,TRUE,Aegolius acadicus,2.61847962
+714,3890,Elegant Trogon,Trogon élégant,Trogon elegans,Trogoniformes,Trogonidae,Trogon,elegans,TRUE,Trogon elegans,3.930487667
+727,3901,Ringed Kingfisher,Martin-pêcheur à ventre roux,Megaceryle torquata,Coraciiformes,Alcedinidae,Megaceryle,torquata,TRUE,Megaceryle torquata,4.48502311
+728,3900,Belted Kingfisher,Martin-pêcheur d'Amérique,Megaceryle alcyon,Coraciiformes,Alcedinidae,Megaceryle,alcyon,TRUE,Megaceryle alcyon,2.692133072
+731,3910,Green Kingfisher,Martin-pêcheur vert,Chloroceryle americana,Coraciiformes,Alcedinidae,Chloroceryle,americana,TRUE,Chloroceryle americana,2.714784873
+739,4080,Lewis's Woodpecker,Pic de Lewis,Melanerpes lewis,Piciformes,Picidae,Melanerpes,lewis,TRUE,Melanerpes lewis,2.232979572
+740,4060,Red-headed Woodpecker,Pic à tête rouge,Melanerpes erythrocephalus,Piciformes,Picidae,Melanerpes,erythrocephalus,TRUE,Melanerpes erythrocephalus,2.651364715
+741,4070,Acorn Woodpecker,Pic glandivore,Melanerpes formicivorus,Piciformes,Picidae,Melanerpes,formicivorus,TRUE,Melanerpes formicivorus,4.71306791
+746,4110,Gila Woodpecker,Pic des saguaros,Melanerpes uropygialis,Piciformes,Picidae,Melanerpes,uropygialis,TRUE,Melanerpes uropygialis,2.646667733
+747,4100,Golden-fronted Woodpecker,Pic à front doré,Melanerpes aurifrons,Piciformes,Picidae,Melanerpes,aurifrons,TRUE,Melanerpes aurifrons,2.595243572
+748,4090,Red-bellied Woodpecker,Pic à ventre roux,Melanerpes carolinus,Piciformes,Picidae,Melanerpes,carolinus,TRUE,Melanerpes carolinus,2.670782129
+749,4040,Williamson's Sapsucker,Pic de Williamson,Sphyrapicus thyroideus,Piciformes,Picidae,Sphyrapicus,thyroideus,TRUE,Sphyrapicus thyroideus,1.942203555
+750,4020,Yellow-bellied Sapsucker,Pic maculé,Sphyrapicus varius,Piciformes,Picidae,Sphyrapicus,varius,TRUE,Sphyrapicus varius,2.039788041
+751,4021,Red-naped Sapsucker,Pic à nuque rouge,Sphyrapicus nuchalis,Piciformes,Picidae,Sphyrapicus,nuchalis,TRUE,Sphyrapicus nuchalis,1.950032103
+752,4030,Red-breasted Sapsucker,Pic à poitrine rouge,Sphyrapicus ruber,Piciformes,Picidae,Sphyrapicus,ruber,TRUE,Sphyrapicus ruber,1.881848945
+753,4022,Sapsuckers (Yellow-bellied/Red-naped/Red-breasted/Williamson's),Pics buveur de sève (maculé/à nuque rouge/à poitrine rouge),Sphyrapicus sp.,Piciformes,Picidae,Sphyrapicus,sp.,TRUE,Sphyrapicus sp.,1.953468161
+754,4010,American Three-toed Woodpecker,Pic à dos rayé,Picoides dorsalis,Piciformes,Picidae,Picoides,dorsalis,TRUE,Picoides dorsalis,3.07341632
+755,4000,Black-backed Woodpecker,Pic à dos noir,Picoides arcticus,Piciformes,Picidae,Picoides,arcticus,TRUE,Picoides arcticus,3.350072462
+757,3940,Downy Woodpecker,Pic mineur,Dryobates pubescens,Piciformes,Picidae,Dryobates,pubescens,TRUE,Dryobates pubescens,2.534501603
+758,3970,Nuttall's Woodpecker,Pic de Nuttall,Dryobates nuttallii,Piciformes,Picidae,Dryobates,nuttallii,TRUE,Dryobates nuttallii,2.60174637
+759,3960,Ladder-backed Woodpecker,Pic arlequin,Dryobates scalaris,Piciformes,Picidae,Dryobates,scalaris,TRUE,Dryobates scalaris,2.517709841
+760,3950,Red-cockaded Woodpecker,Pic à face blanche,Dryobates borealis,Piciformes,Picidae,Dryobates,borealis,TRUE,Dryobates borealis,3.03043827
+761,3930,Hairy Woodpecker,Pic chevelu,Dryobates villosus,Piciformes,Picidae,Dryobates,villosus,TRUE,Dryobates villosus,3.112775309
+762,3990,White-headed Woodpecker,Pic à tête blanche,Dryobates albolarvatus,Piciformes,Picidae,Dryobates,albolarvatus,TRUE,Dryobates albolarvatus,2.593478519
+764,3975,Arizona Woodpecker,Pic d'Arizona,Dryobates arizonae,Piciformes,Picidae,Dryobates,arizonae,TRUE,Dryobates arizonae,2.761360186
+768,4123,Northern Flicker (all forms),Pic flamboyant (toutes les formes),Colaptes auratus,Piciformes,Picidae,Colaptes,auratus,TRUE,Colaptes auratus,2.701236365
+769,4120,(Yellow-shafted Flicker) Northern Flicker,Pic flamboyant (groupe auratus),Colaptes auratus auratus,Piciformes,Picidae,Colaptes,auratus auratus,TRUE,Colaptes auratus auratus,2.701236365
+770,4130,(Red-shafted Flicker) Northern Flicker,Pic flamboyant (groupe cafer),Colaptes auratus cafer,Piciformes,Picidae,Colaptes,auratus cafer,TRUE,Colaptes auratus cafer,2.701236365
+771,4125,hybrid Northern Flicker (Red x Yellow-shafted),hybride Pic flamboyant (cafer x auratus),Colaptes auratus auratus x auratus cafer,Piciformes,Picidae,Colaptes,auratus auratus x auratus cafer,TRUE,Colaptes auratus auratus x auratus cafer,NA
+772,4140,Gilded Flicker,Pic chrysoïde,Colaptes chrysoides,Piciformes,Picidae,Colaptes,chrysoides,TRUE,Colaptes chrysoides,3.274948209
+775,4050,Pileated Woodpecker,Grand Pic,Dryocopus pileatus,Piciformes,Picidae,Dryocopus,pileatus,TRUE,Dryocopus pileatus,4.378856859
+777,3920,unid. woodpecker,unid Pic sp.,Woodpecker sp.,Piciformes,Picidae,Woodpecker,sp.,TRUE,Woodpecker sp.,NA
+782,3620,Crested Caracara,Caracara huppé,Caracara plancus,Falconiformes,Falconidae,Caracara,plancus,TRUE,Caracara plancus,7.753500149
+784,3600,American Kestrel,Crécerelle d'Amérique,Falco sparverius,Falconiformes,Falconidae,Falco,sparverius,TRUE,Falco sparverius,3.029874828
+786,3570,Merlin,Faucon émerillon,Falco columbarius,Falconiformes,Falconidae,Falco,columbarius,TRUE,Falco columbarius,3.176692949
+788,3590,Aplomado Falcon,Faucon aplomado,Falco femoralis,Falconiformes,Falconidae,Falco,femoralis,TRUE,Falco femoralis,4.158521747
+791,3540,Gyrfalcon,Faucon gerfaut,Falco rusticolus,Falconiformes,Falconidae,Falco,rusticolus,TRUE,Falco rusticolus,6.127488041
+792,3560,Peregrine Falcon,Faucon pèlerin,Falco peregrinus,Falconiformes,Falconidae,Falco,peregrinus,TRUE,Falco peregrinus,5.712366517
+793,3550,Prairie Falcon,Faucon des prairies,Falco mexicanus,Falconiformes,Falconidae,Falco,mexicanus,TRUE,Falco mexicanus,4.955306116
+794,3824,Monk Parakeet,Conure veuve,Myiopsitta monachus,Psittaciformes,Psittacidae,Myiopsitta,monachus,TRUE,Myiopsitta monachus,5.477657609
+797,51830,Nanday Parakeet,Conure nanday,Aratinga nenday,Psittaciformes,Psittacidae,Aratinga,nenday,TRUE,Aratinga nenday,3.825958896
+811,52021,Yellow-chevroned Parakeet,Toui à ailes jaunes,Brotogeris chiriri,Psittaciformes,Psittacidae,Brotogeris,chiriri,TRUE,Brotogeris chiriri,7.037671657
+812,3827,unid. White-winged / Yellow-chevroned Parakeet,Toui à ailes variées / Toui à ailes jaunes,Brotogeris versicolurus / chiriri,Psittaciformes,Psittacidae,Brotogeris,versicolurus / chiriri,TRUE,Brotogeris versicolurus / chiriri,NA
+817,3826,Red-crowned Parrot,Amazone à joues vertes,Amazona viridigenalis,Psittaciformes,Psittacidae,Amazona,viridigenalis,TRUE,Amazona viridigenalis,10.24997758
+824,3823,Rose-ringed Parakeet,Perruche à collier,Psittacula krameri,Psittaciformes,Psittaculidae,Psittacula,krameri,TRUE,Psittacula krameri,10.31522925
+826,3822,Budgerigar,Perruche ondulée,Melopsittacus undulatus,Psittaciformes,Psittaculidae,Melopsittacus,undulatus,TRUE,Melopsittacus undulatus,3.852174375
+839,4411,Rose-throated Becard,Bécarde à gorge rose,Pachyramphus aglaiae,Passeriformes,Tityridae,Pachyramphus,aglaiae,TRUE,Pachyramphus aglaiae,2.607869298
+852,4720,Northern Beardless-Tyrannulet,Tyranneau imberbe,Camptostoma imberbe,Passeriformes,Tyrannidae,Camptostoma,imberbe,TRUE,Camptostoma imberbe,2.074777603
+862,4550,Dusky-capped Flycatcher,Tyran olivâtre,Myiarchus tuberculifer,Passeriformes,Tyrannidae,Myiarchus,tuberculifer,TRUE,Myiarchus tuberculifer,2.87880942
+863,4540,Ash-throated Flycatcher,Tyran à gorge cendrée,Myiarchus cinerascens,Passeriformes,Tyrannidae,Myiarchus,cinerascens,TRUE,Myiarchus cinerascens,2.989367065
+865,4520,Great Crested Flycatcher,Tyran huppé,Myiarchus crinitus,Passeriformes,Tyrannidae,Myiarchus,crinitus,TRUE,Myiarchus crinitus,3.336289418
+866,4530,Brown-crested Flycatcher,Tyran de Wied,Myiarchus tyrannulus,Passeriformes,Tyrannidae,Myiarchus,tyrannulus,TRUE,Myiarchus tyrannulus,3.281657418
+869,4490,Great Kiskadee,Tyran quiquivi,Pitangus sulphuratus,Passeriformes,Tyrannidae,Pitangus,sulphuratus,TRUE,Pitangus sulphuratus,2.985169291
+873,4510,Sulphur-bellied Flycatcher,Tyran tigré,Myiodynastes luteiventris,Passeriformes,Tyrannidae,Myiodynastes,luteiventris,TRUE,Myiodynastes luteiventris,2.9963369
+877,4460,Tropical Kingbird,Tyran mélancolique,Tyrannus melancholicus,Passeriformes,Tyrannidae,Tyrannus,melancholicus,TRUE,Tyrannus melancholicus,2.553791151
+878,4461,Couch's Kingbird,Tyran de Couch,Tyrannus couchii,Passeriformes,Tyrannidae,Tyrannus,couchii,TRUE,Tyrannus couchii,2.638102132
+879,4462,unid. Tropical Kingbird / Couch's Kingbird,unid Tyran mélancolique / Tyran de Couch,Tyrannus melancholicus / couchii,Passeriformes,Tyrannidae,Tyrannus,melancholicus / couchii,TRUE,Tyrannus melancholicus / couchii,NA
+880,4480,Cassin's Kingbird,Tyran de Cassin,Tyrannus vociferans,Passeriformes,Tyrannidae,Tyrannus,vociferans,TRUE,Tyrannus vociferans,2.724748003
+881,4451,Thick-billed Kingbird,Tyran à bec épais,Tyrannus crassirostris,Passeriformes,Tyrannidae,Tyrannus,crassirostris,TRUE,Tyrannus crassirostris,2.839835302
+882,4470,Western Kingbird,Tyran de l'Ouest,Tyrannus verticalis,Passeriformes,Tyrannidae,Tyrannus,verticalis,TRUE,Tyrannus verticalis,2.646492858
+883,4447,unid. Cassin's Kingbird / Western Kingbird,unid Tyran de Cassin / Tyran de l'Ouest,Tyrannus vociferans / verticalis,Passeriformes,Tyrannidae,Tyrannus,vociferans / verticalis,TRUE,Tyrannus vociferans / verticalis,NA
+884,4440,Eastern Kingbird,Tyran tritri,Tyrannus tyrannus,Passeriformes,Tyrannidae,Tyrannus,tyrannus,TRUE,Tyrannus tyrannus,2.586855542
+885,4450,Gray Kingbird,Tyran gris,Tyrannus dominicensis,Passeriformes,Tyrannidae,Tyrannus,dominicensis,TRUE,Tyrannus dominicensis,2.892699702
+887,4430,Scissor-tailed Flycatcher,Tyran à longue queue,Tyrannus forficatus,Passeriformes,Tyrannidae,Tyrannus,forficatus,TRUE,Tyrannus forficatus,2.346737821
+888,4420,Fork-tailed Flycatcher,Tyran des savanes,Tyrannus savana,Passeriformes,Tyrannidae,Tyrannus,savana,TRUE,Tyrannus savana,2.835616027
+892,4590,Olive-sided Flycatcher,Moucherolle à côtés olive,Contopus cooperi,Passeriformes,Tyrannidae,Contopus,cooperi,TRUE,Contopus cooperi,3.212456282
+893,4600,Greater Pewee,Moucherolle de Coues,Contopus pertinax,Passeriformes,Tyrannidae,Contopus,pertinax,TRUE,Contopus pertinax,2.728570636
+894,4620,Western Wood-Pewee,Pioui de l'Ouest,Contopus sordidulus,Passeriformes,Tyrannidae,Contopus,sordidulus,TRUE,Contopus sordidulus,2.318320776
+895,4610,Eastern Wood-Pewee,Pioui de l'Est,Contopus virens,Passeriformes,Tyrannidae,Contopus,virens,TRUE,Contopus virens,2.33554447
+898,4630,Yellow-bellied Flycatcher,Moucherolle à ventre jaune,Empidonax flaviventris,Passeriformes,Tyrannidae,Empidonax,flaviventris,TRUE,Empidonax flaviventris,1.993268327
+899,4650,Acadian Flycatcher,Moucherolle vert,Empidonax virescens,Passeriformes,Tyrannidae,Empidonax,virescens,TRUE,Empidonax virescens,2.657902826
+900,4661,Alder Flycatcher,Moucherolle des aulnes,Empidonax alnorum,Passeriformes,Tyrannidae,Empidonax,alnorum,TRUE,Empidonax alnorum,2.162931103
+901,4660,Willow Flycatcher,Moucherolle des saules,Empidonax traillii,Passeriformes,Tyrannidae,Empidonax,traillii,TRUE,Empidonax traillii,2.442111367
+902,4665,Traill's Flycatcher (Alder/Willow),Moucherolle de Traill (des aulnes/ des saules),Empidonax alnorum / traillii,Passeriformes,Tyrannidae,Empidonax,alnorum / traillii,TRUE,Empidonax alnorum / traillii,2.302521235
+904,4670,Least Flycatcher,Moucherolle tchébec,Empidonax minimus,Passeriformes,Tyrannidae,Empidonax,minimus,TRUE,Empidonax minimus,1.995003415
+905,4680,Hammond's Flycatcher,Moucherolle de Hammond,Empidonax hammondii,Passeriformes,Tyrannidae,Empidonax,hammondii,TRUE,Empidonax hammondii,1.968662931
+906,4691,Gray Flycatcher,Moucherolle gris,Empidonax wrightii,Passeriformes,Tyrannidae,Empidonax,wrightii,TRUE,Empidonax wrightii,1.981054001
+907,4690,Dusky Flycatcher,Moucherolle sombre,Empidonax oberholseri,Passeriformes,Tyrannidae,Empidonax,oberholseri,TRUE,Empidonax oberholseri,2.13714676
+908,4689,unid. Hammond's Flycatcher / Dusky Flycatcher,unid Moucherolle Hammond's / Moucherolle Dusky,Empidonax hammondii / oberholseri,Passeriformes,Tyrannidae,Empidonax,hammondii / oberholseri,TRUE,Empidonax hammondii / oberholseri,NA
+910,4641,Pacific-slope Flycatcher,Moucherolle côtier,Empidonax difficilis,Passeriformes,Tyrannidae,Empidonax,difficilis,TRUE,Empidonax difficilis,2.031465222
+911,4640,Cordilleran Flycatcher,Moucherolle des ravins,Empidonax occidentalis,Passeriformes,Tyrannidae,Empidonax,occidentalis,TRUE,Empidonax occidentalis,1.95356427
+912,4642,Western Flycatcher (Cordilleran/Pacific-slope),Moucherolle côtier (des ravins/ côtier),Empidonax difficilis / occidentalis,Passeriformes,Tyrannidae,Empidonax,difficilis / occidentalis,TRUE,Empidonax difficilis / occidentalis,1.992514746
+914,4700,Buff-breasted Flycatcher,Moucherolle beige,Empidonax fulvifrons,Passeriformes,Tyrannidae,Empidonax,fulvifrons,TRUE,Empidonax fulvifrons,1.75199701
+915,4679,unid. Empidonax flycatcher,unid Empidonax sp.,Empidonax sp.,Passeriformes,Tyrannidae,Empidonax,sp.,TRUE,Empidonax sp.,NA
+916,4580,Black Phoebe,Moucherolle noir,Sayornis nigricans,Passeriformes,Tyrannidae,Sayornis,nigricans,TRUE,Sayornis nigricans,2.106409313
+917,4560,Eastern Phoebe,Moucherolle phébi,Sayornis phoebe,Passeriformes,Tyrannidae,Sayornis,phoebe,TRUE,Sayornis phoebe,2.326197409
+918,4570,Say's Phoebe,Moucherolle à ventre roux,Sayornis saya,Passeriformes,Tyrannidae,Sayornis,saya,TRUE,Sayornis saya,2.00366952
+919,4710,Vermilion Flycatcher,Moucherolle vermillon,Pyrocephalus rubinus,Passeriformes,Tyrannidae,Pyrocephalus,rubinus,TRUE,Pyrocephalus rubinus,2.285797798
+959,6300,Black-capped Vireo,Viréo à tête noire,Vireo atricapilla,Passeriformes,Vireonidae,Vireo,atricapilla,TRUE,Vireo atricapilla,2.563576795
+961,6310,White-eyed Vireo,Viréo aux yeux blancs,Vireo griseus,Passeriformes,Vireonidae,Vireo,griseus,TRUE,Vireo griseus,2.409588172
+966,6330,Bell's Vireo,Viréo de Bell,Vireo bellii,Passeriformes,Vireonidae,Vireo,bellii,TRUE,Vireo bellii,2.186976141
+967,6340,Gray Vireo,Viréo gris,Vireo vicinior,Passeriformes,Vireonidae,Vireo,vicinior,TRUE,Vireo vicinior,2.17768724
+968,6320,Hutton's Vireo,Viréo de Hutton,Vireo huttoni,Passeriformes,Vireonidae,Vireo,huttoni,TRUE,Vireo huttoni,2.776791813
+969,6280,Yellow-throated Vireo,Viréo à gorge jaune,Vireo flavifrons,Passeriformes,Vireonidae,Vireo,flavifrons,TRUE,Vireo flavifrons,2.352781493
+970,6291,Cassin's Vireo,Viréo de Cassin,Vireo cassinii,Passeriformes,Vireonidae,Vireo,cassinii,TRUE,Vireo cassinii,2.30111226
+971,6290,Blue-headed Vireo,Viréo à tête bleue,Vireo solitarius,Passeriformes,Vireonidae,Vireo,solitarius,TRUE,Vireo solitarius,2.339618291
+972,6295,Solitary Vireo (Blue-headed/Cassin's),Viréo à tête bleue (à tête bleue/de Cassin),Vireo cassinii / solitarius,Passeriformes,Vireonidae,Vireo,cassinii / solitarius,TRUE,Vireo cassinii / solitarius,2.3203652755
+973,6292,Plumbeous Vireo,Viréo plombé,Vireo plumbeus,Passeriformes,Vireonidae,Vireo,plumbeus,TRUE,Vireo plumbeus,2.303455161
+974,6296,unid. Plumbeous Vireo / Cassin's Vireo,unid Viréo plombé / Viréo de Cassin,Vireo plumbeus / cassinii,Passeriformes,Vireonidae,Vireo,plumbeus / cassinii,TRUE,Vireo plumbeus / cassinii,NA
+975,6260,Philadelphia Vireo,Viréo de Philadelphie,Vireo philadelphicus,Passeriformes,Vireonidae,Vireo,philadelphicus,TRUE,Vireo philadelphicus,2.255599547
+976,6270,Warbling Vireo,Viréo mélodieux,Vireo gilvus,Passeriformes,Vireonidae,Vireo,gilvus,TRUE,Vireo gilvus,2.719934475
+978,6240,Red-eyed Vireo,Viréo aux yeux rouges,Vireo olivaceus,Passeriformes,Vireonidae,Vireo,olivaceus,TRUE,Vireo olivaceus,2.589017783
+980,6230,Black-whiskered Vireo,Viréo à moustaches,Vireo altiloquus,Passeriformes,Vireonidae,Vireo,altiloquus,TRUE,Vireo altiloquus,2.860394463
+984,6220,Loggerhead Shrike,Pie-grièche migratrice,Lanius ludovicianus,Passeriformes,Laniidae,Lanius,ludovicianus,TRUE,Lanius ludovicianus,2.702084494
+985,6210,Northern Shrike,Pie-grièche boréale,Lanius borealis,Passeriformes,Laniidae,Lanius,borealis,TRUE,Lanius borealis,1.919442
+986,4840,Canada Jay,Mésangeai du Canada,Perisoreus canadensis,Passeriformes,Corvidae,Perisoreus,canadensis,TRUE,Perisoreus canadensis,3.668742765
+995,4830,Green Jay,Geai vert,Cyanocorax yncas,Passeriformes,Corvidae,Cyanocorax,yncas,TRUE,Cyanocorax yncas,7.142998682
+999,4920,Pinyon Jay,Geai des pinèdes,Gymnorhinus cyanocephalus,Passeriformes,Corvidae,Gymnorhinus,cyanocephalus,TRUE,Gymnorhinus cyanocephalus,4.625597206
+1000,4780,Steller's Jay,Geai de Steller,Cyanocitta stelleri,Passeriformes,Corvidae,Cyanocitta,stelleri,TRUE,Cyanocitta stelleri,4.326749528
+1001,4770,Blue Jay,Geai bleu,Cyanocitta cristata,Passeriformes,Corvidae,Cyanocitta,cristata,TRUE,Cyanocitta cristata,5.15878621
+1002,4790,Florida Scrub-Jay,Geai à gorge blanche,Aphelocoma coerulescens,Passeriformes,Corvidae,Aphelocoma,coerulescens,TRUE,Aphelocoma coerulescens,5.175549526
+1003,4811,Island Scrub-Jay,Geai de Santa Cruz,Aphelocoma insularis,Passeriformes,Corvidae,Aphelocoma,insularis,TRUE,Aphelocoma insularis,4.745295137
+1004,4812,California Scrub-Jay,Geai buissonnier,Aphelocoma californica,Passeriformes,Corvidae,Aphelocoma,californica,TRUE,Aphelocoma californica,4.745295137
+1005,4813,Woodhouse's Scrub-Jay,Geai de Woodhouse,Aphelocoma woodhouseii,Passeriformes,Corvidae,Aphelocoma,woodhouseii,TRUE,Aphelocoma woodhouseii,4.745295137
+1006,4810,unid. California Scrub-Jay / Woodhouse's Scrub-Jay,unid Geai buissonnier / Geai de Woodhouse,Aphelocoma californica / woodhouseii,Passeriformes,Corvidae,Aphelocoma,californica / woodhouseii,TRUE,Aphelocoma californica / woodhouseii,NA
+1008,4820,Mexican Jay,Geai du Mexique,Aphelocoma wollweberi,Passeriformes,Corvidae,Aphelocoma,wollweberi,TRUE,Aphelocoma wollweberi,5.563176083
+1010,4910,Clark's Nutcracker,Cassenoix d'Amérique,Nucifraga columbiana,Passeriformes,Corvidae,Nucifraga,columbiana,TRUE,Nucifraga columbiana,4.395406084
+1011,4750,Black-billed Magpie,Pie d'Amérique,Pica hudsonia,Passeriformes,Corvidae,Pica,hudsonia,TRUE,Pica hudsonia,4.123549167
+1012,4760,Yellow-billed Magpie,Pie à bec jaune,Pica nuttalli,Passeriformes,Corvidae,Pica,nuttalli,TRUE,Pica nuttalli,3.408051597
+1014,4880,American Crow,Corneille d'Amérique,Corvus brachyrhynchos,Passeriformes,Corvidae,Corvus,brachyrhynchos,TRUE,Corvus brachyrhynchos,7.993566253
+1018,4900,Fish Crow,Corneille de rivage,Corvus ossifragus,Passeriformes,Corvidae,Corvus,ossifragus,TRUE,Corvus ossifragus,5.21193923
+1019,4881,unid. American Crow / Fish Crow,unid Corneille d'Amérique / Corneille de rivage,Corvus brachyrhynchos / ossifragus,Passeriformes,Corvidae,Corvus,brachyrhynchos / ossifragus,TRUE,Corvus brachyrhynchos / ossifragus,NA
+1021,4870,Chihuahuan Raven,Corbeau à cou blanc,Corvus cryptoleucus,Passeriformes,Corvidae,Corvus,cryptoleucus,TRUE,Corvus cryptoleucus,5.649748724
+1022,4860,Common Raven,Grand Corbeau,Corvus corax,Passeriformes,Corvidae,Corvus,corax,TRUE,Corvus corax,7.464649592
+1023,4865,unid. Chihuahuan Raven / Common Raven,unid Grand Corbeau / Corbeau à cou blanc,Corvus cryptoleucus / corax,Passeriformes,Corvidae,Corvus,cryptoleucus / corax,TRUE,Corvus cryptoleucus / corax,NA
+1024,7460,Verdin,Auripare verdin,Auriparus flaviceps,Passeriformes,Remizidae,Auriparus,flaviceps,TRUE,Auriparus flaviceps,2.026468057
+1025,7360,Carolina Chickadee,Mésange de Caroline,Poecile carolinensis,Passeriformes,Paridae,Poecile,carolinensis,TRUE,Poecile carolinensis,2.486529497
+1026,7350,Black-capped Chickadee,Mésange à tête noire,Poecile atricapillus,Passeriformes,Paridae,Poecile,atricapillus,TRUE,Poecile atricapillus,2.623277
+1027,7380,Mountain Chickadee,Mésange de Gambel,Poecile gambeli,Passeriformes,Paridae,Poecile,gambeli,TRUE,Poecile gambeli,2.29350444
+1028,7370,Mexican Chickadee,Mésange grise,Poecile sclateri,Passeriformes,Paridae,Poecile,sclateri,TRUE,Poecile sclateri,2.290191772
+1029,7410,Chestnut-backed Chickadee,Mésange à dos marron,Poecile rufescens,Passeriformes,Paridae,Poecile,rufescens,TRUE,Poecile rufescens,2.208218433
+1030,7400,Boreal Chickadee,Mésange à tête brune,Poecile hudsonicus,Passeriformes,Paridae,Poecile,hudsonicus,TRUE,Poecile hudsonicus,2.262583194
+1032,7352,unid. Carolina Chickadee / Black-capped Chickadee,unid Mésange de Caroline / Mésange à tête noire,Poecile carolinensis / atricapillus,Passeriformes,Paridae,Poecile,carolinensis / atricapillus,TRUE,Poecile carolinensis / atricapillus,NA
+1033,7353,unid. Black-capped Chickadee / Mountain Chickadee,unid Mésange à tête noire / Mésange de Gambel,Poecile atricapillus / gambeli,Passeriformes,Paridae,Poecile,atricapillus / gambeli,TRUE,Poecile atricapillus / gambeli,NA
+1034,7354,unid. Black-capped Chickadee / Boreal Chickadee,unid Mésange à tête noire / Mésange à tête brune,Poecile atricapillus / hudsonicus,Passeriformes,Paridae,Poecile,atricapillus / hudsonicus,TRUE,Poecile atricapillus / hudsonicus,NA
+1035,7351,unid. western chickadee species,unid Mésange sp. de l'Ouest,Poecile sp.,Passeriformes,Paridae,Poecile,sp.,TRUE,Poecile sp.,NA
+1036,7340,Bridled Titmouse,Mésange arlequin,Baeolophus wollweberi,Passeriformes,Paridae,Baeolophus,wollweberi,TRUE,Baeolophus wollweberi,2.555563954
+1037,7330,Oak Titmouse,Mésange unicolore,Baeolophus inornatus,Passeriformes,Paridae,Baeolophus,inornatus,TRUE,Baeolophus inornatus,2.500326492
+1038,7331,Juniper Titmouse,Mésange des genévriers,Baeolophus ridgwayi,Passeriformes,Paridae,Baeolophus,ridgwayi,TRUE,Baeolophus ridgwayi,2.336777188
+1039,7332,unid. Oak Titmouse / Juniper Titmouse,unid unid Mésange unicolore / Mésange des genévrie,Baeolophus inornatus / ridgwayi,Passeriformes,Paridae,Baeolophus,inornatus / ridgwayi,TRUE,Baeolophus inornatus / ridgwayi,NA
+1040,7310,Tufted Titmouse,Mésange bicolore,Baeolophus bicolor,Passeriformes,Paridae,Baeolophus,bicolor,TRUE,Baeolophus bicolor,2.817908958
+1041,7320,Black-crested Titmouse,Mésange à plumet noir,Baeolophus atricristatus,Passeriformes,Paridae,Baeolophus,atricristatus,TRUE,Baeolophus atricristatus,2.773136012
+1042,7315,unid. Tufted Titmouse / Black-crested Titmouse,unid Mésange bicolore / Mésange à plumet noir,Baeolophus bicolor / atricristatus,Passeriformes,Paridae,Baeolophus,bicolor / atricristatus,TRUE,Baeolophus bicolor / atricristatus,NA
+1043,4730,Eurasian Skylark,Alouette des champs,Alauda arvensis,Passeriformes,Alaudidae,Alauda,arvensis,TRUE,Alauda arvensis,2.833403383
+1044,4740,Horned Lark,Alouette hausse-col,Eremophila alpestris,Passeriformes,Alaudidae,Eremophila,alpestris,TRUE,Eremophila alpestris,3.042270207
+1052,6160,Bank Swallow,Hirondelle de rivage,Riparia riparia,Passeriformes,Hirundinidae,Riparia,riparia,TRUE,Riparia riparia,2.279290105
+1053,6140,Tree Swallow,Hirondelle bicolore,Tachycineta bicolor,Passeriformes,Hirundinidae,Tachycineta,bicolor,TRUE,Tachycineta bicolor,2.574948263
+1055,6150,Violet-green Swallow,Hirondelle à face blanche,Tachycineta thalassina,Passeriformes,Hirundinidae,Tachycineta,thalassina,TRUE,Tachycineta thalassina,2.255309784
+1059,6170,Northern Rough-winged Swallow,Hirondelle à ailes hérissées,Stelgidopteryx serripennis,Passeriformes,Hirundinidae,Stelgidopteryx,serripennis,TRUE,Stelgidopteryx serripennis,2.026909388
+1062,6110,Purple Martin,Hirondelle noire,Progne subis,Passeriformes,Hirundinidae,Progne,subis,TRUE,Progne subis,2.865840726
+1067,6130,Barn Swallow,Hirondelle rustique,Hirundo rustica,Passeriformes,Hirundinidae,Hirundo,rustica,TRUE,Hirundo rustica,3.132150175
+1069,6120,Cliff Swallow,Hirondelle à front blanc,Petrochelidon pyrrhonota,Passeriformes,Hirundinidae,Petrochelidon,pyrrhonota,TRUE,Petrochelidon pyrrhonota,2.563576795
+1070,6121,Cave Swallow,Hirondelle à front brun,Petrochelidon fulva,Passeriformes,Hirundinidae,Petrochelidon,fulva,TRUE,Petrochelidon fulva,2.668670335
+1071,6122,unid. Cave Swallow / Cliff Swallow,unid Hirondelle à front blanc / à front brun,Petrochelidon pyrrhonota / fulva,Passeriformes,Hirundinidae,Petrochelidon,pyrrhonota / fulva,TRUE,Petrochelidon pyrrhonota / fulva,NA
+1072,7430,Bushtit,Orite buissonnière,Psaltriparus minimus,Passeriformes,Aegithalidae,Psaltriparus,minimus,TRUE,Psaltriparus minimus,2.148992039
+1079,7470,Arctic Warbler,Pouillot boréal,Phylloscopus borealis,Passeriformes,Phylloscopidae,Phylloscopus,borealis,TRUE,Phylloscopus borealis,2.064107876
+1084,7420,Wrentit,Cama brune,Chamaea fasciata,Passeriformes,Sylviidae,Chamaea,fasciata,TRUE,Chamaea fasciata,2.764946534
+1085,7421,Swinhoes White-eye,Zostérops de Swinhoe,Zosterops simplex,Passeriformes,Zosteropidae,Zosterops,simplex,TRUE,Zosterops simplex,2.136093297
+1086,7490,Ruby-crowned Kinglet,Roitelet à couronne rubis,Corthylio calendula,Passeriformes,Regulidae,Corthylio,calendula,TRUE,Corthylio calendula,2.097204457
+1087,7480,Golden-crowned Kinglet,Roitelet à couronne dorée,Regulus satrapa,Passeriformes,Regulidae,Regulus,satrapa,TRUE,Regulus satrapa,1.778840172
+1088,6180,Bohemian Waxwing,Jaseur boréal,Bombycilla garrulus,Passeriformes,Bombycillidae,Bombycilla,garrulus,TRUE,Bombycilla garrulus,2.812218458
+1089,6190,Cedar Waxwing,Jaseur d'Amérique,Bombycilla cedrorum,Passeriformes,Bombycillidae,Bombycilla,cedrorum,TRUE,Bombycilla cedrorum,2.377284295
+1090,6185,unid. Cedar Waxwing / Bohemian Waxwing,unid Jaseur sp.,Bombycilla garrulus / cedrorum,Passeriformes,Bombycillidae,Bombycilla,garrulus / cedrorum,TRUE,Bombycilla garrulus / cedrorum,NA
+1092,6200,Phainopepla,Phénopèple luisant,Phainopepla nitens,Passeriformes,Ptiliogonatidae,Phainopepla,nitens,TRUE,Phainopepla nitens,2.351991131
+1093,7280,Red-breasted Nuthatch,Sittelle à poitrine rousse,Sitta canadensis,Passeriformes,Sittidae,Sitta,canadensis,TRUE,Sitta canadensis,2.160160436
+1094,7270,White-breasted Nuthatch,Sittelle à poitrine blanche,Sitta carolinensis,Passeriformes,Sittidae,Sitta,carolinensis,TRUE,Sitta carolinensis,2.255599547
+1095,7300,Pygmy Nuthatch,Sittelle pygmée,Sitta pygmaea,Passeriformes,Sittidae,Sitta,pygmaea,TRUE,Sitta pygmaea,2.593836899
+1096,7290,Brown-headed Nuthatch,Sittelle à tête brune,Sitta pusilla,Passeriformes,Sittidae,Sitta,pusilla,TRUE,Sitta pusilla,2.710632816
+1097,7260,Brown Creeper,Grimpereau brun,Certhia americana,Passeriformes,Certhiidae,Certhia,americana,TRUE,Certhia americana,1.724861893
+1101,7510,Blue-gray Gnatcatcher,Gobemoucheron gris-bleu,Polioptila caerulea,Passeriformes,Polioptilidae,Polioptila,caerulea,TRUE,Polioptila caerulea,1.837491668
+1102,7520,Black-tailed Gnatcatcher,Gobemoucheron à queue noire,Polioptila melanura,Passeriformes,Polioptilidae,Polioptila,melanura,TRUE,Polioptila melanura,1.686474104
+1103,7539,unid. Blue-gray / Black-tailed Gnatcatcher,unid Gobemoucheron gris-bleu / à queue noire,Polioptila caerulea / melanura,Passeriformes,Polioptilidae,Polioptila,caerulea / melanura,TRUE,Polioptila caerulea / melanura,NA
+1104,7530,California Gnatcatcher,Gobemoucheron de Californie,Polioptila californica,Passeriformes,Polioptilidae,Polioptila,californica,TRUE,Polioptila californica,2.05456115
+1107,7150,Rock Wren,Troglodyte des rochers,Salpinctes obsoletus,Passeriformes,Troglodytidae,Salpinctes,obsoletus,TRUE,Salpinctes obsoletus,1.985917675
+1109,7170,Canyon Wren,Troglodyte des canyons,Catherpes mexicanus,Passeriformes,Troglodytidae,Catherpes,mexicanus,TRUE,Catherpes mexicanus,1.818057318
+1119,16600,Sinaloa Wren,Troglodyte du Sinaloa,Thryophilus sinaloa,Passeriformes,Troglodytidae,Thryophilus,sinaloa,TRUE,Thryophilus sinaloa,1.990179492
+1128,7130,Cactus Wren,Troglodyte des cactus,Campylorhynchus brunneicapillus,Passeriformes,Troglodytidae,Campylorhynchus,brunneicapillus,TRUE,Campylorhynchus brunneicapillus,2.600460286
+1129,7190,Bewick's Wren,Troglodyte de Bewick,Thryomanes bewickii,Passeriformes,Troglodytidae,Thryomanes,bewickii,TRUE,Thryomanes bewickii,1.994533614
+1130,7180,Carolina Wren,Troglodyte de Caroline,Thryothorus ludovicianus,Passeriformes,Troglodytidae,Thryothorus,ludovicianus,TRUE,Thryothorus ludovicianus,2.179122367
+1131,7210,House Wren,Troglodyte familier,Troglodytes aedon,Passeriformes,Troglodytidae,Troglodytes,aedon,TRUE,Troglodytes aedon,2.13714676
+1135,7221,Pacific Wren,Troglodyte de Baird,Troglodytes pacificus,Passeriformes,Troglodytidae,Troglodytes,pacificus,TRUE,Troglodytes pacificus,1.912086464
+1136,7222,Winter Wren,Troglodyte des forêts,Troglodytes hiemalis,Passeriformes,Troglodytidae,Troglodytes,hiemalis,TRUE,Troglodytes hiemalis,1.781788398
+1137,7220,unid. Pacific Wren / Winter Wren,unid Troglodyte des forêts / Troglodyte de Baird,Troglodytes pacificus / hiemalis,Passeriformes,Troglodytidae,Troglodytes,pacificus / hiemalis,TRUE,Troglodytes pacificus / hiemalis,NA
+1138,7240,Sedge Wren,Troglodyte à bec court,Cistothorus stellaris,Passeriformes,Troglodytidae,Cistothorus,stellaris,TRUE,Cistothorus stellaris,2.275027239
+1140,7250,Marsh Wren,Troglodyte des marais,Cistothorus palustris,Passeriformes,Troglodytidae,Cistothorus,palustris,TRUE,Cistothorus palustris,2.000993233
+1144,7040,Gray Catbird,Moqueur chat,Dumetella carolinensis,Passeriformes,Mimidae,Dumetella,carolinensis,TRUE,Dumetella carolinensis,3.464713412
+1145,7070,Curve-billed Thrasher,Moqueur à bec courbe,Toxostoma curvirostre,Passeriformes,Mimidae,Toxostoma,curvirostre,TRUE,Toxostoma curvirostre,2.892583828
+1147,7050,Brown Thrasher,Moqueur roux,Toxostoma rufum,Passeriformes,Mimidae,Toxostoma,rufum,TRUE,Toxostoma rufum,2.681555771
+1148,7060,Long-billed Thrasher,Moqueur à long bec,Toxostoma longirostre,Passeriformes,Mimidae,Toxostoma,longirostre,TRUE,Toxostoma longirostre,2.432853404
+1150,7080,Bendire's Thrasher,Moqueur de Bendire,Toxostoma bendirei,Passeriformes,Mimidae,Toxostoma,bendirei,TRUE,Toxostoma bendirei,2.536164707
+1152,7100,California Thrasher,Moqueur de Californie,Toxostoma redivivum,Passeriformes,Mimidae,Toxostoma,redivivum,TRUE,Toxostoma redivivum,2.959549169
+1153,7110,LeConte's Thrasher,Moqueur de LeConte,Toxostoma lecontei,Passeriformes,Mimidae,Toxostoma,lecontei,TRUE,Toxostoma lecontei,2.523927773
+1154,7120,Crissal Thrasher,Moqueur cul-roux,Toxostoma crissale,Passeriformes,Mimidae,Toxostoma,crissale,TRUE,Toxostoma crissale,2.798039596
+1155,7020,Sage Thrasher,Moqueur des armoises,Oreoscoptes montanus,Passeriformes,Mimidae,Oreoscoptes,montanus,TRUE,Oreoscoptes montanus,2.475182001
+1156,7031,Bahama Mockingbird,Moqueur des Bahamas,Mimus gundlachii,Passeriformes,Mimidae,Mimus,gundlachii,TRUE,Mimus gundlachii,3.382807786
+1159,7030,Northern Mockingbird,Moqueur polyglotte,Mimus polyglottos,Passeriformes,Mimidae,Mimus,polyglottos,TRUE,Mimus polyglottos,3.761658285
+1160,4930,European Starling,Étourneau sansonnet,Sturnus vulgaris,Passeriformes,Sturnidae,Sturnus,vulgaris,TRUE,Sturnus vulgaris,5.650993902
+1161,4932,Common Myna,Martin triste,Acridotheres tristis,Passeriformes,Sturnidae,Acridotheres,tristis,TRUE,Acridotheres tristis,3.211699055
+1162,7010,American Dipper,Cincle d'Amérique,Cinclus mexicanus,Passeriformes,Cinclidae,Cinclus,mexicanus,TRUE,Cinclus mexicanus,2.518614967
+1163,7660,Eastern Bluebird,Merlebleu de l'Est,Sialia sialis,Passeriformes,Turdidae,Sialia,sialis,TRUE,Sialia sialis,2.37074215
+1164,7670,Western Bluebird,Merlebleu de l'Ouest,Sialia mexicana,Passeriformes,Turdidae,Sialia,mexicana,TRUE,Sialia mexicana,2.110735311
+1165,7680,Mountain Bluebird,Merlebleu azuré,Sialia currucoides,Passeriformes,Turdidae,Sialia,currucoides,TRUE,Sialia currucoides,2.154883319
+1166,7540,Townsend's Solitaire,Solitaire de Townsend,Myadestes townsendi,Passeriformes,Turdidae,Myadestes,townsendi,TRUE,Myadestes townsendi,2.604380783
+1174,7560,Veery,Grive fauve,Catharus fuscescens,Passeriformes,Turdidae,Catharus,fuscescens,TRUE,Catharus fuscescens,2.717673017
+1175,7570,Gray-cheeked Thrush,Grive à joues grises,Catharus minimus,Passeriformes,Turdidae,Catharus,minimus,TRUE,Catharus minimus,2.310912736
+1176,7571,Bicknell's Thrush,Grive de Bicknell,Catharus bicknelli,Passeriformes,Turdidae,Catharus,bicknelli,TRUE,Catharus bicknelli,2.319425416
+1177,7580,Swainson's Thrush,Grive à dos olive,Catharus ustulatus,Passeriformes,Turdidae,Catharus,ustulatus,TRUE,Catharus ustulatus,2.471010853
+1178,7590,Hermit Thrush,Grive solitaire,Catharus guttatus,Passeriformes,Turdidae,Catharus,guttatus,TRUE,Catharus guttatus,2.286469271
+1179,7550,Wood Thrush,Grive des bois,Hylocichla mustelina,Passeriformes,Turdidae,Hylocichla,mustelina,TRUE,Hylocichla mustelina,2.404420008
+1189,7621,Clay-colored Thrush,Merle fauve,Turdus grayi,Passeriformes,Turdidae,Turdus,grayi,TRUE,Turdus grayi,4.161964869
+1193,7610,American Robin,Merle d'Amérique,Turdus migratorius,Passeriformes,Turdidae,Turdus,migratorius,TRUE,Turdus migratorius,3.146893471
+1195,7630,Varied Thrush,Grive à collier,Ixoreus naevius,Passeriformes,Turdidae,Ixoreus,naevius,TRUE,Ixoreus naevius,2.371356469
+1204,7640,Bluethroat,Gorgebleue à miroir,Cyanecula svecica,Passeriformes,Muscicapidae,Cyanecula,svecica,TRUE,Cyanecula svecica,2.484010114
+1212,7650,Northern Wheatear,Traquet motteux,Oenanthe oenanthe,Passeriformes,Muscicapidae,Oenanthe,oenanthe,TRUE,Oenanthe oenanthe,2.246001873
+1214,6510,Olive Warbler,Fauvine des pins,Peucedramus taeniatus,Passeriformes,Peucedramidae,Peucedramus,taeniatus,TRUE,Peucedramus taeniatus,2.208186825
+1215,19500,Northern Red Bishop,Euplecte franciscain,Euplectes franciscanus,Passeriformes,Ploceidae,Euplectes,franciscanus,TRUE,Euplectes franciscanus,2.365350054
+1216,19510,Pin-tailed Whydah,Veuve dominicaine,Vidua macroura,Passeriformes,Viduidae,Vidua,macroura,TRUE,Vidua macroura,1.952813589
+1217,8110,Scaly-breasted Munia,Capucin damier,Lonchura punctulata,Passeriformes,Estrildidae,Lonchura,punctulata,TRUE,Lonchura punctulata,2.052927104
+1221,6882,House Sparrow,Moineau domestique,Passer domesticus,Passeriformes,Passeridae,Passer,domesticus,TRUE,Passer domesticus,3.726344591
+1222,6883,Eurasian Tree Sparrow,Moineau friquet,Passer montanus,Passeriformes,Passeridae,Passer,montanus,TRUE,Passer montanus,2.719771587
+1223,6960,Eastern Yellow Wagtail,Bergeronnette de Béringie,Motacilla tschutschensis,Passeriformes,Motacillidae,Motacilla,tschutschensis,TRUE,Motacilla tschutschensis,2.304402096
+1226,6940,White Wagtail,Bergeronnette grise,Motacilla alba,Passeriformes,Motacillidae,Motacilla,alba,TRUE,Motacilla alba,2.805220482
+1230,6990,Red-throated Pipit,Pipit à gorge rousse,Anthus cervinus,Passeriformes,Motacillidae,Anthus,cervinus,TRUE,Anthus cervinus,2.209202316
+1231,6970,American Pipit,Pipit d'Amérique,Anthus rubescens,Passeriformes,Motacillidae,Anthus,rubescens,TRUE,Anthus rubescens,2.058400577
+1232,7000,Sprague's Pipit,Pipit de Sprague,Anthus spragueii,Passeriformes,Motacillidae,Anthus,spragueii,TRUE,Anthus spragueii,1.940463213
+1243,5140,Evening Grosbeak,Gros-bec errant,Coccothraustes vespertinus,Passeriformes,Fringillidae,Coccothraustes,vespertinus,TRUE,Coccothraustes vespertinus,3.098212161
+1247,5150,Pine Grosbeak,Durbec des sapins,Pinicola enucleator,Passeriformes,Fringillidae,Pinicola,enucleator,TRUE,Pinicola enucleator,2.594824817
+1250,5240,Gray-crowned Rosy-Finch,Roselin à tête grise,Leucosticte tephrocotis,Passeriformes,Fringillidae,Leucosticte,tephrocotis,TRUE,Leucosticte tephrocotis,2.193455701
+1251,5250,Black Rosy-Finch,Roselin noir,Leucosticte atrata,Passeriformes,Fringillidae,Leucosticte,atrata,TRUE,Leucosticte atrata,2.263630486
+1252,5260,Brown-capped Rosy-Finch,Roselin à tête brune,Leucosticte australis,Passeriformes,Fringillidae,Leucosticte,australis,TRUE,Leucosticte australis,2.036160758
+1253,5190,House Finch,Roselin familier,Haemorhous mexicanus,Passeriformes,Fringillidae,Haemorhous,mexicanus,TRUE,Haemorhous mexicanus,2.506719457
+1254,5170,Purple Finch,Roselin pourpré,Haemorhous purpureus,Passeriformes,Fringillidae,Haemorhous,purpureus,TRUE,Haemorhous purpureus,2.847863485
+1255,5180,Cassin's Finch,Roselin de Cassin,Haemorhous cassinii,Passeriformes,Fringillidae,Haemorhous,cassinii,TRUE,Haemorhous cassinii,2.375655281
+1256,5195,unid. Purple Finch / Cassin's Finch / House Finch,unid Roselin pourpré / de Cassin / familier,Carpodacus purpureus / cassinii / mexicanus,Passeriformes,Fringillidae,Carpodacus,purpureus / cassinii / mexicanus,TRUE,Carpodacus purpureus / cassinii / mexicanus,NA
+1259,5280,Common Redpoll,Sizerin flammé,Acanthis flammea,Passeriformes,Fringillidae,Acanthis,flammea,TRUE,Acanthis flammea,2.592005464
+1260,5270,Hoary Redpoll,Sizerin blanchâtre,Acanthis hornemanni,Passeriformes,Fringillidae,Acanthis,hornemanni,TRUE,Acanthis hornemanni,2.592005464
+1261,5275,Redpoll (Common/Hoary),Sizerin (Flammé/Blanchâtre),Carduelis flammea / hornemanni,Passeriformes,Fringillidae,Carduelis,flammea / hornemanni,TRUE,Carduelis flammea / hornemanni,2.592005464
+1262,5210,Red Crossbill,Bec-croisé des sapins,Loxia curvirostra,Passeriformes,Fringillidae,Loxia,curvirostra,TRUE,Loxia curvirostra,3.161850713
+1264,5212,Unid. Cassia Crossbill / Red Crossbill,Unid Bec-croisé de l'Idaho / des sapins,Loxia sinesciuris / curvirostra,Passeriformes,Fringillidae,Loxia,sinesciuris / curvirostra,TRUE,Loxia sinesciuris / curvirostra,NA
+1265,5220,White-winged Crossbill,Bec-croisé bifascié,Loxia leucoptera,Passeriformes,Fringillidae,Loxia,leucoptera,TRUE,Loxia leucoptera,1.999659757
+1266,5225,unid. Red Crossbill / White-winged Crossbill,unid Bec-croisé des sapins / Bec-croisé bifascié,Loxia curvirostra / leucoptera,Passeriformes,Fringillidae,Loxia,curvirostra / leucoptera,TRUE,Loxia curvirostra / leucoptera,NA
+1267,5261,European Goldfinch,Chardonneret élégant,Carduelis carduelis,Passeriformes,Fringillidae,Carduelis,carduelis,TRUE,Carduelis carduelis,2.528040959
+1269,5330,Pine Siskin,Tarin des pins,Spinus pinus,Passeriformes,Fringillidae,Spinus,pinus,TRUE,Spinus pinus,2.353143059
+1272,5300,Lesser Goldfinch,Chardonneret mineur,Spinus psaltria,Passeriformes,Fringillidae,Spinus,psaltria,TRUE,Spinus psaltria,2.089842577
+1273,5310,Lawrence's Goldfinch,Chardonneret gris,Spinus lawrencei,Passeriformes,Fringillidae,Spinus,lawrencei,TRUE,Spinus lawrencei,2.073691654
+1274,5290,American Goldfinch,Chardonneret jaune,Spinus tristis,Passeriformes,Fringillidae,Spinus,tristis,TRUE,Spinus tristis,2.379974974
+1276,5360,Lapland Longspur,Plectrophane lapon,Calcarius lapponicus,Passeriformes,Calcariidae,Calcarius,lapponicus,TRUE,Calcarius lapponicus,2.584916869
+1277,5380,Chestnut-collared Longspur,Plectrophane à ventre noir,Calcarius ornatus,Passeriformes,Calcariidae,Calcarius,ornatus,TRUE,Calcarius ornatus,2.275903816
+1278,5370,Smith's Longspur,Plectrophane de Smith,Calcarius pictus,Passeriformes,Calcariidae,Calcarius,pictus,TRUE,Calcarius pictus,2.743933747
+1279,5390,Thick-billed Longspur,Plectrophane de McCown,Rhynchophanes mccownii,Passeriformes,Calcariidae,Rhynchophanes,mccownii,TRUE,Rhynchophanes mccownii,2.508512634
+1280,5340,Snow Bunting,Plectrophane des neiges,Plectrophenax nivalis,Passeriformes,Calcariidae,Plectrophenax,nivalis,TRUE,Plectrophenax nivalis,2.640707546
+1292,5790,Rufous-winged Sparrow,Bruant à épaulettes,Peucaea carpalis,Passeriformes,Passerellidae,Peucaea,carpalis,TRUE,Peucaea carpalis,1.824628728
+1297,5760,Botteri's Sparrow,Bruant de Botteri,Peucaea botterii,Passeriformes,Passerellidae,Peucaea,botterii,TRUE,Peucaea botterii,2.111959508
+1298,5780,Cassin's Sparrow,Bruant de Cassin,Peucaea cassinii,Passeriformes,Passerellidae,Peucaea,cassinii,TRUE,Peucaea cassinii,1.998739509
+1299,5750,Bachman's Sparrow,Bruant des pinèdes,Peucaea aestivalis,Passeriformes,Passerellidae,Peucaea,aestivalis,TRUE,Peucaea aestivalis,2.01129262
+1300,5460,Grasshopper Sparrow,Bruant sauterelle,Ammodramus savannarum,Passeriformes,Passerellidae,Ammodramus,savannarum,TRUE,Ammodramus savannarum,2.152036823
+1301,5860,Olive Sparrow,Tohi olive,Arremonops rufivirgatus,Passeriformes,Passerellidae,Arremonops,rufivirgatus,TRUE,Arremonops rufivirgatus,2.500319042
+1304,5730,Black-throated Sparrow,Bruant à gorge noire,Amphispiza bilineata,Passeriformes,Passerellidae,Amphispiza,bilineata,TRUE,Amphispiza bilineata,2.202279982
+1305,5520,Lark Sparrow,Bruant à joues marron,Chondestes grammacus,Passeriformes,Passerellidae,Chondestes,grammacus,TRUE,Chondestes grammacus,2.20312474
+1306,6050,Lark Bunting,Bruant noir et blanc,Calamospiza melanocorys,Passeriformes,Passerellidae,Calamospiza,melanocorys,TRUE,Calamospiza melanocorys,2.030157659
+1307,5600,Chipping Sparrow,Bruant familier,Spizella passerina,Passeriformes,Passerellidae,Spizella,passerina,TRUE,Spizella passerina,2.539412426
+1308,5610,Clay-colored Sparrow,Bruant des plaines,Spizella pallida,Passeriformes,Passerellidae,Spizella,pallida,TRUE,Spizella pallida,2.113274944
+1309,5650,Black-chinned Sparrow,Bruant à menton noir,Spizella atrogularis,Passeriformes,Passerellidae,Spizella,atrogularis,TRUE,Spizella atrogularis,2.388759557
+1310,5630,Field Sparrow,Bruant des champs,Spizella pusilla,Passeriformes,Passerellidae,Spizella,pusilla,TRUE,Spizella pusilla,2.172682596
+1311,5620,Brewer's Sparrow,Bruant de Brewer,Spizella breweri,Passeriformes,Passerellidae,Spizella,breweri,TRUE,Spizella breweri,2.117613195
+1316,5850,Fox Sparrow,Bruant fauve,Passerella iliaca,Passeriformes,Passerellidae,Passerella,iliaca,TRUE,Passerella iliaca,2.565488998
+1317,5590,American Tree Sparrow,Bruant hudsonien,Spizelloides arborea,Passeriformes,Passerellidae,Spizelloides,arborea,TRUE,Spizelloides arborea,2.385897614
+1319,5670,(Slate-colored Junco) Dark-eyed Junco,Junco ardoisé (groupe hyemalis),Junco hyemalis hyemalis,Passeriformes,Passerellidae,Junco,hyemalis hyemalis,TRUE,Junco hyemalis hyemalis,2.385897614
+1320,5671,(Oregon Junco) Dark-eyed Junco,Junco ardoisé (groupe oreganus),Junco hyemalis oreganus,Passeriformes,Passerellidae,Junco,hyemalis oreganus,TRUE,Junco hyemalis oreganus,2.385897614
+1321,5680,(Pink-sided Junco) Dark-eyed Junco,Junco ardoisé (groupe mearnsi),Junco hyemalis mearnsi,Passeriformes,Passerellidae,Junco,hyemalis mearnsi,TRUE,Junco hyemalis mearnsi,2.385897614
+1322,5660,(White-winged Junco) Dark-eyed Junco,Junco ardoisé (à ailes blanches),Junco hyemalis aikeni,Passeriformes,Passerellidae,Junco,hyemalis aikeni,TRUE,Junco hyemalis aikeni,2.385897614
+1323,5690,(Gray-headed Junco) Dark-eyed Junco,Junco ardoisé (à tête grise),Junco hyemalis caniceps,Passeriformes,Passerellidae,Junco,hyemalis caniceps,TRUE,Junco hyemalis caniceps,2.385897614
+1324,5677,Dark-eyed Junco (all forms),Junco ardoisé (toutes les formes),Junco hyemalis,Passeriformes,Passerellidae,Junco,hyemalis,TRUE,Junco hyemalis,2.385897614
+1325,5700,Yellow-eyed Junco,Junco aux yeux jaunes,Junco phaeonotus,Passeriformes,Passerellidae,Junco,phaeonotus,TRUE,Junco phaeonotus,2.207674926
+1328,5540,White-crowned Sparrow,Bruant à couronne blanche,Zonotrichia leucophrys,Passeriformes,Passerellidae,Zonotrichia,leucophrys,TRUE,Zonotrichia leucophrys,2.748363144
+1329,5570,Golden-crowned Sparrow,Bruant à couronne dorée,Zonotrichia atricapilla,Passeriformes,Passerellidae,Zonotrichia,atricapilla,TRUE,Zonotrichia atricapilla,2.465744217
+1330,5530,Harris's Sparrow,Bruant à face noire,Zonotrichia querula,Passeriformes,Passerellidae,Zonotrichia,querula,TRUE,Zonotrichia querula,2.558526895
+1331,5580,White-throated Sparrow,Bruant à gorge blanche,Zonotrichia albicollis,Passeriformes,Passerellidae,Zonotrichia,albicollis,TRUE,Zonotrichia albicollis,2.978161552
+1332,5739,Bell's Sparrow,Bruant de Bell,Artemisiospiza belli,Passeriformes,Passerellidae,Artemisiospiza,belli,TRUE,Artemisiospiza belli,2.362743673
+1333,5740,unid. Sagebrush Sparrow / Bell's Sparrow,unid Bruant des armoises / Burant de Bell,Artemisiospiza nevadensis / belli,Passeriformes,Passerellidae,Artemisiospiza,nevadensis / belli,TRUE,Artemisiospiza nevadensis / belli,NA
+1334,5738,Sagebrush Sparrow,Bruant des armoises,Artemisiospiza nevadensis,Passeriformes,Passerellidae,Artemisiospiza,nevadensis,TRUE,Artemisiospiza nevadensis,2.262258433
+1336,5400,Vesper Sparrow,Bruant vespéral,Pooecetes gramineus,Passeriformes,Passerellidae,Pooecetes,gramineus,TRUE,Pooecetes gramineus,2.214711172
+1337,5480,LeConte's Sparrow,Bruant de LeConte,Ammospiza leconteii,Passeriformes,Passerellidae,Ammospiza,leconteii,TRUE,Ammospiza leconteii,1.948327451
+1338,5500,Seaside Sparrow,Bruant maritime,Ammospiza maritima,Passeriformes,Passerellidae,Ammospiza,maritima,TRUE,Ammospiza maritima,2.842087376
+1339,5491,Nelson's Sparrow,Bruant de Nelson,Ammospiza nelsoni,Passeriformes,Passerellidae,Ammospiza,nelsoni,TRUE,Ammospiza nelsoni,2.634638554
+1340,5490,Saltmarsh Sparrow,Bruant à queue aiguë,Ammospiza caudacuta,Passeriformes,Passerellidae,Ammospiza,caudacuta,TRUE,Ammospiza caudacuta,2.337685565
+1341,5450,Baird's Sparrow,Bruant de Baird,Centronyx bairdii,Passeriformes,Passerellidae,Centronyx,bairdii,TRUE,Centronyx bairdii,2.13507425
+1342,5470,Henslow's Sparrow,Bruant de Henslow,Centronyx henslowii,Passeriformes,Passerellidae,Centronyx,henslowii,TRUE,Centronyx henslowii,2.04219075
+1343,5420,Savannah Sparrow,Bruant des prés,Passerculus sandwichensis,Passeriformes,Passerellidae,Passerculus,sandwichensis,TRUE,Passerculus sandwichensis,2.242147407
+1345,5810,Song Sparrow,Bruant chanteur,Melospiza melodia,Passeriformes,Passerellidae,Melospiza,melodia,TRUE,Melospiza melodia,2.588141994
+1346,5830,Lincoln's Sparrow,Bruant de Lincoln,Melospiza lincolnii,Passeriformes,Passerellidae,Melospiza,lincolnii,TRUE,Melospiza lincolnii,2.097614456
+1347,5840,Swamp Sparrow,Bruant des marais,Melospiza georgiana,Passeriformes,Passerellidae,Melospiza,georgiana,TRUE,Melospiza georgiana,2.078270071
+1349,5910,Canyon Towhee,Tohi des canyons,Melozone fusca,Passeriformes,Passerellidae,Melozone,fusca,TRUE,Melozone fusca,2.677993343
+1351,5920,Abert's Towhee,Tohi d'Abert,Melozone aberti,Passeriformes,Passerellidae,Melozone,aberti,TRUE,Melozone aberti,2.657521365
+1352,5911,California Towhee,Tohi de Californie,Melozone crissalis,Passeriformes,Passerellidae,Melozone,crissalis,TRUE,Melozone crissalis,2.729696484
+1356,5800,Rufous-crowned Sparrow,Tohi à calotte fauve,Aimophila ruficeps,Passeriformes,Passerellidae,Aimophila,ruficeps,TRUE,Aimophila ruficeps,2.196889551
+1358,5900,Green-tailed Towhee,Tohi à queue verte,Pipilo chlorurus,Passeriformes,Passerellidae,Pipilo,chlorurus,TRUE,Pipilo chlorurus,2.780343374
+1359,5880,Spotted Towhee,Tohi tacheté,Pipilo maculatus,Passeriformes,Passerellidae,Pipilo,maculatus,TRUE,Pipilo maculatus,2.898097809
+1360,5870,Eastern Towhee,Tohi à flancs roux,Pipilo erythrophthalmus,Passeriformes,Passerellidae,Pipilo,erythrophthalmus,TRUE,Pipilo erythrophthalmus,2.77244191
+1361,5871,unid. Spotted Towhee / Eastern Towhee,unid Tohi tacheté / Tohi à flancs roux,Pipilo maculatus / erythrophthalmus,Passeriformes,Passerellidae,Pipilo,maculatus / erythrophthalmus,TRUE,Pipilo maculatus / erythrophthalmus,NA
+1366,6830,Yellow-breasted Chat,Ictérie polyglotte,Icteria virens,Passeriformes,Icteriidae,Icteria,virens,TRUE,Icteria virens,2.241553184
+1367,4970,Yellow-headed Blackbird,Carouge à tête jaune,Xanthocephalus xanthocephalus,Passeriformes,Icteridae,Xanthocephalus,xanthocephalus,TRUE,Xanthocephalus xanthocephalus,3.029981906
+1368,4940,Bobolink,Goglu des prés,Dolichonyx oryzivorus,Passeriformes,Icteridae,Dolichonyx,oryzivorus,TRUE,Dolichonyx oryzivorus,2.86256725
+1370,5010,Eastern Meadowlark,Sturnelle des prés,Sturnella magna,Passeriformes,Icteridae,Sturnella,magna,TRUE,Sturnella magna,2.6782694
+1371,5011,Western Meadowlark,Sturnelle de l'Ouest,Sturnella neglecta,Passeriformes,Icteridae,Sturnella,neglecta,TRUE,Sturnella neglecta,2.680879929
+1372,5012,unid. Meadowlark,unid Sturnelle,Sturnella sp.,Passeriformes,Icteridae,Sturnella,sp.,TRUE,Sturnella sp.,NA
+1381,5060,Orchard Oriole,Oriole des vergers,Icterus spurius,Passeriformes,Icteridae,Icterus,spurius,TRUE,Icterus spurius,2.501405461
+1382,5050,Hooded Oriole,Oriole masqué,Icterus cucullatus,Passeriformes,Icteridae,Icterus,cucullatus,TRUE,Icterus cucullatus,2.519003615
+1386,5080,Bullock's Oriole,Oriole de Bullock,Icterus bullockii,Passeriformes,Icteridae,Icterus,bullockii,TRUE,Icterus bullockii,2.595343415
+1388,5032,Spot-breasted Oriole,Oriole maculé,Icterus pectoralis,Passeriformes,Icteridae,Icterus,pectoralis,TRUE,Icterus pectoralis,3.558576426
+1389,5031,Altamira Oriole,Oriole à gros bec,Icterus gularis,Passeriformes,Icteridae,Icterus,gularis,TRUE,Icterus gularis,3.375502157
+1390,5030,Audubon's Oriole,Oriole d'Audubon,Icterus graduacauda,Passeriformes,Icteridae,Icterus,graduacauda,TRUE,Icterus graduacauda,3.155958121
+1391,5070,Baltimore Oriole,Oriole de Baltimore,Icterus galbula,Passeriformes,Icteridae,Icterus,galbula,TRUE,Icterus galbula,2.680863532
+1392,5078,hybrid Bullock's Oriole x Baltimore Oriole,hybride Oriole de Baltimore x Oriole de Bullock's,Icterus bullockii x galbula,Passeriformes,Icteridae,Icterus,bullockii x galbula,TRUE,Icterus bullockii x galbula,NA
+1393,5077,Northern Oriole (Bullock's/Baltimore),Oriole du Nord (de Bullock/de Baltimore),Icterus bullockii / galbula,Passeriformes,Icteridae,Icterus,bullockii / galbula,TRUE,Icterus bullockii / galbula,2.6381034735
+1395,5040,Scott's Oriole,Oriole jaune-verdâtre,Icterus parisorum,Passeriformes,Icteridae,Icterus,parisorum,TRUE,Icterus parisorum,3.107281677
+1396,4980,Red-winged Blackbird,Carouge à épaulettes,Agelaius phoeniceus,Passeriformes,Icteridae,Agelaius,phoeniceus,TRUE,Agelaius phoeniceus,4.27953597
+1397,5000,Tricolored Blackbird,Carouge de Californie,Agelaius tricolor,Passeriformes,Icteridae,Agelaius,tricolor,TRUE,Agelaius tricolor,3.777039139
+1399,4961,Shiny Cowbird,Vacher luisant,Molothrus bonariensis,Passeriformes,Icteridae,Molothrus,bonariensis,TRUE,Molothrus bonariensis,2.91219839
+1400,4960,Bronzed Cowbird,Vacher bronzé,Molothrus aeneus,Passeriformes,Icteridae,Molothrus,aeneus,TRUE,Molothrus aeneus,2.459147624
+1401,4950,Brown-headed Cowbird,Vacher à tête brune,Molothrus ater,Passeriformes,Icteridae,Molothrus,ater,TRUE,Molothrus ater,3.285866402
+1402,4955,unid. Bronzed Cowbird / Brown-headed Cowbird,unid Vacher bronzé / à tête brune,Molothrus aeneus / ater,Passeriformes,Icteridae,Molothrus,aeneus / ater,TRUE,Molothrus aeneus / ater,NA
+1405,5090,Rusty Blackbird,Quiscale rouilleux,Euphagus carolinus,Passeriformes,Icteridae,Euphagus,carolinus,TRUE,Euphagus carolinus,2.373692921
+1406,5100,Brewer's Blackbird,Quiscale de Brewer,Euphagus cyanocephalus,Passeriformes,Icteridae,Euphagus,cyanocephalus,TRUE,Euphagus cyanocephalus,2.706886845
+1407,5110,Common Grackle,Quiscale bronzé,Quiscalus quiscula,Passeriformes,Icteridae,Quiscalus,quiscula,TRUE,Quiscalus quiscula,4.115782122
+1408,5130,Boat-tailed Grackle,Quiscale des marais,Quiscalus major,Passeriformes,Icteridae,Quiscalus,major,TRUE,Quiscalus major,3.981324655
+1409,5120,Great-tailed Grackle,Quiscale à longue queue,Quiscalus mexicanus,Passeriformes,Icteridae,Quiscalus,mexicanus,TRUE,Quiscalus mexicanus,3.255220394
+1410,5135,unid. Boat-tailed Grackle / Great-tailed Grackle,unid Quiscale des marais / Quiscale à longue queue,Quiscalus major / mexicanus,Passeriformes,Icteridae,Quiscalus,major / mexicanus,TRUE,Quiscalus major / mexicanus,NA
+1411,6740,Ovenbird,Paruline couronnée,Seiurus aurocapilla,Passeriformes,Parulidae,Seiurus,aurocapilla,TRUE,Seiurus aurocapilla,2.427777608
+1412,6390,Worm-eating Warbler,Paruline vermivore,Helmitheros vermivorum,Passeriformes,Parulidae,Helmitheros,vermivorum,TRUE,Helmitheros vermivorum,2.264556536
+1413,6760,Louisiana Waterthrush,Paruline hochequeue,Parkesia motacilla,Passeriformes,Parulidae,Parkesia,motacilla,TRUE,Parkesia motacilla,2.134498512
+1414,6750,Northern Waterthrush,Paruline des ruisseaux,Parkesia noveboracensis,Passeriformes,Parulidae,Parkesia,noveboracensis,TRUE,Parkesia noveboracensis,2.215035085
+1415,6420,Golden-winged Warbler,Paruline à ailes dorées,Vermivora chrysoptera,Passeriformes,Parulidae,Vermivora,chrysoptera,TRUE,Vermivora chrysoptera,2.07904359
+1416,6410,Blue-winged Warbler,Paruline à ailes bleues,Vermivora cyanoptera,Passeriformes,Parulidae,Vermivora,cyanoptera,TRUE,Vermivora cyanoptera,2.135991434
+1417,6412,Brewster's Warbler (Golden-winged x Blue-winged),Paruline de Brewster,Vermivora cyanoptera x chrysoptera,Passeriformes,Parulidae,Vermivora,cyanoptera x chrysoptera,TRUE,Vermivora cyanoptera x chrysoptera,NA
+1418,6413,Lawrence's Warbler (Golden-winged x Blue-winged),Paruline de Lawrence,Vermivora chrysoptera x cyanoptera,Passeriformes,Parulidae,Vermivora,chrysoptera x cyanoptera,TRUE,Vermivora chrysoptera x cyanoptera,NA
+1419,6360,Black-and-white Warbler,Paruline noir et blanc,Mniotilta varia,Passeriformes,Parulidae,Mniotilta,varia,TRUE,Mniotilta varia,2.592005464
+1420,6370,Prothonotary Warbler,Paruline orangée,Protonotaria citrea,Passeriformes,Parulidae,Protonotaria,citrea,TRUE,Protonotaria citrea,2.006374883
+1421,6380,Swainson's Warbler,Paruline de Swainson,Limnothlypis swainsonii,Passeriformes,Parulidae,Limnothlypis,swainsonii,TRUE,Limnothlypis swainsonii,2.317199656
+1423,6470,Tennessee Warbler,Paruline obscure,Leiothlypis peregrina,Passeriformes,Parulidae,Leiothlypis,peregrina,TRUE,Leiothlypis peregrina,1.862894145
+1424,6460,Orange-crowned Warbler,Paruline verdâtre,Leiothlypis celata,Passeriformes,Parulidae,Leiothlypis,celata,TRUE,Leiothlypis celata,2.079755232
+1426,6430,Lucy's Warbler,Paruline de Lucy,Leiothlypis luciae,Passeriformes,Parulidae,Leiothlypis,luciae,TRUE,Leiothlypis luciae,2.017240687
+1427,6450,Nashville Warbler,Paruline à joues grises,Leiothlypis ruficapilla,Passeriformes,Parulidae,Leiothlypis,ruficapilla,TRUE,Leiothlypis ruficapilla,2.306610575
+1428,6440,Virginia's Warbler,Paruline de Virginia,Leiothlypis virginiae,Passeriformes,Parulidae,Leiothlypis,virginiae,TRUE,Leiothlypis virginiae,1.930102826
+1429,6780,Connecticut Warbler,Paruline à gorge grise,Oporornis agilis,Passeriformes,Parulidae,Oporornis,agilis,TRUE,Oporornis agilis,1.942642126
+1431,6800,MacGillivray's Warbler,Paruline des buissons,Geothlypis tolmiei,Passeriformes,Parulidae,Geothlypis,tolmiei,TRUE,Geothlypis tolmiei,2.409588172
+1432,6790,Mourning Warbler,Paruline triste,Geothlypis philadelphia,Passeriformes,Parulidae,Geothlypis,philadelphia,TRUE,Geothlypis philadelphia,2.123503652
+1433,6770,Kentucky Warbler,Paruline du Kentucky,Geothlypis formosa,Passeriformes,Parulidae,Geothlypis,formosa,TRUE,Geothlypis formosa,2.197692357
+1437,6810,Common Yellowthroat,Paruline masquée,Geothlypis trichas,Passeriformes,Parulidae,Geothlypis,trichas,TRUE,Geothlypis trichas,2.538277341
+1439,6840,Hooded Warbler,Paruline à capuchon,Setophaga citrina,Passeriformes,Parulidae,Setophaga,citrina,TRUE,Setophaga citrina,2.048552778
+1440,6870,American Redstart,Paruline flamboyante,Setophaga ruticilla,Passeriformes,Parulidae,Setophaga,ruticilla,TRUE,Setophaga ruticilla,2.290661573
+1441,6700,Kirtland's Warbler,Paruline de Kirtland,Setophaga kirtlandii,Passeriformes,Parulidae,Setophaga,kirtlandii,TRUE,Setophaga kirtlandii,2.181159176
+1442,6500,Cape May Warbler,Paruline tigrée,Setophaga tigrina,Passeriformes,Parulidae,Setophaga,tigrina,TRUE,Setophaga tigrina,1.889569075
+1443,6580,Cerulean Warbler,Paruline azurée,Setophaga cerulea,Passeriformes,Parulidae,Setophaga,cerulea,TRUE,Setophaga cerulea,1.960813984
+1444,6480,Northern Parula,Paruline à collier,Setophaga americana,Passeriformes,Parulidae,Setophaga,americana,TRUE,Setophaga americana,1.916144929
+1445,6490,Tropical Parula,Paruline à joues noires,Setophaga pitiayumi,Passeriformes,Parulidae,Setophaga,pitiayumi,TRUE,Setophaga pitiayumi,2.021721074
+1446,6570,Magnolia Warbler,Paruline à tête cendrée,Setophaga magnolia,Passeriformes,Parulidae,Setophaga,magnolia,TRUE,Setophaga magnolia,2.125301481
+1447,6600,Bay-breasted Warbler,Paruline à poitrine baie,Setophaga castanea,Passeriformes,Parulidae,Setophaga,castanea,TRUE,Setophaga castanea,2.053568026
+1448,6620,Blackburnian Warbler,Paruline à gorge orangée,Setophaga fusca,Passeriformes,Parulidae,Setophaga,fusca,TRUE,Setophaga fusca,2.237287672
+1449,6520,Yellow Warbler,Paruline jaune,Setophaga petechia,Passeriformes,Parulidae,Setophaga,petechia,TRUE,Setophaga petechia,2.409592181
+1450,6590,Chestnut-sided Warbler,Paruline à flancs marron,Setophaga pensylvanica,Passeriformes,Parulidae,Setophaga,pensylvanica,TRUE,Setophaga pensylvanica,2.000625124
+1451,6610,Blackpoll Warbler,Paruline rayée,Setophaga striata,Passeriformes,Parulidae,Setophaga,striata,TRUE,Setophaga striata,2.083837971
+1452,6540,Black-throated Blue Warbler,Paruline bleue,Setophaga caerulescens,Passeriformes,Parulidae,Setophaga,caerulescens,TRUE,Setophaga caerulescens,2.256927131
+1453,6720,Palm Warbler,Paruline à couronne rousse,Setophaga palmarum,Passeriformes,Parulidae,Setophaga,palmarum,TRUE,Setophaga palmarum,2.012091168
+1454,6710,Pine Warbler,Paruline des pins,Setophaga pinus,Passeriformes,Parulidae,Setophaga,pinus,TRUE,Setophaga pinus,2.060304474
+1455,6550,(Myrtle Warbler) Yellow-rumped Warbler,Paruline à croupion jaune (groupe coronata),Setophaga coronata coronata,Passeriformes,Parulidae,Setophaga,coronata coronata,TRUE,Setophaga coronata coronata,2.275221628
+1456,6560,(Audubon's Warbler) Yellow-rumped Warbler,Paruline à croupion jaune (groupe auduboni),Setophaga coronata audoboni,Passeriformes,Parulidae,Setophaga,coronata audoboni,TRUE,Setophaga coronata audoboni,2.275221628
+1457,6556,Yellow-rumped Warbler (all forms),Paruline à croupion jaune (toutes les formes),Setophaga coronata,Passeriformes,Parulidae,Setophaga,coronata,TRUE,Setophaga coronata,2.275221628
+1458,6630,Yellow-throated Warbler,Paruline à gorge jaune,Setophaga dominica,Passeriformes,Parulidae,Setophaga,dominica,TRUE,Setophaga dominica,1.972186319
+1459,6730,Prairie Warbler,Paruline des prés,Setophaga discolor,Passeriformes,Parulidae,Setophaga,discolor,TRUE,Setophaga discolor,2.321933109
+1460,6640,Grace's Warbler,Paruline de Grace,Setophaga graciae,Passeriformes,Parulidae,Setophaga,graciae,TRUE,Setophaga graciae,2.135095065
+1461,6650,Black-throated Gray Warbler,Paruline grise,Setophaga nigrescens,Passeriformes,Parulidae,Setophaga,nigrescens,TRUE,Setophaga nigrescens,2.430695515
+1462,6680,Townsend's Warbler,Paruline de Townsend,Setophaga townsendi,Passeriformes,Parulidae,Setophaga,townsendi,TRUE,Setophaga townsendi,2.378907897
+1463,6690,Hermit Warbler,Paruline à tête jaune,Setophaga occidentalis,Passeriformes,Parulidae,Setophaga,occidentalis,TRUE,Setophaga occidentalis,2.178412242
+1464,6686,hybrid Townsend's Warbler x Hermit Warbler,hybride Paruline de Townsend x à tête jaune,Setophaga townsendi x occidentalis,Passeriformes,Parulidae,Setophaga,townsendi x occidentalis,TRUE,Setophaga townsendi x occidentalis,NA
+1465,6685,unid. Townsend's Warbler / Hermit Warbler,unid Paruline de Townsend / Paruline à tête jaune,Setophaga townsendi / occidentalis,Passeriformes,Parulidae,Setophaga,townsendi / occidentalis,TRUE,Setophaga townsendi / occidentalis,NA
+1466,6660,Golden-cheeked Warbler,Paruline à dos noir,Setophaga chrysoparia,Passeriformes,Parulidae,Setophaga,chrysoparia,TRUE,Setophaga chrysoparia,2.439937895
+1467,6670,Black-throated Green Warbler,Paruline à gorge noire,Setophaga virens,Passeriformes,Parulidae,Setophaga,virens,TRUE,Setophaga virens,1.985630255
+1473,6860,Canada Warbler,Paruline du Canada,Cardellina canadensis,Passeriformes,Parulidae,Cardellina,canadensis,TRUE,Cardellina canadensis,2.048246608
+1474,6850,Wilson's Warbler,Paruline à calotte noire,Cardellina pusilla,Passeriformes,Parulidae,Cardellina,pusilla,TRUE,Cardellina pusilla,2.125301481
+1475,6900,Red-faced Warbler,Paruline à face rouge,Cardellina rubrifrons,Passeriformes,Parulidae,Cardellina,rubrifrons,TRUE,Cardellina rubrifrons,2.085432044
+1478,6880,Painted Redstart,Paruline à ailes blanches,Myioborus pictus,Passeriformes,Parulidae,Myioborus,pictus,TRUE,Myioborus pictus,1.848723171
+1481,6090,Hepatic Tanager,Piranga orangé,Piranga flava,Passeriformes,Cardinalidae,Piranga,flava,TRUE,Piranga flava,2.250777359
+1482,6100,Summer Tanager,Piranga vermillon,Piranga rubra,Passeriformes,Cardinalidae,Piranga,rubra,TRUE,Piranga rubra,2.529418312
+1483,6080,Scarlet Tanager,Piranga écarlate,Piranga olivacea,Passeriformes,Cardinalidae,Piranga,olivacea,TRUE,Piranga olivacea,2.390336661
+1484,6070,Western Tanager,Piranga à tête rouge,Piranga ludoviciana,Passeriformes,Cardinalidae,Piranga,ludoviciana,TRUE,Piranga ludoviciana,2.230321436
+1492,5930,Northern Cardinal,Cardinal rouge,Cardinalis cardinalis,Passeriformes,Cardinalidae,Cardinalis,cardinalis,TRUE,Cardinalis cardinalis,4.156734357
+1493,5940,Pyrrhuloxia,Cardinal pyrrhuloxia,Cardinalis sinuatus,Passeriformes,Cardinalidae,Cardinalis,sinuatus,TRUE,Cardinalis sinuatus,5.599267088
+1494,5935,unid. Northern Cardinal / Pyrrhuloxia,unid Cardinal rouge / Cardinal pyrrhuloxia,Cardinalis cardinalis / sinuatus,Passeriformes,Cardinalidae,Cardinalis,cardinalis / sinuatus,TRUE,Cardinalis cardinalis / sinuatus,NA
+1496,5950,Rose-breasted Grosbeak,Cardinal à poitrine rose,Pheucticus ludovicianus,Passeriformes,Cardinalidae,Pheucticus,ludovicianus,TRUE,Pheucticus ludovicianus,2.6961497
+1497,5960,Black-headed Grosbeak,Cardinal à tête noire,Pheucticus melanocephalus,Passeriformes,Cardinalidae,Pheucticus,melanocephalus,TRUE,Pheucticus melanocephalus,2.626122912
+1503,5970,Blue Grosbeak,Guiraca bleu,Passerina caerulea,Passeriformes,Cardinalidae,Passerina,caerulea,TRUE,Passerina caerulea,3.085739873
+1504,5990,Lazuli Bunting,Passerin azuré,Passerina amoena,Passeriformes,Cardinalidae,Passerina,amoena,TRUE,Passerina amoena,2.341236644
+1505,5980,Indigo Bunting,Passerin indigo,Passerina cyanea,Passeriformes,Cardinalidae,Passerina,cyanea,TRUE,Passerina cyanea,2.777197368
+1506,5986,hybrid Lazuli Bunting x Indigo Bunting,hybride Passerin azuré x Passerin indigo,Passerina amoena x cyanea,Passeriformes,Cardinalidae,Passerina,amoena x cyanea,TRUE,Passerina amoena x cyanea,NA
+1509,6000,Varied Bunting,Passerin varié,Passerina versicolor,Passeriformes,Cardinalidae,Passerina,versicolor,TRUE,Passerina versicolor,2.229390891
+1510,6010,Painted Bunting,Passerin nonpareil,Passerina ciris,Passeriformes,Cardinalidae,Passerina,ciris,TRUE,Passerina ciris,2.467333191
+1511,6040,Dickcissel,Dickcissel d'Amérique,Spiza americana,Passeriformes,Cardinalidae,Spiza,americana,TRUE,Spiza americana,2.079148346
