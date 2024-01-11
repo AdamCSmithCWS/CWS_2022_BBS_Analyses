@@ -1,0 +1,1001 @@
+﻿results_code,area_code,area_name,statprov_code,collection_code,latitude,longitude
+AWSGS,MB,Manitoba,NULL,NULL,NULL,NULL
+AWSGS,NB,New Brunswick ,NULL,NULL,NULL,NULL
+AWSGS,NS,Nova Scotia,NULL,NULL,NULL,NULL
+AWSGS,ON,Ontario,NULL,NULL,NULL,NULL
+AWSGS,PE,Prince Edward Island ,NULL,NULL,NULL,NULL
+AWSGS,PQ,Quebec,NULL,NULL,NULL,NULL
+BAGO,SLE,St. Lawrence Estuary and Gulf,NULL,NULL,NULL,NULL
+BBS,AB,Alberta,AB,BBS50-CAN,NULL,NULL
+BBS,BC,British Columbia,BC,BBS50-CAN,NULL,NULL
+BBS,BCR_10,BCR_10,NULL,BBS,NULL,NULL
+BBS,BCR_11,BCR_11,NULL,BBS,NULL,NULL
+BBS,BCR_12,BCR_12,NULL,BBS,NULL,NULL
+BBS,BCR_13,BCR_13,NULL,BBS,NULL,NULL
+BBS,BCR_14,BCR_14,NULL,BBS,NULL,NULL
+BBS,BCR_4,BCR_4,NULL,BBS,NULL,NULL
+BBS,BCR_5,BCR_5,NULL,BBS,NULL,NULL
+BBS,BCR_6,BCR_6,NULL,BBS,NULL,NULL
+BBS,BCR_7,BCR_7,NULL,BBS,NULL,NULL
+BBS,BCR_8,BCR_8,NULL,BBS,NULL,NULL
+BBS,BCR_9,BCR_9,NULL,BBS,NULL,NULL
+BBS,CA-AB-10,CA-AB-10,NULL,BBS,NULL,NULL
+BBS,CA-AB-11,CA-AB-11,NULL,BBS,NULL,NULL
+BBS,CA-AB-6,CA-AB-6,NULL,BBS,NULL,NULL
+BBS,CA-BC-10,CA-BC-10,NULL,BBS,NULL,NULL
+BBS,CA-BC-4,CA-BC-4,NULL,BBS,NULL,NULL
+BBS,CA-BC-5,CA-BC-5,NULL,BBS,NULL,NULL
+BBS,CA-BC-6,CA-BC-6,NULL,BBS,NULL,NULL
+BBS,CA-BC-9,CA-BC-9,NULL,BBS,NULL,NULL
+BBS,CA-BCR7-7,CA-BCR7-7,NULL,BBS,NULL,NULL
+BBS,CA-MB-11,CA-MB-11,NULL,BBS,NULL,NULL
+BBS,CA-MB-12,CA-MB-12,NULL,BBS,NULL,NULL
+BBS,CA-MB-6,CA-MB-6,NULL,BBS,NULL,NULL
+BBS,CA-MB-8,CA-MB-8,NULL,BBS,NULL,NULL
+BBS,Canada,Canada,NULL,BBS,NULL,NULL
+BBS,Canada-BCR_10,Canada-BCR_10,NULL,BBS,NULL,NULL
+BBS,Canada-BCR_11,Canada-BCR_11,NULL,BBS,NULL,NULL
+BBS,Canada-BCR_12,Canada-BCR_12,NULL,BBS,NULL,NULL
+BBS,Canada-BCR_13,Canada-BCR_13,NULL,BBS,NULL,NULL
+BBS,Canada-BCR_14,Canada-BCR_14,NULL,BBS,NULL,NULL
+BBS,Canada-BCR_4,Canada-BCR_4,NULL,BBS,NULL,NULL
+BBS,Canada-BCR_5,Canada-BCR_5,NULL,BBS,NULL,NULL
+BBS,Canada-BCR_6,Canada-BCR_6,NULL,BBS,NULL,NULL
+BBS,Canada-BCR_7,Canada-BCR_7,NULL,BBS,NULL,NULL
+BBS,Canada-BCR_8,Canada-BCR_8,NULL,BBS,NULL,NULL
+BBS,Canada-BCR_9,Canada-BCR_9,NULL,BBS,NULL,NULL
+BBS,CA-NB-14,CA-NB-14,NULL,BBS,NULL,NULL
+BBS,CA-NL-8,CA-NL-8,NULL,BBS,NULL,NULL
+BBS,CA-NSPE-14,CA-NSPE-14,NULL,BBS,NULL,NULL
+BBS,CA-NT-6,CA-NT-6,NULL,BBS,NULL,NULL
+BBS,CA-ON-12,CA-ON-12,NULL,BBS,NULL,NULL
+BBS,CA-ON-13,CA-ON-13,NULL,BBS,NULL,NULL
+BBS,CA-ON-8,CA-ON-8,NULL,BBS,NULL,NULL
+BBS,CA-QC-12,CA-QC-12,NULL,BBS,NULL,NULL
+BBS,CA-QC-13,CA-QC-13,NULL,BBS,NULL,NULL
+BBS,CA-QC-14,CA-QC-14,NULL,BBS,NULL,NULL
+BBS,CA-QC-8,CA-QC-8,NULL,BBS,NULL,NULL
+BBS,CA-SK-11,CA-SK-11,NULL,BBS,NULL,NULL
+BBS,CA-SK-6,CA-SK-6,NULL,BBS,NULL,NULL
+BBS,CA-YT-4,CA-YT-4,NULL,BBS,NULL,NULL
+BBS,Continental,Continental,NULL,BBS,NULL,NULL
+BBS,MB,Manitoba,MB,BBS50-CAN,NULL,NULL
+BBS,NB,New Brunswick,NB,BBS50-CAN,NULL,NULL
+BBS,NL,Newfoundland and Labrador,NL,BBS50-CAN,NULL,NULL
+BBS,NSPE,Nova Scotia and Prince Edward Island,NULL,BBS50-CAN,NULL,NULL
+BBS,NT,Northwest Territories,NT,BBS50-CAN,NULL,NULL
+BBS,ON,Ontario,ON,BBS50-CAN,NULL,NULL
+BBS,QC,Quebec,QC,BBS50-CAN,NULL,NULL
+BBS,SK,Saskatchewan,SK,BBS50-CAN,NULL,NULL
+BBS,USA,United States of America,NULL,BBS,NULL,NULL
+BBS,YT,Yukon,YT,BBS50-CAN,NULL,NULL
+BCCPWBS,BC,British Columbia,NULL,NULL,NULL,NULL
+BCCWS,SALISHSEA,Salish Sea,BC,BCCWS,NULL,NULL
+BCCWS,STRTGEORGIA,Strait of Georgia,BC,BCCWS,NULL,NULL
+CBC,AB,Alberta,AB,CBC,NULL,NULL
+CBC,BC,British Columbia,BC,CBC,NULL,NULL
+CBC,BCR01,BCR_1,NULL,CBC,NULL,NULL
+CBC,BCR02,BCR_2,NULL,CBC,NULL,NULL
+CBC,BCR03,BCR_3,NULL,CBC,NULL,NULL
+CBC,BCR04,BCR_4,NULL,CBC,NULL,NULL
+CBC,BCR05,BCR_5,NULL,CBC,NULL,NULL
+CBC,BCR06,BCR_6,NULL,CBC,NULL,NULL
+CBC,BCR08,BCR_7,NULL,CBC,NULL,NULL
+CBC,BCR09,BCR_8,NULL,CBC,NULL,NULL
+CBC,BCR10,BCR_9,NULL,CBC,NULL,NULL
+CBC,BCR11,BCR_11,NULL,CBC,NULL,NULL
+CBC,BCR12,BCR_12,NULL,CBC,NULL,NULL
+CBC,BCR13,BCR_13,NULL,CBC,NULL,NULL
+CBC,BCR14,BCR_14,NULL,CBC,NULL,NULL
+CBC,BCR15,BCR_15,NULL,CBC,NULL,NULL
+CBC,BCR16,BCR_16,NULL,CBC,NULL,NULL
+CBC,BCR17,BCR_17,NULL,CBC,NULL,NULL
+CBC,BCR18,BCR_18,NULL,CBC,NULL,NULL
+CBC,BCR19,BCR_19,NULL,CBC,NULL,NULL
+CBC,BCR20,BCR_20,NULL,CBC,NULL,NULL
+CBC,BCR21,BCR_21,NULL,CBC,NULL,NULL
+CBC,BCR22,BCR_22,NULL,CBC,NULL,NULL
+CBC,BCR23,BCR_23,NULL,CBC,NULL,NULL
+CBC,BCR24,BCR_24,NULL,CBC,NULL,NULL
+CBC,BCR25,BCR_25,NULL,CBC,NULL,NULL
+CBC,BCR26,BCR_26,NULL,CBC,NULL,NULL
+CBC,BCR27,BCR_27,NULL,CBC,NULL,NULL
+CBC,BCR28,BCR_28,NULL,CBC,NULL,NULL
+CBC,BCR29,BCR_29,NULL,CBC,NULL,NULL
+CBC,BCR30,BCR_30,NULL,CBC,NULL,NULL
+CBC,BCR31,BCR_31,NULL,CBC,NULL,NULL
+CBC,BCR32,BCR_32,NULL,CBC,NULL,NULL
+CBC,BCR33,BCR_33,NULL,CBC,NULL,NULL
+CBC,BCR34,BCR_34,NULL,CBC,NULL,NULL
+CBC,BCR35,BCR_35,NULL,CBC,NULL,NULL
+CBC,BCR36,BCR_36,NULL,CBC,NULL,NULL
+CBC,BCR37,BCR_37,NULL,CBC,NULL,NULL
+CBC,CAN,Canada,NULL,CBC,NULL,NULL
+CBC,MB,Manitoba,MB,CBC,NULL,NULL
+CBC,NB,New Brunswick,NB,CBC,NULL,NULL
+CBC,NL,Newfoundland and Labrador,NL,CBC,NULL,NULL
+CBC,NS,Nova Scotia,NS,CBC,NULL,NULL
+CBC,NT,Northwest Territories,NT,CBC,NULL,NULL
+CBC,NU,Nunavut,NU,CBC,NULL,NULL
+CBC,ON,Ontario,ON,CBC,NULL,NULL
+CBC,PE,Prince Edward Island,PE,CBC,NULL,NULL
+CBC,QC,Quebec,QC,CBC,NULL,NULL
+CBC,SK,Saskatchewan,SK,CBC,NULL,NULL
+CBC,USA,United States of America,NULL,CBC,NULL,NULL
+CBC,USACAN,Continental,NULL,CBC,NULL,NULL
+CBC,YT,Yukon,YT,CBC,NULL,NULL
+CMMN,ABO,Atlantic Bird Observatory,NS,CMMN-DET-ABO,NULL,NULL
+CMMN,ACBO,Albert Creek Bird Observatory,YK,CMMN-DET-ACBO,60.0518,-128.9036
+CMMN,ATBP,Atlantic Bird Observatory - Bon Portage Island,NS,CMMN-DET-ATBP,43.46472,-66.74528
+CMMN,ATSI,Atlantic Bird Observatory - Seal Island,NS,CMMN-DET-ATSI,43.39389,-66.01389
+CMMN,BBO,Beaverhill Bird Observatory,AB,CMMN-DET-BBO,53.38055,-112.5274
+CMMN,BIBMRS,Brier Island Bird Migration Research Station,NS,CMMN-DET-BIBMRS,44.259,-66.3609
+CMMN,BPBO,Bruce Peninsula Bird Observatory,ON,CMMN-DET-BPBO,45.2061,-81.4247
+CMMN,DMBO,Delta Marsh Bird Observatory,MB,CMMN-DET-DMBO,50.1809,-98.4045
+CMMN,DRYLAKE,Haldimand Bird Observatory - Dry Lake,ON,CMMN-DET-HBO,NULL,NULL
+CMMN,GMNP,Gros Morne National Park Migration Monitoring Station,NL,CMMN-DET-GMNP,49.6039,-57.9572
+CMMN,HBO,Haldimand Bird Observatory,ON,CMMN-DET-HBO,NULL,NULL
+CMMN,IBS,Inglewood Bird Sanctuary,AB,CMMN-DET-IBS,51.0241,-114.0101
+CMMN,IPBO,Innis Point Bird Observatory,ON,CMMN-DET-IPBO,45.3683,-75.8978
+CMMN,LMBO,Last Mountain Bird Observatory,SK,CMMN-DET-LMBO,51.35177,-105.2163
+CMMN,LPBO,Long Point Bird Observatory,ON,CMMN-DET-LPBO,42.5506,-80.252
+CMMN,LPBO1,Long Point Bird Observatory (Tip),ON,CMMN-DET-LPBO,42.5489,-80.0516
+CMMN,LPBO2,Long Point Bird Observatory (Breakwater),ON,CMMN-DET-LPBO,42.5665,-80.3078
+CMMN,LPBO3,Long Point Bird Observatory (Old Cut),ON,CMMN-DET-LPBO,42.5825,-80.3985
+CMMN,LSLBO,Lesser Slave Lake Bird Observatory,AB,CMMN-DET-LSLBO,55.42586,-114.825
+CMMN,MGBO,McGill Bird Observatory,QC,CMMN-DET-MGBO,45.431,-73.939
+CMMN,MNO,Mackenzie Nature Observatory,BC,CMMN-DET-MNO,55.3167,-123.1333
+CMMN,OOT,Observatoire d'oiseaux de Tadoussac,QC,CMMN-DET-OOT,48.15762,-69.66426
+CMMN,OOT-1,Observatoire d'oiseaux de Tadoussac,QC,CMMN-DET-OOT,48.15762,-69.66426
+CMMN,OOT-2,Observatoire d'oiseaux de Tadoussac,QC,CMMN-DET-OOT,48.15762,-69.66426
+CMMN,PEBA,Pedder Bay,BC,CMMN-DET-RPBO,49.2917,-119.5167
+CMMN,PEPBO,Prince Edward Point Bird Observatory,ON,CMMN-DET-PEPBO,43.93948,-76.86126
+CMMN,PIBO,Pelee Island Bird Observatory,ON,CMMN-DET-PIBO,41.7324,-82.6726
+CMMN,PTLE,Point Lepreau,NB,NULL,45.0667,-66.45
+CMMN,RBMS,Revelstoke Bird Monitoring Station,BC,CMMN-DET-RBMS,51.0522,-118.195
+CMMN,ROCK,Haldimand Bird Observatory - Rock Point,ON,CMMN-DET-HBO,42.51118,-79.33044
+CMMN,RPBO,Rocky Point Bird Observatory,BC,CMMN-DET-RPBO,48.32055,-123.5471
+CMMN,RUTH,Haldimand Bird Observatory - Ruthven,ON,CMMN-DET-HBO,42.97836,-79.87472
+CMMN,SABBS,St. Andrews Bird Banding Station,NB,CMMN-DET-SABBS,45.087,-67.0788
+CMMN,SELK,Haldimand Bird Observatory - Selkirk,ON,CMMN-DET-HBO,42.8125,-79.95956
+CMMN,TCBO,Thunder Cape Bird Observatory,ON,CMMN-DET-TCBO,48.3316,-88.9261
+CMMN,TLBBS,Teslin Lake Bird Banding Station,YK,CMMN-DET-TLBBS,60.25,-132.9667
+CMMN,TLBO,Tatlayoko Lake Bird Observatory,YK,CMMN-DET-TLBO,51.65417,-124.408
+CMMN,TTPBRS,Tommy Thompson Park Bird Research Station,ON,CMMN-DET-TTPBRS,43.63179,-79.33067
+CMMN,VLBO,Vaseux Lake Migration Monitoring Station,BC,CMMN-DET-VLMMS,49.2917,-119.5167
+CMMN,VLMMS,Vaseux Lake Migration Monitoring Station,BC,CMMN-DET-VLMMS,49.2917,-119.5167
+CMMN,WPBO,Whitefish Point Bird Observatory,MN,CMMN-DET-WPBO,46.7551,-84.9797
+COEI,EAST,"Eastern Canada (and Saint-Pierre and Miquelon, France)",NULL,NULL,NULL,NULL
+COEI,NB,New Brunswick,NULL,NULL,NULL,NULL
+COEI,SLE,"St. Lawrence Estuary, Quebec",NULL,NULL,NULL,NULL
+CRANE,Eastern, Mississippi and Atlantic Flyways,NULL,NULL,NULL,NULL
+CRANE,PLATTE,Central Platte and North Platte River valleys,NULL,NULL,NULL,NULL
+EWS,AF,Atlantic Highlands,NULL,NULL,NULL,NULL
+EWS,CBF,Central Boreal Shield,NULL,NULL,NULL,NULL
+EWS,EBS,Eastern Boreal Shield,NULL,NULL,NULL,NULL
+EWS,EWS,Eastern Waterfowl Survey Area,NULL,NULL,NULL,NULL
+EWS,WBS,Western Boreal Shield,NULL,NULL,NULL,NULL
+GSNO,CENTRAL,Quebec and Ontario,NULL,NULL,NULL,NULL
+GWFG,CanPrairie,Southern Saskatchewan and Alberta,NULL,NULL,NULL,NULL
+KARRAK,KARRAK,"Queen Maud Gulf (Ahiak) Bird Sanctuary, Nunavut",NULL,NULL,NULL,NULL
+LINCOLN,Arctic,Arctic,NULL,NULL,NULL,NULL
+LINCOLN,Eastern,Eastern,NULL,NULL,NULL,NULL
+LINCOLN,Mid-Continent,Mid-Continent,NULL,NULL,NULL,NULL
+LINCOLN,NorthAmerica,North America,NULL,NULL,NULL,NULL
+LINCOLN,Western,Western,NULL,NULL,NULL,NULL
+LINCOLN,Western Arctic,Western Arctic,NULL,NULL,NULL,NULL
+MIDWINTER,Central Flyway,Central Flyway,NULL,NULL,NULL,NULL
+MIDWINTER,Mid-continent,Mid-continent,NULL,NULL,NULL,NULL
+MIDWINTER,Mississippi Flyway,Mississippi Flyway,NULL,NULL,NULL,NULL
+MIDWINTER,Pacific,Pacific,NULL,NULL,NULL,NULL
+MIDWINTER,Total,Combined Mississippi and Central flyways (for LSGO),NULL,NULL,NULL,NULL
+MMP,LK.ER.WATERSHED,Lake Erie Watershed,NULL,MMPBIRDS,NULL,NULL
+MMP,LK.HU-MI.WATERSHED,Lake Huron and Michigan Watershed,NULL,MMPBIRDS,NULL,NULL
+MMP,LK.ON.WATERSHED,Lake Ontario Watershed,NULL,MMPBIRDS,NULL,NULL
+MMP,ON.BCR.13,BCR 13 (Ontario),ON,MMPBIRDS,NULL,NULL
+MMP,QC.BCR.13,BCR 13 (Quebec),ON,MMPBIRDS,NULL,NULL
+NACAGO,North Atlantic,North Atlantic,NULL,NULL,NULL,NULL
+NTBWWS,NWT,Northwest Territories,NULL,NULL,NULL,NULL
+OWLS,NB,New Brunswick,NB,NULL,NULL,NULL
+OWLS,NBNS,New Brunswick and Nova Scotia,NULL,NULL,NULL,NULL
+OWLS,NS,Nova Scotia,NS,NULL,NULL,NULL
+OWLS,PE,Prince Edward Island,PE,NULL,NULL,NULL
+PRISM,NorthAmerica,North America,NULL,PRISM,NULL,NULL
+QUEBEC,Atlantic,Atlantic,NULL,NULL,NULL,NULL
+QUEBEC,Quebec,Quebec,NULL,NULL,NULL,NULL
+QUEBEC,Temperate,Temperate,NULL,NULL,NULL,NULL
+RPI,100,Holiday Beach Hawk Watch,ON,HawkCount-100,42.03316,-83.0455
+RPI,103,Wildcat Ridge,NJ,HawkCount-103,40.94719,-74.47211
+RPI,104,Jacks Mountain,PA,HawkCount-104,40.54347,-77.75703
+RPI,105,Rose Tree Park,PA,HawkCount-105,39.939,-75.392
+RPI,106,Reed's Beach Autumn Hawk Watch,NJ,HawkCount-106,NULL,NULL
+RPI,107,Blueberry Hill,MA,HawkCount-107,42.09583,-72.925
+RPI,108,Brady\'s Bend,PA,HawkCount-108,40.98875,-79.58228
+RPI,109,Hawk Mountain Sanctuary,PA,HawkCount-109,40.64158,-75.99153
+RPI,110,Lehigh Gap Hawkwatch,PA,HawkCount-110,40.78472,-75.61528
+RPI,111,Allegheny Front,PA,HawkCount-111,40.08142,-78.72784
+RPI,112,Lenoir Wildlife Sanctuary,NY,HawkCount-112,40.97523,-73.88322
+RPI,113,Pilgrim Heights,MA,HawkCount-113,42.05,-70.13333
+RPI,115,Plum Island MA,MA,HawkCount-115,42.79167,-70.80666
+RPI,118,Mount Lorette,AB,HawkCount-118,50.94389,-115.1375
+RPI,119,Windy Point,AB,HawkCount-119,50.65,-114.5667
+RPI,123,Dinosaur Ridge - Denver Field Ornithologists,CO,HawkCount-123,39.69456,-105.2001
+RPI,125,Booth Hill,CT,HawkCount-125,42.01972,-72.96694
+RPI,126,Botsford Hill,CT,HawkCount-126,41.52472,-73.33522
+RPI,128,Chestnut Hill,CT,HawkCount-128,41.73397,-73.17069
+RPI,129,Cove Island,CT,HawkCount-129,45.33333,-81.83334
+RPI,132,Flat Hill,CT,HawkCount-132,41.47464,-73.27128
+RPI,133,Good Hill,CT,HawkCount-133,41.553,-73.25961
+RPI,136,Heritage Village,CT,HawkCount-136,41.48447,-73.234
+RPI,137,Johnnycake Mountain,CT,HawkCount-137,41.7547,-72.99442
+RPI,138,Lighthouse Point,CT,HawkCount-138,41.24986,-72.90141
+RPI,140,Maltby Lakes,CT,HawkCount-140,41.30381,-72.98314
+RPI,145,Osborne Hill,CT,HawkCount-145,41.39786,-73.22828
+RPI,149,Quaker Ridge,CT,HawkCount-149,41.09711,-73.68867
+RPI,156,Southbury Training School Farm,CT,HawkCount-156,41.50028,-73.28167
+RPI,158,Taine Mountain,CT,HawkCount-158,NULL,NULL
+RPI,159,Talcott Mountain,CT,HawkCount-159,41.81094,-72.79871
+RPI,161,Torrington Middle School,CT,HawkCount-161,41.84725,-73.06792
+RPI,166,Whippoorwill Hill,CT,HawkCount-166,41.42289,-73.34331
+RPI,169,Cape Henlopen Hawk Watch,DE,HawkCount-169,38.78417,-75.08417
+RPI,171,Grammer Grove Hawkwatch,IA,HawkCount-171,42.16768,-93.03555
+RPI,172,Hitchcock Nature Center,IA,HawkCount-172,41.41323,-95.85865
+RPI,173,Lost Mound Refuge,IL,HawkCount-173,42.20555,-90.28
+RPI,174,Indiana Dunes,IN,HawkCount-174,41.65,-87.01667
+RPI,175,Pine Mountain,CT,HawkCount-175,NULL,NULL
+RPI,181,Barre Falls,MA,HawkCount-181,42.43167,-72.02583
+RPI,184,Bolton Flats,MA,HawkCount-184,42.46072,-71.6608
+RPI,200,Fort Hill,MS,HawkCount-200,32.36666,-90.86667
+RPI,224,Mount Holyoke Summit - Skinner State Park,MA,HawkCount-224,42.30052,-72.58765
+RPI,226,Mount Tekoa,MA,HawkCount-226,42.16667,-72.8
+RPI,227,"Mount Tom, Massachusetts",MA,HawkCount-227,42.275,-72.625
+RPI,228,Wachusett Mountain,MA,HawkCount-228,42.48917,-71.8875
+RPI,229,Mount Watatic,MA,HawkCount-229,42.69672,-71.89256
+RPI,238,Pilgrim Heights,MA,HawkCount-238,42.05,-70.13333
+RPI,239,Pinnacle Rock,MA,HawkCount-239,42.43889,-71.07806
+RPI,253,Southwick WMA Hawkwatch,MA,HawkCount-253,42.0365,-72.74503
+RPI,255,Spruce Hill,MA,HawkCount-255,42.63334,-72.63333
+RPI,268,Saint Adolphe,MB,HawkCount-268,49.66667,-98.25
+RPI,272,Fort Smallwood Park,MD,HawkCount-272,39.16333,-76.47694
+RPI,278,Turkey Point,MD,HawkCount-278,39.45215,-76.00753
+RPI,279,Washington Monument State Park,MD,HawkCount-279,39.54689,-77.60993
+RPI,280,"Cadillac Mt., Acadia National Park",ME,HawkCount-280,44.35265,-68.22461
+RPI,284,Port Huron,MI,HawkCount-284,43.1,-82.5
+RPI,285,Detroit River Hawk Watch,MI,HawkCount-285,42.07918,-83.1937
+RPI,286,Whitefish Point,MI,HawkCount-286,46.77111,-84.95528
+RPI,288,Hawk Ridge,MN,HawkCount-288,46.84722,-92.03194
+RPI,292,Rogers Pass,MT,HawkCount-292,47.08004,-112.379
+RPI,293,Bullhead Mountain,NC,HawkCount-293,36.44722,-81.06555
+RPI,300,Mahogany Rock,NC,HawkCount-300,36.44131,-81.09529
+RPI,303,Mount Pisgah,NC,HawkCount-303,35.4425,-82.7198
+RPI,305,Pea Island NWR,NC,HawkCount-305,35.63334,-75.46667
+RPI,306,Pilot Mountain State Park,NC,HawkCount-306,36.34222,-80.47861
+RPI,308,Bare Mountain,MA,HawkCount-308,42.37333,-72.52055
+RPI,310,Little Blue Job Mountain,NH,HawkCount-310,43.339,-71.11576
+RPI,315,Interlakes Elementary School,NH,HawkCount-315,43.65528,-71.49917
+RPI,317,Little Round Top Migration Observatory,NH,HawkCount-317,43.57903,-71.7307
+RPI,320,Pack Monadnock Raptor Migration Observatory,NH,HawkCount-320,42.86331,-71.87935
+RPI,321,Peaked Hill,NH,HawkCount-321,43.6,-71.66666
+RPI,322,Peter Wood Hill,NH,HawkCount-322,43.0957,-71.817
+RPI,328,Cape May,NJ,HawkCount-328,38.93258,-74.958
+RPI,330,Chimney Rock Hawk Watch,NJ,HawkCount-330,40.58222,-74.55622
+RPI,332,Kittatinny Mountain,NJ,HawkCount-332,41.15064,-74.841
+RPI,334,Montclair Hawk Lookout,NJ,HawkCount-334,40.84664,-74.21294
+RPI,338,Picatinny Peak,NJ,HawkCount-338,40.95217,-74.55647
+RPI,339,Raccoon Ridge,NJ,HawkCount-339,41.01486,-75.04256
+RPI,340,Sandy Hook Migration Watch,NJ,HawkCount-340,40.5,-74
+RPI,342,Scott\'s Mountain,NJ,HawkCount-342,40.74186,-75.10867
+RPI,343,State Line Hawkwatch,NJ,HawkCount-343,40.98972,-73.90611
+RPI,345,Sunrise Mountain,NJ,HawkCount-345,41.21813,-74.72044
+RPI,347,Sandia Mountains,NM,HawkCount-347,35.08667,-106.4325
+RPI,351,Bear Mountain Farm,VA,HawkCount-351,38.44083,-79.69361
+RPI,353,Braddock Bay,NY,HawkCount-353,43.30361,-77.71611
+RPI,355,Central Park,NY,HawkCount-355,40.77953,-73.96975
+RPI,358,Derby Hill Bird Observatory,NY,HawkCount-358,43.5275,-76.23944
+RPI,359,Fire Island,NY,HawkCount-359,40.63075,-73.22489
+RPI,360,Fort Tilden,NY,HawkCount-360,40.55956,-73.90158
+RPI,361,Franklin Mt.,NY,HawkCount-361,42.42539,-75.04694
+RPI,364,Hamburg Hawk Watch,NY,HawkCount-364,42.75583,-78.86166
+RPI,368,Hook Mountain,NY,HawkCount-368,41.12089,-73.91833
+RPI,371,Mohonk Preserve,NY,HawkCount-371,41.73592,-74.19547
+RPI,372,Mount Peter,NY,HawkCount-372,41.245,-74.28799
+RPI,375,Pelham Bay,NY,HawkCount-375,40.91667,-73.83334
+RPI,381,Ripley Hawk Watch,NY,HawkCount-381,42.30973,-79.64955
+RPI,387,Conneaut Hawkwatch,OH,HawkCount-387,41.94728,-80.59146
+RPI,389,Niagara Peninsula Hawkwatch - Beamer Conservation Area,ON,HawkCount-389,43.18833,-79.57333
+RPI,391,Cranberry Marsh,ON,HawkCount-391,43.84025,-78.96603
+RPI,392,Hawk Cliff Hawkwatch,ON,HawkCount-392,42.66433,-81.17011
+RPI,393,High Park,ON,HawkCount-393,43.64636,-79.46561
+RPI,395,Iroquois Shoreline,ON,HawkCount-395,43.93508,-78.96909
+RPI,399,Bake Oven Knob,PA,HawkCount-399,40.74833,-75.73358
+RPI,405,BroadwingSEPT - Buckingham,PA,HawkCount-405,40.29086,-75.05656
+RPI,406,BroadwingSEPT - Core Creek,PA,HawkCount-406,40.19358,-74.93168
+RPI,407,BroadwingSEPT - Lake Nockamixon,PA,HawkCount-407,40.47989,-75.21951
+RPI,408,BroadwingSEPT - Peace Valley,PA,HawkCount-408,40.31079,-75.20486
+RPI,409,BroadwingSEPT - Pipersville,PA,HawkCount-409,40.44563,-75.13922
+RPI,410,BroadwingSEPT - Pleasant Valley,PA,HawkCount-410,40.53951,-75.29955
+RPI,411,BroadwingSEPT - Lehigh,PA,HawkCount-411,40.5919,-75.36016
+RPI,413,Cornwall Fire Tower,PA,HawkCount-413,40.28333,-76.36667
+RPI,414,Council Cup,PA,HawkCount-414,41.07669,-76.12148
+RPI,417,Hopewell Fire Tower,PA,HawkCount-417,NULL,NULL
+RPI,420,Little Gap,PA,HawkCount-420,40.80589,-75.54119
+RPI,423,Militia Hill,PA,HawkCount-423,40.1205,-75.22269
+RPI,430,Rocky Ridge,PA,HawkCount-430,40.0129,-76.65439
+RPI,431,Route 183,PA,HawkCount-431,40.52697,-76.22356
+RPI,432,Second Mountain,PA,HawkCount-432,40.47275,-76.62148
+RPI,435,Sterret\'s Gap,PA,HawkCount-435,40.28333,-77.16666
+RPI,436,"Stone Mt., Pa.",PA,HawkCount-436,40.57178,-77.82636
+RPI,437,Tuscarora Summit,PA,HawkCount-437,39.91464,-77.95839
+RPI,438,Tussey Mountain Hawk Watch,PA,HawkCount-438,40.71053,-77.90459
+RPI,439,Waggoner's Gap,PA,HawkCount-439,40.27719,-77.27603
+RPI,441,WHP/WITF Tower,PA,HawkCount-441,40.35,-76.86667
+RPI,442,Plateau de Beaupre,QC,HawkCount-442,47.04222,-70.91167
+RPI,447,Ace Basin,SC,HawkCount-447,32.71667,-80.6
+RPI,448,Caesar\'s Head,SC,HawkCount-448,35.10556,-82.62833
+RPI,449,Chamber\'s Mt.,SC,HawkCount-449,35.56667,-82.9
+RPI,451,Hilton Head Island,SC,HawkCount-451,32.23333,-80.7
+RPI,452,Huntington State Park,CT,HawkCount-452,41.33261,-73.35928
+RPI,457,Santee Coastal,SC,HawkCount-457,33.15325,-79.32816
+RPI,458,Sullivan\'s Island,SC,HawkCount-458,32.76472,-79.86186
+RPI,459,Tibwin,SC,HawkCount-459,33.06736,-79.516
+RPI,466,Soddy Mountain Hawk Watch,TN,HawkCount-466,35.32372,-85.16183
+RPI,468,Bentsen Rio Grande Valley State Park,TX,HawkCount-468,26.16889,-98.38055
+RPI,470,Corpus Christi HawkWatch,TX,HawkCount-470,27.86555,-97.64278
+RPI,471,Hazel Bazemore County Park,TX,HawkCount-471,27.86578,-97.64272
+RPI,472,Santa Ana National Wildlife Refuge,TX,HawkCount-472,26.08247,-98.13897
+RPI,473,Sylvan Beach,TX,HawkCount-473,29.65306,-95.00916
+RPI,474,Jordanelle Reservoir,UT,HawkCount-474,40.6,-111.4333
+RPI,476,College Creek,VA,HawkCount-476,37.21667,-76.70277
+RPI,482,Harvey's Knob,VA,HawkCount-482,37.44525,-79.72683
+RPI,484,Kiptopeke Hawkwatch,VA,HawkCount-484,37.16378,-75.97667
+RPI,487,Candler Mountain,VA,HawkCount-487,37.35305,-79.16417
+RPI,491,Rockfish Gap Hawk Watch,VA,HawkCount-491,38.02958,-78.85872
+RPI,493,SHORT HILL Mountain,VA,HawkCount-493,39.28472,-77.70556
+RPI,494,Snickers Gap,VA,HawkCount-494,39.1155,-77.84695
+RPI,501,Mt. Philo State Park,VT,HawkCount-501,44.27861,-73.21639
+RPI,504,Paine Mountain,VT,HawkCount-504,44.15,-72.58334
+RPI,506,Putney Mountain VT,VT,HawkCount-506,43.00443,-72.5956
+RPI,513,Cape Flattery/Neah Bay,WA,HawkCount-513,48.36666,-124.75
+RPI,514,Chequamegon Bay,WI,HawkCount-514,46.5845,-90.96432
+RPI,515,Concordia University Hawk Watch,WI,HawkCount-515,43.25,-87.91666
+RPI,516,Eagle Valley,WI,HawkCount-516,42.79167,-91.075
+RPI,518,East River Mountain,WV,HawkCount-518,37.25,-81.16666
+RPI,519,Hanging Rock Tower,WV,HawkCount-519,37.47361,-80.42223
+RPI,527,Illinois Beach State Park,IL,HawkCount-527,42.46695,-87.805
+RPI,528,"Veracruz River of Raptors Chichicaxtle, MX",VE,HawkCount-528,19.34308,-96.4642
+RPI,529,East Shore Park,CT,HawkCount-529,41.275,-72.90278
+RPI,530,Tuttle Hill,MA,HawkCount-530,42.06667,-72.79166
+RPI,532,Flirt Hill,CT,HawkCount-532,41.25828,-73.33311
+RPI,534,Chestnut Ridge,NY,HawkCount-534,41.17916,-73.68584
+RPI,535,Middle School,CT,HawkCount-535,41.83495,-73.07447
+RPI,538,Bent of the River,CT,HawkCount-538,41.47133,-73.25936
+RPI,539,Briggs Hill,CT,HawkCount-539,41.55636,-73.49861
+RPI,540,"Eagle Crossing, SW Quebec, Canada",QC,HawkCount-540,45.21667,-74.11667
+RPI,541,Montreal West Island Hawkwatch,QC,HawkCount-541,45.41667,-73.93333
+RPI,542,Hawk Hill,CA,HawkCount-542,37.82853,-122.4986
+RPI,543,West Skyline Hawk Count,MN,HawkCount-543,46.77563,-92.12424
+RPI,544,Tlacotalpan Veracruz MX,VE,HawkCount-544,18.61093,-95.65593
+RPI,545,Borrego Valley,CA,HawkCount-545,33.29732,-116.3668
+RPI,546,Sparta Migration Watch,NJ,HawkCount-546,41.03333,-74.63361
+RPI,549,Gunsight Mountain HawkWatch,AK,HawkCount-549,61.85279,-147.3724
+RPI,550,Rocky Point Bird Observatory,BC,HawkCount-550,48.31667,-123.5333
+RPI,551,Caesars Head Hawk Watch,SC,HawkCount-551,35.10556,-82.62805
+RPI,552,Congaree Bluffs,SC,HawkCount-552,33.75694,-80.70361
+RPI,553,Peak Mountain,CT,HawkCount-553,41.95889,-72.72528
+RPI,555,Phoenix Mountain Hawk Watch,NC,HawkCount-555,36.37764,-81.4872
+RPI,558,Little River Lookout,MA,HawkCount-558,NULL,NULL
+RPI,559,Prairie Ridge Migration Watch,WA,HawkCount-559,47,-122
+RPI,560,Meadowood Bird Observatory,PA,HawkCount-560,40.52444,-77.20167
+RPI,561,Thunder Cape Bird Observatory,ON,HawkCount-561,48.30222,-88.9375
+RPI,562,Manitou Island,MI,HawkCount-562,47.41611,-87.65222
+RPI,563,Smith Point,TX,HawkCount-563,29.52611,-94.76583
+RPI,565,I-84 Overlook,NY,HawkCount-565,41.37225,-74.64047
+RPI,566,Canmore,AB,HawkCount-566,51.08333,-115.3333
+RPI,567,Becher Bay Headlands,BC,HawkCount-567,48.31667,-123.5333
+RPI,568,Patricia Beach Provincial park,MB,HawkCount-568,50.43333,-96.61667
+RPI,569,Cyprus Lake,ON,HawkCount-569,45.08333,-81.53333
+RPI,570,Point-Levy Region,QC,HawkCount-570,46.8,-71.15
+RPI,571,Morgan Arboretum,QC,HawkCount-571,45.41667,-73.95
+RPI,572,Observatoire d'oiseaux de Tadoussac 1,QC,HawkCount-572,48.15,-69.66666
+RPI,573,St. Ferreol-les-Neiges,QC,HawkCount-573,47.12342,-70.86967
+RPI,574,Fort Morgan-Bon Secour NWR,AL,HawkCount-574,30.23333,-88
+RPI,575,Dry Lake,AK,HawkCount-575,63.75,-144.5
+RPI,576,Lipan Point (Grand Canyon) ,AZ,HawkCount-576,36.03305,-111.8533
+RPI,577,Nankoweap Creek,AZ,HawkCount-577,36.3,-111.8667
+RPI,578,Grand Canyon HawkWatch (Yaki Point),AZ,HawkCount-578,36.05861,-112.0839
+RPI,579,Beelzebub Street,CT,HawkCount-579,41.81392,-72.51761
+RPI,580,Botsford Hill,CT,HawkCount-580,41.52472,-73.33522
+RPI,581,Waveny Park,CT,HawkCount-581,41.25828,-73.49155
+RPI,582,Fawn Ridge,CT,HawkCount-582,41.55636,-73.49861
+RPI,583,Florida Keys Hawkwatch,FL,HawkCount-583,24.74944,-80.98444
+RPI,584,Lucky Peak,ID,HawkCount-584,43.60528,-116.0614
+RPI,585,Macbride Nature Recreation Area,IA,HawkCount-585,41.76667,-91.56667
+RPI,586,High Rocks / Bad Branch Nature Preserve,KY,HawkCount-586,37.11666,-82.83334
+RPI,587,"Calcasieu Lake, Northern Shore",LA,HawkCount-587,30.06128,-93.29092
+RPI,588,Harpswell Peninsula/Casco Bay,ME,HawkCount-588,43.75,-70.03333
+RPI,589,Acadia National Park,ME,HawkCount-589,44.51792,-68.22708
+RPI,590,Bridger Mountains,MT,HawkCount-590,45.81734,-110.9293
+RPI,591,Hauser Lake,MT,HawkCount-591,46.66667,-111.75
+RPI,592,Goshute Mountains HawkWatch,NV,HawkCount-592,40.4243,-114.271
+RPI,593,Sunrise Mountain,NJ,HawkCount-593,41.21814,-74.72058
+RPI,594,Oko Jumbo,NJ,HawkCount-594,40.92128,-74.8102
+RPI,595,Picatinny Peak - The Domes,NJ,HawkCount-595,40.9435,-74.56725
+RPI,596,Manzano Mountains HawkWatch,NM,HawkCount-596,34.70417,-106.4111
+RPI,597,Kestrel Haven,NY,HawkCount-597,42.44231,-76.75775
+RPI,598,Orient Point,NY,HawkCount-598,41.13334,-72.4
+RPI,599,Mahogany Rock Mountain,NC,HawkCount-599,36.45,-81.1
+RPI,600,Dutchman's Peak,OR,HawkCount-600,42.03333,-122.8833
+RPI,601,Bonney Butte HawkWatch,OR,HawkCount-601,45.26305,-121.5919
+RPI,602,Wildcat Rocks,PA,HawkCount-602,40.05,-77.3
+RPI,603,Morgan's Hill,PA,HawkCount-603,40.66667,-75.2
+RPI,604,Sakonnet Point,RI,HawkCount-604,41.45,-71.2
+RPI,605,Bird Mountain,SC,HawkCount-605,35.25,-82.33334
+RPI,606,Wellsville Mountains,UT,HawkCount-606,41.68833,-112.0483
+RPI,607,Salt Creek-Olympic Vulture Study,WA,HawkCount-607,48.16694,-123.7033
+RPI,608,Hart's Pass-Slate Peak,WA,HawkCount-608,48.75,-120.65
+RPI,609,Striped Peak,WA,HawkCount-609,48.15,-123.5167
+RPI,610,Diamond Head,WA,HawkCount-610,47.3,-120.5667
+RPI,611,Chelan Ridge HawkWatch,WA,HawkCount-611,48.02022,-120.094
+RPI,612,Cedar Grove,WI,HawkCount-612,43.56861,-87.79083
+RPI,613,Mackinac Straits-Mackinaw City-spring,MI,HawkCount-613,45.77917,-84.74139
+RPI,614,White Clay Creek State Park - Carpenter Recreation Area,DE,HawkCount-614,39.71183,-75.77666
+RPI,615,Belvédère Raoul-Roy,QC,HawkCount-615,48.31667,-68.86667
+RPI,616,Bradbury Mountain State Park,ME,HawkCount-616,43.89639,-70.19055
+RPI,617,Manchester Ridges,MD,HawkCount-617,39.71528,-76.8875
+RPI,618,Trezevant\'s Landing,SC,HawkCount-618,33.72972,-80.62778
+RPI,620,Kekoldi,NULL,HawkCount-620,9.641666,-82.78333
+RPI,621,Cromwell Valley Park,MD,HawkCount-621,39.41627,-76.54955
+RPI,622,Big Bald,TN,HawkCount-622,35.99389,-82.48373
+RPI,623,White Memorial Foundation,CT,HawkCount-623,41.72145,-73.21111
+RPI,624,Summitville Hawkwatch,NY,HawkCount-624,41.62139,-74.45111
+RPI,625,Beamer Backup,ON,HawkCount-625,NULL,NULL
+RPI,626,Shatterack Mountain,MA,HawkCount-626,42.19417,-72.84028
+RPI,627,Semaphore Hill (Canopy Tower),NULL,HawkCount-627,9.0776,-79.64915
+RPI,628,Kitsilano,BC,HawkCount-628,49.27833,-123.1442
+RPI,629,Muskegon,MI,HawkCount-629,43.23584,-86.33258
+RPI,630,Meadowbrook Migration Area,MI,HawkCount-630,42.07917,-86.32039
+RPI,631,DRHW- Pointe Mouillee State Game Area,MI,HawkCount-631,42.03791,-83.19829
+RPI,632,"Grimsby, ON - Air Park",ON,HawkCount-632,43.15417,-79.60333
+RPI,633,"Grimsby, ON - Miscellaneous Sightings",ON,HawkCount-633,43.2,-79.56667
+RPI,634,NJAMP at Duke Farms,NJ,HawkCount-634,40.55116,-74.62698
+RPI,635,Bald Eagle Mountain - Port Matilda,PA,HawkCount-635,40.48,-78.03
+RPI,636,Tara Woods East Collierville,TN,HawkCount-636,35.02694,-89.65195
+RPI,638,Kirkridge,PA,HawkCount-638,40.90028,-75.10472
+RPI,639,Guana Reserve,FL,HawkCount-639,30.11667,-81.34528
+RPI,640,Beamer Backup - Lookouts,NULL,HawkCount-640,NULL,NULL
+RPI,641,Beamer Backup - Other,NULL,HawkCount-641,NULL,NULL
+RPI,642,Lagoon Valley,CA,HawkCount-642,38.30083,-122.0044
+RPI,643,St. Adolphe Hawkwatch,MB,HawkCount-643,49.67916,-97.11972
+RPI,644,Demo Hawkwatch,NULL,HawkCount-644,NULL,NULL
+RPI,645,Carvins Cove,VA,HawkCount-645,37.38361,-79.94806
+RPI,646,Pembina Valley at Holo Crossing,MB,HawkCount-646,49.03139,-98.27834
+RPI,647,Chavarrillo,VE,HawkCount-647,19.42595,-96.79297
+RPI,648,Innisfree,ON,HawkCount-648,44.24144,-79.54073
+RPI,649,"Hughes River Gap, VA",VA,HawkCount-649,38.59778,-78.37167
+RPI,650,East Point Hawkwatch,NJ,HawkCount-650,39.19921,-75.02023
+RPI,651,Taft School,CT,HawkCount-651,41.60611,-73.11861
+RPI,652,Whytewold Hawkwatch,MB,HawkCount-652,50.83333,-96.98333
+RPI,653,Cove Mountain,PA,HawkCount-653,40.34148,-77.11459
+RPI,654,Larson Sanctuary,CT,HawkCount-654,41.13139,-73.26444
+RPI,655,Alander Mountain,MA,HawkCount-655,42.09425,-73.50616
+RPI,656,South Carolina Coastal Raptor Migration Survey,SC,HawkCount-656,32.91681,-79.70578
+RPI,657,Marine Nature Study Area,NY,HawkCount-657,40.62324,-73.62424
+RPI,658,Congamond Plains,MA,HawkCount-658,42.04361,-72.72222
+RPI,659,North Tibwin,SC,HawkCount-659,33.06701,-79.5097
+RPI,660,Greene Valley Forest Preserve,IL,HawkCount-660,41.73056,-88.07889
+RPI,661,Field of Grand-Métis ,QC,HawkCount-661,48.6352,-68.08749
+RPI,662,Bald Peak,CT,HawkCount-662,NULL,NULL
+RPI,663,Ashland Nature Center,DE,HawkCount-663,39.79714,-75.66161
+RPI,665,DRHW - Lake Erie Metropark (Wavepool),MI,HawkCount-665,42.07064,-83.19637
+RPI,666,DRHW - Humbug Marina,MI,HawkCount-666,42.09948,-83.18988
+RPI,667,DRHW - Power Plant,MI,HawkCount-667,42.1158,-83.1915
+RPI,668,DRHW- Campau Rd.,MI,HawkCount-668,42.04512,-83.20007
+RPI,669,DRHW - Marina Point,MI,HawkCount-669,42.05347,-83.18708
+RPI,670,DRHW - Woodruff,MI,HawkCount-670,42.08232,-83.21074
+RPI,671,Presque Isle,PA,HawkCount-671,42.10855,-80.15327
+RPI,672,Franklin Mt. NW,NY,HawkCount-672,42.42881,-75.05328
+RPI,673,Niskey Hill Cemetary,PA,HawkCount-673,40.98333,-75.7
+RPI,674,Johnson City Hawk Watch,NY,HawkCount-674,42.14639,-75.96306
+RPI,675,Port Crescent Hawk Watch,MI,HawkCount-675,44.00019,-83.06693
+RPI,676,Rocky Knob,VA,HawkCount-676,36.82555,-80.34389
+RPI,677,Blue Mountain Rt. 183,PA,HawkCount-677,40.5275,-76.22444
+RPI,678,Story/Lower Creek School,NC,HawkCount-678,35.92305,-81.51222
+RPI,679,Carter Hill Observatory,NH,HawkCount-679,43.23453,-71.60994
+RPI,680,Oliver Street Studios,MD,HawkCount-680,39.30667,-76.61
+RPI,681,Poquonock,CT,HawkCount-681,41.90938,-72.67905
+RPI,682,Cerro Ancon,NULL,HawkCount-682,8.958,-79.54965
+RPI,683,DOAS - Franskevicz Road,NY,HawkCount-683,42.04181,-75.28697
+RPI,684,DOAS - Horse Farm,NY,HawkCount-684,42.06011,-75.30209
+RPI,685,DOAS - Lang Road,NY,HawkCount-685,42.00872,-75.25861
+RPI,686,Greenlaw Mountain,NB,HawkCount-686,45.12675,-67.09436
+RPI,687,"Grimsby, ON - Grimsby Point & Ravine",ON,HawkCount-687,NULL,NULL
+RPI,688,"Grimsby, ON - Lake Ontario Plain",ON,HawkCount-688,NULL,NULL
+RPI,689,"Grimsby, ON - Allen & Kemp Roads",ON,HawkCount-689,NULL,NULL
+RPI,690,Commissary Ridge HawkWatch,WY,HawkCount-690,42.02472,-110.5894
+RPI,691,Catawba River ,NC,HawkCount-691,35.375,-80.85333
+RPI,692,Seaside Hawkwatch,VA,HawkCount-692,NULL,NULL
+RPI,693,Blue Mountain Ski Area,PA,HawkCount-693,40.80963,-75.50784
+RPI,694,Forest Beach Migratory Preserve,WI,HawkCount-694,43.4625,-87.811
+RPI,695,Pitcher Mountain,NH,HawkCount-695,43.09425,-72.13536
+RPI,696,DOAS - All Road,NY,HawkCount-696,42.63564,-74.76884
+RPI,697,DOAS - Davis State Park,NY,HawkCount-697,42.66186,-74.83295
+RPI,698,DOAS - Fish Road,NY,HawkCount-698,42.72794,-74.87444
+RPI,699,Brockway Mountain,MI,HawkCount-699,47.4641,-87.96938
+RPI,700,Belmont Valley,VA,HawkCount-700,38.02132,-78.48311
+RPI,701,Suffield WMA,CT,HawkCount-701,42.035,-72.74834
+RPI,702,Lapham Peak,WI,HawkCount-702,43.041,-88.40403
+RPI,703,Boothe Memorial Park,CT,HawkCount-703,41.2356,-73.1105
+RPI,704,Bethany Hawkwatch,MN,HawkCount-704,44.16611,-93.99084
+RPI,705,Panama Rainforest Discovery Center,NULL,HawkCount-705,9.129861,-79.72581
+RPI,706,Mendota Fire Tower,VA,HawkCount-706,36.73056,-82.30055
+RPI,707,Chester County Hawk Watch & Migration Count at Chambers Lake,PA,HawkCount-707,40.02926,-75.85841
+RPI,708,Poor Mountain,VA,HawkCount-708,37.19667,-80.15334
+RPI,709,Scanlon Creek Conservation Area,ON,HawkCount-709,44.11666,-79.56667
+RPI,710,Southern Chester County Hawk Watch at Bucktoe Creek Preserve,PA,HawkCount-710,39.81673,-75.71675
+RPI,711,Ashton Ridge Hawkwatch,VA,HawkCount-711,37.30661,-79.36089
+RPI,712,Westtown School,PA,HawkCount-712,39.94083,-75.53528
+RPI,713,Concord School District,NH,HawkCount-713,43.32084,-71.94222
+RPI,714,"Grimsby, ON - Grimsby East",ON,HawkCount-714,43.18945,-79.01806
+RPI,717,New Horton Ridge,NB,HawkCount-717,45.67574,-64.72404
+RPI,718,"Cooper, Maine",ME,HawkCount-718,45,-67.41666
+RPI,719,Ancon Hill Spring Hawkwatch,NULL,HawkCount-719,8.958,-79.54965
+RPI,720,Cumberland Gap,MD,HawkCount-720,39.66922,-78.77872
+RPI,722,Wooley Hill,NY,HawkCount-722,42.69247,-75.18853
+RPI,723,MPG Ranch,MT,HawkCount-723,46.70673,-113.9795
+RPI,724,Richmond Island,ME,HawkCount-724,43.54667,-70.22583
+RPI,725,Biddeford Pool - East Point,ME,HawkCount-725,43.44722,-70.33417
+RPI,726,Monhegan - Lobster Point,ME,HawkCount-726,43.75667,-69.32222
+RPI,727,Monhegan - Manana Island,ME,HawkCount-727,43.76305,-69.32611
+RPI,729,"Double Oak Mountain Ridge, Oak Mountain State Park",AL,HawkCount-729,33.3025,-86.76195
+RPI,730,Aeropuerto Eldorado ,NULL,HawkCount-730,4.701594,-74.14695
+RPI,731,Clarry Hill,ME,HawkCount-731,44.19611,-69.32166
+RPI,732,Aubrey Cliffs,AZ,HawkCount-732,35.47639,-112.9842
+RPI,733,Mill Creek Road,AL,HawkCount-733,33.73594,-87.01692
+RPI,734,Killington Mountain,VT,HawkCount-734,43.6775,-72.77972
+RPI,735,Willow Hill,IL,HawkCount-735,42.10139,-87.8025
+RPI,736,Grandfather Mountain,NC,HawkCount-736,36.09439,-81.83312
+RPI,737,DOAS - Richmondville,NY,HawkCount-737,42.62527,-74.55482
+RPI,738,Mount Pleasant,NY,HawkCount-738,42.45817,-76.3846
+RPI,740,Tubac Hawk Watch,AZ,HawkCount-740,31.6097,-111.0431
+RPI,741,"Veracruz River of Raptors Cardel, MX",MX,HawkCount-741,19.3711,-96.37653
+RPI,742,Observatoire d'oiseaux de Tadoussac 2,QC,HawkCount-742,48.15,-69.66666
+RPI,743,Rocky Face Mountain Rec. Area,NC,HawkCount-743,35.97222,-81.10917
+RPI,744,Cabo de San Antonio,NULL,HawkCount-744,21.86194,-84.94778
+RPI,745,Rosetta McClain Gardens Raptor Watch,ON,HawkCount-745,43.68993,-79.2589
+RPI,746,Munn Meadow,MA,HawkCount-746,42.08611,-72.81667
+RPI,747,Belize Raptor Watch ,NULL,HawkCount-747,16.12024,-88.79436
+RPI,750,Fort Sheridan,IL,HawkCount-750,42.22283,-87.81198
+RPI,752,Okehocking Preserve Hawkwatch,PA,HawkCount-752,39.97028,-75.47722
+RPI,753,Blue Jay Point,NC,HawkCount-753,36.62278,-79.07694
+RPI,754,The Wasatch Front,UT,HawkCount-754,40.709,-111.7841
+RPI,755,Mount Magazine State Park,AR,HawkCount-755,35.17545,-93.64614
+RPI,756,Jewel Basin,MT,HawkCount-756,48.1552,-113.9329
+RPI,757,Roundtop Mountain,PA,HawkCount-757,40.19389,-77.5526
+RPI,758,Greenland Road Hawkwatch,ON,HawkCount-758,45.44608,-76.00344
+RPI,759,Riverbend Park,NC,HawkCount-759,35.81374,-81.1716
+RPI,760,Eaton Hill Nature Center & Preserve,TX,HawkCount-760,30.57417,-100.6431
+RPI,761,Hanging Rock State Park,NC,HawkCount-761,36.39806,-80.28278
+RPI,762,Kerrs Ridge Hawk Watch,NB,HawkCount-762,45.19894,-66.99533
+RPI,763,East Taylors Ferry Road,AL,HawkCount-763,33.48361,-87.08094
+RPI,764,Sassafras Mountain Hawkwatch,SC,HawkCount-764,35.06472,-82.77722
+RPI,765,Pony Pen North Raptor Watch,NC,HawkCount-765,35.15219,-75.85895
+RPI,766,Nora Ridge,MT,HawkCount-766,47.02111,-112.4203
+RPI,767,"Golden Eagle Migration Survey- Radio Tower West Slope (Big Belt Mtns, MT)",MT,HawkCount-767,46.47697,-111.2566
+RPI,768,Culver's Gap,NJ,HawkCount-768,41.17456,-74.7913
+RPI,769,Helderberg Escarpment Hawkwatch,NY,HawkCount-769,42.65128,-74.00678
+RPI,770,"Golden Eagle Migration Survey- Saddle Knoll (Big Belt Mtns, MT)",MT,HawkCount-770,46.50249,-111.2734
+RPI,771,"Golden Eagle Migration Survey- Radio Tower(fort) (Big Belt Mtns, MT)",MT,HawkCount-771,46.47681,-111.2543
+RPI,772,Metchosin Mountain,BC,HawkCount-772,48.40194,-123.5458
+RPI,773,Golden Hill/County Line Rd.,NY,HawkCount-773,43.36626,-78.46571
+RPI,774,County Line Rd./N of Rt. 18,NY,HawkCount-774,43.35168,-78.46589
+RPI,775,County Line Rd./Cemetery,NY,HawkCount-775,43.34136,-78.46605
+RPI,776,County Line Rd./S of Hall Rd.,NY,HawkCount-776,43.34136,-78.46605
+RPI,777,Maywood Migration Watch,WI,HawkCount-777,43.7787,-87.7565
+RPI,778,Mt. Pleasant Skywatch,MD,HawkCount-778,39.31675,-76.8763
+RPI,779,Parksville- Little Mountain,BC,HawkCount-779,49.29456,-124.3252
+RPI,780,Jenner Headlands Hawkwatch,CA,HawkCount-780,38.46556,-123.1283
+RPI,781,Hilltop Ridge,MD,HawkCount-781,39.34728,-76.5445
+RPI,782,Sheldon Lake State Park and Environment Learning Center,TX,HawkCount-782,29.87503,-95.17175
+RPI,783,Cut Bank Hawkwatch,MT,HawkCount-783,48.64103,-112.3422
+RPI,785,Millersville,PA,HawkCount-785,39.99917,-76.35028
+RPI,786,TLC's Southern Chester County Hawk Watch @ Stateline Woods Preserve,PA,HawkCount-786,39.82381,-75.67375
+RPI,788,Del. Nature Society's Kite & Shorebird Watch at Bucktoe Creek Preserve,PA,HawkCount-788,39.81673,-75.71675
+RPI,789,Rugby Hawk Watch,VA,HawkCount-789,38.04472,-78.48167
+RPI,790,NJAMP at Merrill Creek,NJ,HawkCount-790,40.72808,-75.11586
+RPI,791,Auburn Area Vulture and Raptor Count,CA,HawkCount-791,38.88872,-121.0697
+RPI,792,Hacker's Hill,ME,HawkCount-792,43.96712,-70.52807
+RPI,793,Golden Eagle Migration Survey - Lower Duck Creek Rd.,MT,HawkCount-793,46.4899,-111.3124
+RPI,794,Green Ridge,OR,HawkCount-794,44.53695,-121.6044
+RPI,795,Washington Valley Hawkwatch,NJ,HawkCount-795,40.58222,-74.55622
+RPI,796,Freedom Area Hawk Watch,PA,HawkCount-796,40.67805,-80.24111
+RPI,797,Golden Eagle Migration Survey,MT,HawkCount-797,46.47681,-111.2543
+RPI,798,DOAS - Cliff Road,NY,HawkCount-798,42.01719,-75.54566
+RPI,799,Mackinac Straits-Point LaBarbe-Fall,MI,HawkCount-799,45.83972,-84.755
+RPI,800,DOAS - Sanford,NY,HawkCount-800,42.10311,-75.47911
+RPI,801,Bear Mountain Hawk Watch,NY,HawkCount-801,41.31167,-74.00694
+RPI,802,Summit Mountain Hawkwatch,PA,HawkCount-802,39.8455,-79.6565
+RPI,803,Seahawk Migration Station,NC,HawkCount-803,34.22153,-77.86872
+RPI,804,Lasqueti Crossing,BC,HawkCount-804,49.33127,-124.2825
+RPI,805,Munn Brook Meadow,MA,HawkCount-805,42.08611,-72.81667
+RPI,806,Purple Chickadee Hawk Watch,NJ,HawkCount-806,41.07553,-74.25272
+RPI,807,Alley Creek,NY,HawkCount-807,40.76381,-73.7532
+RPI,808,Camp Baker Hawkwatch,MT,HawkCount-808,46.803,-111.182
+RPI,809,Bald Eagle Mountain - Eagle Field,PA,HawkCount-809,40.82736,-77.98753
+RPI,810,Lochlyn Hill Hawk Watch,VA,HawkCount-810,38.04906,-78.46028
+RPI,811,Cave Knoll Hawkwatch,MT,HawkCount-811,47.09588,-112.2851
+RPI,812,Mackinac Island - Fort Holmes,MI,HawkCount-812,45.858,-84.61619
+RPI,813,Tolima Raptor Count,NULL,HawkCount-813,4.402778,-75.13778
+RPI,814,Duck Creek Pass Hawkwatch,NULL,HawkCount-814,46.47681,-111.2543
+RPI,815,Mt. Ascutney State Park,VT,HawkCount-815,43.43986,-72.45264
+RPI,816,Jockey's Ridge State Park,NC,HawkCount-816,35.9525,-75.632
+RPI,817,Apple Hill Raptor Count,CT,HawkCount-817,41.69,-73.21806
+RPI,818,Morris Island,MA,HawkCount-818,41.6534,-69.9637
+RPI,819,Head of the Meadow Beach,MA,HawkCount-819,42.05045,-70.13435
+RPI,820,Trotter's Crossing,NJ,HawkCount-820,39.95611,-74.89417
+RPI,822,Mount Brown,MT,HawkCount-822,48.62253,-113.8354
+RPI,823,Long Sault Parkway,ON,HawkCount-823,45.02333,-74.91417
+RPI,824,Collins Creekside Acres,MB,HawkCount-824,49.77775,-99.8737
+RPI,825,West Corpus Christi Hawkwatch,TX,HawkCount-825,27.90636,-97.86832
+RPI,826,Five White Eagles HawkWatch (VE) (MÃ©rida),NULL,HawkCount-826,8.588889,-71.14389
+RPI,828,Botany Bay Plantation WMA,SC,HawkCount-828,32.54855,-80.2403
+RPI,838,EV test hawkwatch,AK,HawkCount-838,59.66372,-151.5869
+RPI,842,Forks of the Credit Provincial Park,ON,HawkCount-842,43.81861,-80.00532
+RPI,843,Southwest Middlesex 1804 Trillium Dr,ON,HawkCount-843,42.66498,-81.76671
+RPI,844,Beare Hill Park,ON,HawkCount-844,43.82582,-79.16099
+RPI,845,Humber Marsh Park,ON,HawkCount-845,43.64211,-79.4925
+RPI,847,Berry Knolls Dr. Personal Hawkwatch,PA,HawkCount-847,41.78571,-80.0942
+RPI,848,"Mountsberg CA, Ontario",ON,HawkCount-848,43.45835,-80.04061
+RPI,849,Acton Quarry,ON,HawkCount-849,43.6248,-79.98883
+RPI,850,East St Adams,MA,HawkCount-850,42.61662,-73.10974
+RPI,851,Toronto - Bayview & Finch,ON,HawkCount-851,43.77895,-79.38448
+RPI,852,Upper Gap Archeological Site,ON,HawkCount-852,44.15059,-76.83397
+RPI,853,Hendrick road - The Bluff,ON,HawkCount-853,43.37663,-81.71563
+RPI,854,Dummer Moraine,ON,HawkCount-854,44.45528,-78.14125
+RPI,855,Sunset Point in the Humber Arboretum,ON,HawkCount-855,43.72668,-79.60987
+RPI,857,Matchedash Bay Lawson Line Hawkwatch,ON,HawkCount-857,44.74083,-79.63691
+RPI,858,The Miller Lake Hawkwatch,ON,HawkCount-858,45.10128,-81.44416
+RPI,859,Downsview Park,ON,HawkCount-859,43.73945,-79.48015
+RPI,860,Meadowglen Park,ON,HawkCount-860,43.65971,-79.92078
+RPI,861,Cobourg Harbour,ON,HawkCount-861,43.95359,-78.16935
+RPI,862,"Birch Point, Manitoulin Island, Ontario",ON,HawkCount-862,45.55456,-82.054
+RPI,863,NINPIPES area,MT,HawkCount-863,47.4573,-114.0984
+RPI,864,"Scenic Drive/Lang's Park, Hamilton",ON,HawkCount-864,43.24539,-79.92909
+RPI,865,Centennial Park Hill Etobicoke,ON,HawkCount-865,43.65502,-79.58839
+RPI,866,Stateline woods preserve hawk watch ,PA,HawkCount-866,39.82405,-75.672
+RPI,867,Willow Hill Golf Course ,IL,HawkCount-867,42.10879,-87.81424
+RPI,868,Birds Canada HQ,ON,HawkCount-868,42.615,-80.45861
+RPI,869,McTavish Twp overlooking Black Bay,ON,HawkCount-869,48.72641,-88.62608
+RPI,870,House on the Hill,WI,HawkCount-870,44.55299,-87.74348
+RPI,871,Sam Smith Park,ON,HawkCount-871,43.58793,-79.511
+RPI,872,Earlscourt Park,ON,HawkCount-872,43.67384,-79.45138
+RPI,873,Summer Ave Yard,ON,HawkCount-873,44.83668,-81.23776
+RPI,874,Lakeridge Brunelle,ON,HawkCount-874,43.90986,-79.00789
+RPI,875,Lakeridge ORM,ON,HawkCount-875,44.01069,-79.04833
+RPI,876,Halls-GO,ON,HawkCount-876,43.8773,-78.98206
+RPI,877,End of Docker nr JE Pearce PP,ON,HawkCount-877,42.61051,-81.43421
+RPI,878,Rita's Hawk Watch,ON,HawkCount-878,43.38897,-81.30862
+RPI,879,Columbus Halls Road,ON,HawkCount-879,43.95747,-79.01904
+RPI,880,407/412 Carpool Lot,ON,HawkCount-880,43.87656,-78.9808
+RPI,881,Valens Conservation Area,ON,HawkCount-881,43.38699,-80.13967
+RPI,882,Sandwich Central School,NH,HawkCount-882,43.80378,-71.43977
+RPI,883,"Heart Lake CA, Ontario",ON,HawkCount-883,43.75219,-79.80123
+RPI,884,Port Rowan Wetlands,ON,HawkCount-884,42.62222,-80.46139
+RPI,885,Fairview Cemetery,ON,HawkCount-885,42.63667,-80.48417
+RPI,886,Governor's Bridge Lookout,ON,HawkCount-886,43.68821,-79.36457
+RPI,887,"McMaster Forest, Hamilton-ON",ON,HawkCount-887,43.24783,-79.95057
+RPI,888,"Detroit River South, Hulls Trace Marina",NULL,HawkCount-888,42.04308,-83.21306
+RPI,889,Rita's TJ Dolan area,ON,HawkCount-889,43.36819,-81.01082
+RPI,890,Mt. McKay Scenic Lookout,ON,HawkCount-890,48.3467,-89.27891
+RPI,891,Norseman Heights,ON,HawkCount-891,43.63696,-79.51486
+RPI,892,Pigeon Bay,ON,HawkCount-892,48.02425,-89.5196
+RPI,893,West Perth Wetlands - Mitchell,ON,HawkCount-893,43.45581,-81.20053
+RPI,894,Kendall Rd - Merlin,ON,HawkCount-894,42.22311,-82.16697
+RPI,895,London - 500 Ridout St N,ON,HawkCount-895,42.98507,-81.25487
+RPI,896,London - Greenway Park,ON,HawkCount-896,42.97583,-81.27287
+RPI,897,Beare Hill - Zoo Rd parking lot,ON,HawkCount-897,43.82543,-79.17706
+RPI,898,Fruit Ridge - St Thomas,ON,HawkCount-898,42.71191,-81.12311
+RPI,899,Goderich (Sky Harbour) Airport,ON,HawkCount-899,43.76265,-81.71115
+RPI,900,Temperance Line - Aylmer,ON,HawkCount-900,42.77435,-81.02399
+RPI,901,Mississauga - Leslie Log House,ON,HawkCount-901,43.56403,-79.68819
+RPI,902,Mount Nemo,ON,HawkCount-902,43.42447,-79.87885
+RPI,903,Lowville Park,ON,HawkCount-903,43.43341,-79.90768
+RPI,904,"Pleasant Valley, Dundas",ON,HawkCount-904,43.25602,-79.96203
+RPI,905,"Welland Canal, Welland",ON,HawkCount-905,43.00316,-79.21304
+RPI,906,Ken Reid Conservation Area,ON,HawkCount-906,44.40759,-78.77258
+RPI,907,Springbank Meadows Park - Mississauga,ON,HawkCount-907,43.53116,-79.64531
+RPI,908,Erindale Park,ON,HawkCount-908,43.55032,-79.65327
+RPI,909,Springbank Meadows Park,ON,HawkCount-909,43.53325,-79.64718
+RPI,910,"Rattlesnake Point CA, Ontario",ON,HawkCount-910,43.46844,-79.91193
+RPI,911,"Flagpole Hill, Frontenac Park, South Frontenac",ON,HawkCount-911,44.50389,-76.51534
+RPI,912,Dundas - Slote Rd.,ON,HawkCount-912,43.23483,-80.0427
+RPI,913,Kortright Conservation Area,ON,HawkCount-913,43.8226,-79.60059
+RPI,914,West south street hawk watch,PA,HawkCount-914,39.84014,-75.71096
+RPI,915,Jack Darling Memorial Park Dog Hill,ON,HawkCount-915,43.52813,-79.60743
+RPI,916,Gate of Heaven Cemetery,ON,HawkCount-916,43.30819,-79.89344
+RPI,917,Cappison's Corners,ON,HawkCount-917,43.309,-79.91215
+RPI,918,Mono Cliffs Outdoor Education Center,ON,HawkCount-918,44.03819,-80.08499
+RPI,919,Devil's Punchbowl Cross,ON,HawkCount-919,43.21172,-79.75696
+RPI,920,Bocas Ridge,NULL,HawkCount-920,9.29031,-82.4602
+RPI,921,Alton Bay Hawk Watch,NH,HawkCount-921,43.47621,-71.26629
+RPI,922,Camrose Court - Byron (London West),ON,HawkCount-922,42.95288,-81.34756
+RPI,923,Prince Edward Point Bird Observatory,ON,HawkCount-923,43.93966,-76.86119
+RPI,924,East Beach near Point Pelee,ON,HawkCount-924,42.01326,-82.49241
+RPI,925,Grand Ridge Park,ON,HawkCount-925,43.93494,-78.8533
+RPI,926,Bessborough Park,ON,HawkCount-926,43.91598,-78.8778
+RPI,927,Wickerson Site,ON,HawkCount-927,42.94794,-81.35218
+RPI,928,Withrow Park,ON,HawkCount-928,43.67477,-79.34705
+RPI,929,Leslie Grove Park,ON,HawkCount-929,43.66329,-79.33355
+RPI,930,Tommy Thompson Park,ON,HawkCount-930,43.63482,-79.32432
+RPI,931,Mount Agamenticus (personal),ME,HawkCount-931,43.22331,-70.69207
+RPI,932,Landmark,TX,HawkCount-932,33.62278,-101.8878
+RPI,933,Nashua NH Backyard,NH,HawkCount-933,42.75,-71.487
+RPI,934,Wasootch,AB,HawkCount-934,50.97093,-115.0949
+RPI,935,Lusk Creek,AB,HawkCount-935,51.03197,-115.0166
+RPI,936,"Castle Rock, Breakheart Reservation",MA,HawkCount-936,42.48851,-71.04423
+RPI,937,Herbster Spring Count,WI,HawkCount-937,46.79623,-91.25855
+RPI,938,Iguasitos Tolima,NULL,HawkCount-938,4.84154,-74.84654
+RPI,939,Monument Hill,AZ,HawkCount-939,33.37729,-112.3062
+RPI,940,Rhome Texas,TX,HawkCount-940,33.08981,-97.41063
+RPI,941,Silver Creek,ON,HawkCount-941,43.69022,-79.96699
+RPI,942,Kettlefoot Fire Tower,TN,HawkCount-942,36.42684,-81.86664
+RPI,943,Bocas Gavilan Ridge,NULL,HawkCount-943,9.247783,-82.50606
+RPI,944,Bocas Valle de Agua,NULL,HawkCount-944,9.230778,-82.38689
+RPI,945,Redmond Reservoir Hawkwatch,IL,HawkCount-945,41.94351,-87.92908
+RPI,946,Ecovida-AetosHawkWatch,NULL,HawkCount-946,10.45361,-84.05805
+RPI,947,Black Bear Meadows,NC,HawkCount-947,35.58997,-82.48007
+RPI,948,Caleta Rio de Aguilas Raptor Migration Observatory,NULL,HawkCount-948,20.07335,-74.29484
+RPI,949,Chrisâ€™s Roost,NC,HawkCount-949,35.06712,-78.971
+RPI,950,"Elk Mtn Overlook, Deep Gap, NC",NC,HawkCount-950,36.23292,-81.48663
+RPI,951,Edmeston NY,NY,HawkCount-951,42.49434,-74.91845
+RPI,952,Belle Isle Marsh Reservation,MA,HawkCount-952,42.38919,-70.99067
+RPI,953,Adams Farm - Athol MA,MA,HawkCount-953,42.59517,-72.20072
+RPI,99,Demo Hawkwatch,AK,HawkCount-99,59.66375,-151.6196
+RPI2,100,Holiday Beach Conservation Area,ON,HawkCount-100,42.03316,-83.0455
+RPI2,103,Wildcat Ridge,NJ,HawkCount-103,40.94719,-74.47211
+RPI2,104,Jacks Mountain,PA,HawkCount-104,40.54347,-77.75703
+RPI2,105,Rose Tree Park,PA,HawkCount-105,39.939,-75.392
+RPI2,106,Reed's Beach Autumn Hawk Watch,NJ,HawkCount-106,NULL,NULL
+RPI2,107,Blueberry Hill,MA,HawkCount-107,42.09583,-72.925
+RPI2,108,Brady's Bend,PA,HawkCount-108,40.98875,-79.58228
+RPI2,109,Hawk Mountain Sanctuary,PA,HawkCount-109,40.64158,-75.99153
+RPI2,110,Lehigh Gap Hawkwatch,PA,HawkCount-110,40.78472,-75.61528
+RPI2,111,Allegheny Front,PA,HawkCount-111,40.08142,-78.72784
+RPI2,112,Lenoir Wildlife Sanctuary,NY,HawkCount-112,40.97523,-73.88322
+RPI2,113,Pilgrim Heights,MA,HawkCount-113,42.05,-70.13333
+RPI2,115,Plum Island MA,MA,HawkCount-115,42.79167,-70.80666
+RPI2,123,Dinosaur Ridge,CO,HawkCount-123,39.7,-105.2
+RPI2,125,Booth Hill,CT,HawkCount-125,42.01972,-72.96694
+RPI2,126,Botsford Hill,CT,HawkCount-126,41.52472,-73.33522
+RPI2,128,Chestnut Hill,CT,HawkCount-128,41.73397,-73.17069
+RPI2,132,Flat Hill,CT,HawkCount-132,41.47464,-73.27128
+RPI2,133,Good Hill,CT,HawkCount-133,41.553,-73.25961
+RPI2,136,Heritage Village,CT,HawkCount-136,41.48447,-73.234
+RPI2,137,Johnycake Mountain,CT,HawkCount-137,41.7547,-72.99442
+RPI2,138,Lighthouse Point,CT,HawkCount-138,41.24986,-72.90141
+RPI2,140,Maltby Lakes,CT,HawkCount-140,41.30381,-72.98314
+RPI2,145,Osborne Hill,CT,HawkCount-145,41.39786,-73.22828
+RPI2,149,Quaker Ridge,CT,HawkCount-149,41.09711,-73.68867
+RPI2,156,Southbury Training School Farm,CT,HawkCount-156,41.50028,-73.28167
+RPI2,158,Taine Mountain,CT,HawkCount-158,NULL,NULL
+RPI2,166,Whippoorwill Hill,CT,HawkCount-166,41.42289,-73.34331
+RPI2,169,Cape Henlopen Hawk Watch,DE,HawkCount-169,38.78417,-75.08417
+RPI2,172,Hitchcock Nature Center,IA,HawkCount-172,41.41323,-95.85865
+RPI2,173,Lost Mound Refuge,IL,HawkCount-173,NULL,NULL
+RPI2,175,Pine Mountain,CT,HawkCount-175,NULL,NULL
+RPI2,181,Barre Falls,MA,HawkCount-181,42.43167,-72.02583
+RPI2,227,"Mount Tom, Massachusetts",MA,HawkCount-227,42.275,-72.625
+RPI2,228,Mount Wachusett,MA,HawkCount-228,42.48917,-71.8875
+RPI2,229,Mount Watatic,MA,HawkCount-229,42.69672,-71.89256
+RPI2,239,Pinnacle Rock,MA,HawkCount-239,42.43945,-71.07667
+RPI2,272,Fort Smallwood Park,MD,HawkCount-272,39.16333,-76.47694
+RPI2,278,Turkey Point,MD,HawkCount-278,39.45215,-76.00753
+RPI2,279,Washington Monument State Park,MD,HawkCount-279,39.54689,-77.60993
+RPI2,280,"Cadillac Mt., Acadia National Park",ME,HawkCount-280,44.35265,-68.22461
+RPI2,284,Port Huron,MI,HawkCount-284,43.1,-82.5
+RPI2,285,DRHW- Lake Erie Metropark,MI,HawkCount-285,42.07918,-83.1937
+RPI2,286,Whitefish Point,MI,HawkCount-286,46.77111,-84.95528
+RPI2,288,Hawk Ridge,MN,HawkCount-288,46.84722,-92.03194
+RPI2,293,Bullhead Mountain,NC,HawkCount-293,36.44722,-81.06555
+RPI2,300,Mahogany Rock,NC,HawkCount-300,36.44131,-81.09529
+RPI2,303,Mount Pisgah,NC,HawkCount-303,35.4425,-82.7198
+RPI2,305,Pea Island NWR,NC,HawkCount-305,35.63334,-75.46667
+RPI2,306,Pilot Mountain State Park,NC,HawkCount-306,36.34222,-80.47861
+RPI2,308,Bare Mountain,MA,HawkCount-308,42.37333,-72.52055
+RPI2,310,Little Blue Job Mountain,NH,HawkCount-310,43.339,-71.11576
+RPI2,315,Interlakes Elementary School,NH,HawkCount-315,43.65528,-71.49917
+RPI2,317,Little Round Top Migration Observatory,NH,HawkCount-317,43.57903,-71.7307
+RPI2,320,Pack Monadnock Raptor Migration Observatory,NH,HawkCount-320,42.86306,-71.87833
+RPI2,322,Peter Wood Hill,NH,HawkCount-322,43.0957,-71.817
+RPI2,328,Cape May,NJ,HawkCount-328,38.93258,-74.958
+RPI2,330,Chimney Rock Hawk Watch,NJ,HawkCount-330,40.58222,-74.55622
+RPI2,332,Kittatinny Mountain,NJ,HawkCount-332,41.15064,-74.841
+RPI2,334,Montclair Hawk Lookout,NJ,HawkCount-334,40.84664,-74.21294
+RPI2,338,Picatinny Peak,NJ,HawkCount-338,40.95217,-74.55647
+RPI2,339,Raccoon Ridge,NJ,HawkCount-339,41.01486,-75.04256
+RPI2,340,Sandy Hook Migration Watch,NJ,HawkCount-340,40.5,-74
+RPI2,342,Scott's Mountain,NJ,HawkCount-342,40.74186,-75.10867
+RPI2,343,State Line Hawkwatch,NJ,HawkCount-343,40.98333,-73.9
+RPI2,345,Sunrise Mountain,NJ,HawkCount-345,41.21813,-74.72044
+RPI2,347,Sandia Mountains Raptor Migration Project,NM,HawkCount-347,35.08667,-106.4325
+RPI2,351,Bear Mountain Farm,VA,HawkCount-351,38.44083,-79.69361
+RPI2,353,Braddock Bay,NY,HawkCount-353,43.31667,-77.71667
+RPI2,358,Derby Hill Bird Observatory,NY,HawkCount-358,43.5275,-76.23944
+RPI2,359,Fire Island,NY,HawkCount-359,40.63075,-73.22489
+RPI2,361,Franklin Mt.,NY,HawkCount-361,42.42539,-75.04694
+RPI2,364,Hamburg Hawk Watch,NY,HawkCount-364,42.75583,-78.86166
+RPI2,368,Hook Mountain,NY,HawkCount-368,41.12089,-73.91833
+RPI2,371,Mohonk Preserve,NY,HawkCount-371,41.73592,-74.19547
+RPI2,372,Mount Peter,NY,HawkCount-372,41.245,-74.28799
+RPI2,381,Ripley Hawk Watch,NY,HawkCount-381,42.30973,-79.64955
+RPI2,389,"Grimsby, ON - Beamer Conservation Area",ON,HawkCount-389,43.18833,-79.57333
+RPI2,391,Cranberry Marsh,ON,HawkCount-391,43.84025,-78.96603
+RPI2,392,Hawk Cliff Hawkwatch,ON,HawkCount-392,42.66433,-81.17011
+RPI2,393,High Park,ON,HawkCount-393,43.64636,-79.46561
+RPI2,395,Iroquois Shoreline,ON,HawkCount-395,43.93508,-78.96909
+RPI2,399,Bake Oven Knob,PA,HawkCount-399,40.74833,-75.73358
+RPI2,405,BroadwingSEPT - Buckingham,PA,HawkCount-405,40.29086,-75.05656
+RPI2,406,BroadwingSEPT - Core Creek,PA,HawkCount-406,40.19358,-74.93168
+RPI2,407,BroadwingSEPT - Lake Nockamixon,PA,HawkCount-407,40.47989,-75.21951
+RPI2,408,BroadwingSEPT - Peace Valley,PA,HawkCount-408,40.31079,-75.20486
+RPI2,409,BroadwingSEPT - Pipersville,PA,HawkCount-409,40.44563,-75.13922
+RPI2,410,BroadwingSEPT - Pleasant Valley,PA,HawkCount-410,40.53951,-75.29955
+RPI2,411,BroadwingSEPT - Lehigh,PA,HawkCount-411,40.5919,-75.36016
+RPI2,414,Council Cup,PA,HawkCount-414,41.07669,-76.12148
+RPI2,417,Hopewell Fire Tower,PA,HawkCount-417,NULL,NULL
+RPI2,420,Little Gap,PA,HawkCount-420,40.80589,-75.54119
+RPI2,423,Militia Hill,PA,HawkCount-423,40.1205,-75.22269
+RPI2,432,Second Mountain,PA,HawkCount-432,40.47275,-76.62148
+RPI2,436,"Stone Mt., Pa.",PA,HawkCount-436,40.57178,-77.82636
+RPI2,437,Tuscarora Summit,PA,HawkCount-437,39.91464,-77.95839
+RPI2,438,Tussey Mountain,PA,HawkCount-438,40.71053,-77.90459
+RPI2,439,Waggoner's Gap,PA,HawkCount-439,40.27719,-77.27603
+RPI2,442,Plateau de Beaupre,QC,HawkCount-442,47.04222,-70.91167
+RPI2,452,Huntington State Park,CT,HawkCount-452,41.33261,-73.35928
+RPI2,468,Bentsen Rio Grande Valley State Park,TX,HawkCount-468,26.16889,-98.38055
+RPI2,470,Corpus Christi Raptor Migration Project,TX,HawkCount-470,27.86555,-97.64278
+RPI2,472,Santa Ana National Wildlife Refuge,TX,HawkCount-472,26.08247,-98.13897
+RPI2,476,College Creek,VA,HawkCount-476,37.21667,-76.70277
+RPI2,482,Harvey's Knob,VA,HawkCount-482,37.44525,-79.72683
+RPI2,484,Kiptopeke Hawkwatch,VA,HawkCount-484,37.16378,-75.97667
+RPI2,487,Candler Mountain,VA,HawkCount-487,37.35305,-79.16417
+RPI2,491,Rockfish Gap Hawk Watch,VA,HawkCount-491,38.02958,-78.85844
+RPI2,494,Snickers Gap,VA,HawkCount-494,39.1155,-77.84695
+RPI2,506,Putney Mountain VT,VT,HawkCount-506,43.00443,-72.5956
+RPI2,514,Chequamegon Bay,WI,HawkCount-514,46.5845,-90.96432
+RPI2,515,Concordia University Hawk Watch,WI,HawkCount-515,43.25,-87.91666
+RPI2,516,Eagle Valley,WI,HawkCount-516,42.79167,-91.075
+RPI2,519,Hanging Rock Tower,WV,HawkCount-519,37.47361,-80.42223
+RPI2,527,Illinois Beach State Park,IL,HawkCount-527,42.46695,-87.805
+RPI2,528,"Veracruz River of Raptors, MX",VE,HawkCount-528,19.36667,-96.36667
+RPI2,529,East Shore Park,CT,HawkCount-529,41.275,-72.90278
+RPI2,530,Tuttle Hill,MA,HawkCount-530,42.06667,-72.79166
+RPI2,532,Flirt Hill,CT,HawkCount-532,41.25828,-73.33311
+RPI2,534,Chestnut Ridge,NY,HawkCount-534,41.17916,-73.68584
+RPI2,535,Middle School,CT,HawkCount-535,41.83495,-73.07447
+RPI2,538,Bent of the River,CT,HawkCount-538,41.47133,-73.25936
+RPI2,539,Briggs Hill,CT,HawkCount-539,41.55636,-73.49861
+RPI2,540,"Eagle Crossing, SW Quebec, Canada",QC,HawkCount-540,45.21667,-74.11667
+RPI2,541,Montreal West Island Hawkwatch,QC,HawkCount-541,45.41667,-73.93333
+RPI2,543,West Skyline Hawk Count,MN,HawkCount-543,NULL,NULL
+RPI2,544,Tlacotalpan Veracruz MX,VE,HawkCount-544,18.61093,-95.65593
+RPI2,545,Borrego Valley,CA,HawkCount-545,33.29732,-116.3668
+RPI2,546,Sparta Migration Watch,NJ,HawkCount-546,41.03333,-74.63361
+RPI2,549,Gunsight Mountain,AK,HawkCount-549,61.87667,-147.3358
+RPI2,550,Rocky Point Bird Observatory,BC,HawkCount-550,48.31667,-123.5333
+RPI2,551,Caesars Head Hawk Watch,SC,HawkCount-551,35.10556,-82.62805
+RPI2,552,Congaree Bluffs,SC,HawkCount-552,33.75694,-80.70361
+RPI2,553,Peak Mountain,CT,HawkCount-553,41.95889,-72.72528
+RPI2,555,Phoenix Mountain Hawk Watch,NC,HawkCount-555,36.37764,-81.4872
+RPI2,558,Little River Lookout,MA,HawkCount-558,NULL,NULL
+RPI2,560,Meadowood Bird Observatory,PA,HawkCount-560,40.52444,-77.20167
+RPI2,561,Thunder Cape Bird Observatory,ON,HawkCount-561,48.3025,-88.93784
+RPI2,562,Manitou Island,MI,HawkCount-562,47.41611,-87.65222
+RPI2,563,Smith Point Raptor Migration Project,TX,HawkCount-563,29.52611,-94.76583
+RPI2,572,Observatoire d'oiseaux de Tadoussac,QC,HawkCount-572,48.15,-69.66666
+RPI2,576,Lipan Point (Grand Canyon) Raptor Migration Project,AZ,HawkCount-576,36.03305,-111.8533
+RPI2,578,Yaki Point (Grand Canyon) Raptor Migration Project,AZ,HawkCount-578,36.05861,-112.0839
+RPI2,579,Beelzebub Street,CT,HawkCount-579,41.81392,-72.51761
+RPI2,583,Curry Hammock State Park,FL,HawkCount-583,24.74944,-80.98444
+RPI2,588,Harpswell Peninsula/Casco Bay,ME,HawkCount-588,43.75,-70.03333
+RPI2,590,Bridger Mountains Raptor Migration Project,MT,HawkCount-590,45.81694,-110.9297
+RPI2,592,Goshute Mountains Raptor Migration Project,NV,HawkCount-592,40.4243,-114.271
+RPI2,596,Manzano Mountains Raptor Migration Project,NM,HawkCount-596,34.70417,-106.4111
+RPI2,597,Kestrel Haven,NY,HawkCount-597,42.44231,-76.75775
+RPI2,601,Bonney Butte Raptor Migration Project,OR,HawkCount-601,45.26305,-121.5919
+RPI2,606,Wellsville Mountains Raptor Migration Project,UT,HawkCount-606,41.68833,-112.0483
+RPI2,611,Chelan Ridge Raptor Migration Project,WA,HawkCount-611,48.02028,-120.0939
+RPI2,613,Straits of Mackinaw,MI,HawkCount-613,45.77917,-84.74084
+RPI2,614,White Clay Creek State Park - Carpenter Recreation Area,DE,HawkCount-614,39.71183,-75.77666
+RPI2,615,Belvédère Raoul-Roy,QC,HawkCount-615,48.31667,-68.86667
+RPI2,616,Bradbury Mountain State Park,ME,HawkCount-616,43.89639,-70.19055
+RPI2,617,Manchester Ridges,MD,HawkCount-617,39.71528,-76.8875
+RPI2,618,Trezevant's Landing,SC,HawkCount-618,33.72972,-80.62778
+RPI2,620,Kekoldi,NULL,HawkCount-620,9.641666,-82.78333
+RPI2,621,Cromwell Valley Park,MD,HawkCount-621,39.41627,-76.54955
+RPI2,622,Big Bald,TN,HawkCount-622,35.99389,-82.48373
+RPI2,623,White Memorial Foundation,CT,HawkCount-623,41.71667,-73.2
+RPI2,624,Summitville Hawkwatch,NY,HawkCount-624,41.62139,-74.45111
+RPI2,625,Beamer Backup,ON,HawkCount-625,NULL,NULL
+RPI2,626,Shatterack Mountain,MA,HawkCount-626,42.18972,-72.86389
+RPI2,627,Semaphore Hill (Canopy Tower),NULL,HawkCount-627,9.051666,-79.63583
+RPI2,628,Kitsilano,BC,HawkCount-628,49.27833,-123.1442
+RPI2,629,Muskegon,MI,HawkCount-629,43.23584,-86.33258
+RPI2,631,DRHW- Pointe Mouillee State Game Area,MI,HawkCount-631,42.03791,-83.19829
+RPI2,632,"Grimsby, ON - Air Park",ON,HawkCount-632,43.15417,-79.60333
+RPI2,633,"Grimsby, ON - Miscellaneous Sightings",ON,HawkCount-633,43.2,-79.56667
+RPI2,634,NJAMP at Duke Farms,NJ,HawkCount-634,40.55116,-74.62698
+RPI2,635,Bald Eagle Mountain,PA,HawkCount-635,40.48,-78.03
+RPI2,636,Tara Woods East Collierville,TN,HawkCount-636,35.02694,-89.65195
+RPI2,638,Kirkridge,PA,HawkCount-638,40.90028,-75.10472
+RPI2,639,Guana Reserve,FL,HawkCount-639,30.11667,-81.34528
+RPI2,640,Beamer Backup - Lookouts,NULL,HawkCount-640,NULL,NULL
+RPI2,641,Beamer Backup - Other,NULL,HawkCount-641,NULL,NULL
+RPI2,642,Lagoon Valley,CA,HawkCount-642,38.30083,-122.0044
+RPI2,643,St. Adolphe Hawkwatch,MB,HawkCount-643,49.67916,-97.11972
+RPI2,644,Demo Hawkwatch,NULL,HawkCount-644,NULL,NULL
+RPI2,645,Carvins Cove,VA,HawkCount-645,37.38361,-79.94806
+RPI2,646,Pembina Valley,MB,HawkCount-646,49.03139,-98.27834
+RPI2,647,Chavarrillo,VE,HawkCount-647,19.42595,-96.79297
+RPI2,648,Innisfree,ON,HawkCount-648,44.24144,-79.54073
+RPI2,649,"Hughes River Gap, VA",VA,HawkCount-649,38.59778,-78.37167
+RPI2,651,Taft School,CT,HawkCount-651,41.60611,-73.11861
+RPI2,652,Whytewold Hawkwatch,MB,HawkCount-652,50.83333,-96.98333
+RPI2,653,Cove Mountain,PA,HawkCount-653,40.34148,-77.11459
+RPI2,654,Larson Sanctuary,CT,HawkCount-654,41.13139,-73.26444
+RPI2,655,Alander Mountain,MA,HawkCount-655,42.09425,-73.50616
+RPI2,656,ICBP Hack Box,SC,HawkCount-656,32.91029,-79.69288
+RPI2,657,Marine Nature Study Area,NY,HawkCount-657,40.62324,-73.62424
+RPI2,658,Congamond Plains,MA,HawkCount-658,42.04361,-72.72222
+RPI2,660,Greene Valley Forest Preserve,IL,HawkCount-660,41.73056,-88.07889
+RPI2,662,Bald Peak,CT,HawkCount-662,NULL,NULL
+RPI2,663,Ashland Nature Center,DE,HawkCount-663,39.79714,-75.66161
+RPI2,665,DRHW - Lake Erie Metropark (Wavepool),MI,HawkCount-665,42.07064,-83.19637
+RPI2,666,DRHW - Humbug Marina,MI,HawkCount-666,42.09948,-83.18988
+RPI2,667,DRHW - Power Plant,MI,HawkCount-667,42.1158,-83.1915
+RPI2,668,DRHW- Campau Rd.,MI,HawkCount-668,42.04512,-83.20007
+RPI2,669,DRHW - Marina Point,MI,HawkCount-669,42.05347,-83.18708
+RPI2,670,DRHW - Woodruff,MI,HawkCount-670,42.08232,-83.21074
+RPI2,671,Presque Isle,PA,HawkCount-671,42.10855,-80.15327
+RPI2,672,Franklin Mt. NW,NY,HawkCount-672,42.42881,-75.05328
+RPI2,674,Johnson City Hawk Watch,NY,HawkCount-674,42.14639,-75.96306
+RPI2,675,Port Crescent Hawk Watch,MI,HawkCount-675,44.00019,-83.06693
+RPI2,676,Rocky Knob,VA,HawkCount-676,NULL,NULL
+RPI2,677,Blue Mountain Rt. 183,PA,HawkCount-677,40.5275,-76.22444
+RPI2,678,Parkway Lenoir,NC,HawkCount-678,35.9181,-81.51617
+RPI2,679,Carter Hill Observatory,NH,HawkCount-679,43.23453,-71.60994
+RPI2,680,Oliver Street Studios,MD,HawkCount-680,39.30667,-76.61
+RPI2,681,Poquonock,CT,HawkCount-681,41.90938,-72.67905
+RPI2,683,DOAS - Franskevicz Road,NY,HawkCount-683,42.04181,-75.28697
+RPI2,684,DOAS - Horse Farm,NY,HawkCount-684,42.06011,-75.30209
+RPI2,685,DOAS - Lang Road,NY,HawkCount-685,42.00872,-75.25861
+RPI2,686,Greenlaw Mountain,NB,HawkCount-686,45.1292,-67.09229
+RPI2,687,"Grimsby, ON - Grimsby Point & Ravine",ON,HawkCount-687,NULL,NULL
+RPI2,688,"Grimsby, ON - Lake Ontario Plain",ON,HawkCount-688,NULL,NULL
+RPI2,689,"Grimsby, ON - Allen & Kemp Roads",ON,HawkCount-689,NULL,NULL
+RPI2,690,Commissary Ridge Raptor Migration Project,WY,HawkCount-690,42.02472,-110.5894
+RPI2,691,Catawba River ,NC,HawkCount-691,35.375,-80.85333
+RPI2,692,Seaside Hawkwatch,VA,HawkCount-692,NULL,NULL
+RPI2,693,Blue Mountain Ski Area,PA,HawkCount-693,40.80963,-75.50784
+RPI2,694,Forest Beach Migratory Preserve,WI,HawkCount-694,43.65861,-87.98528
+RPI2,695,Pitcher Mountain,NH,HawkCount-695,43.09425,-72.13536
+RPI2,696,DOAS - All Road,NY,HawkCount-696,42.63564,-74.76884
+RPI2,697,DOAS - Davis State Park,NY,HawkCount-697,42.66186,-74.83295
+RPI2,698,DOAS - Fish Road,NY,HawkCount-698,42.72794,-74.87444
+RPI2,699,Brockway Mountain,MI,HawkCount-699,47.4641,-87.96938
+RPI2,700,Belmont Valley,VA,HawkCount-700,38.02132,-78.48311
+RPI2,701,Suffield WMA,CT,HawkCount-701,42.035,-72.74834
+RPI2,702,Lapham Peak,WI,HawkCount-702,43.041,-88.40403
+RPI2,703,Boothe Memorial Park,CT,HawkCount-703,41.2356,-73.1105
+RPI2,741,"Veracruz River of Raptors Cardel, MX",MX,HawkCount-741,19.3711,-96.37653
+SLLS,QC,Quebec,NULL,NULL,NULL,NULL
+SOWPS,ON,Ontario,NULL,NULL,NULL,NULL
+UNGAVA,Atlantic,Atlantic,NULL,NULL,NULL,NULL
+UNGAVA,QC ON,Ungava peninnsula,NULL,NULL,NULL,NULL
+WBPHS,Alaska,Alaska,NULL,NULL,NULL,NULL
+WBPHS,CanPrairie,Canadian Prairies,NULL,NULL,NULL,NULL
+WBPHS,CanPrairie_Wboreal,Canadian Prairies and Western Boreal,NULL,NULL,NULL,NULL
+WBPHS,Potholes,Potholes,NULL,NULL,NULL,NULL
+WBPHS,TSA,Traditional Survey Area,NULL,NULL,NULL,NULL
+WBPHS,USPrairie,U.S. Prairies,NULL,NULL,NULL,NULL
+WBPHS,WBoreal,Western Boreal Canada,NULL,NULL,NULL,NULL
+WRANGEL,Wrangel,"Wrangel Island, Russia",NULL,NULL,NULL,NULL
