@@ -8,8 +8,8 @@ library(patchwork)
 YYYY <- 2022
 short_time <- 12
 
-#setwd("C:/Users/SmithAC/Documents/GitHub/HRE_testing")
-setwd("C:/GitHub/HRE_testing")
+#setwd("C:/Users/SmithAC/Documents/GitHub/CWS_2022_BBS_Analyses")
+setwd("C:/GitHub/CWS_2022_BBS_Analyses")
 
 output_dir <- "output"
 n_cores = 10

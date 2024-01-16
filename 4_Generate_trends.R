@@ -18,7 +18,7 @@ source("functions/reliability.R")
 
 
 
-n_cores = 16
+n_cores <- 6
 re_run <- TRUE
 
 

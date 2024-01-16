@@ -6,13 +6,13 @@ library(tidyverse)
 library(foreach)
 library(doParallel)
 
-#setwd("C:/github/HRE_testing")
-setwd("C:/Users/SmithAC/Documents/GitHub/HRE_testing")
+#setwd("C:/github/CWS_2022_BBS_Analyses")
+setwd("C:/Users/SmithAC/Documents/GitHub/CWS_2022_BBS_Analyses")
 
 
 # set output_dir to the directory where the saved modeling output rds files will be stored
 # necessary on most systems because these output files are very large ( up to 5GB for broad-ranging species)
-output_dir <- "F:/HRE_testing/output"
+output_dir <- "F:/CWS_2022_BBS_Analyses/output"
 #output_dir <- "output"
 
 re_run <- FALSE # set to TRUE if re-running poorly converged models

@@ -5,13 +5,13 @@ library(foreach)
 library(doParallel)
 
 
-#setwd("C:/Users/SmithAC/Documents/GitHub/HRE_testing")
-setwd("C:/GitHub/HRE_testing")
+#setwd("C:/Users/SmithAC/Documents/GitHub/CWS_2022_BBS_Analyses")
+setwd("C:/GitHub/CWS_2022_BBS_Analyses")
 
 # set output_dir to the directory where the saved modeling output rds files are stored
 output_dir <- "D:/output_BBS"
 # output_dir <- "output"
-# output_dir <- "F:/HRE_testing/output"
+# output_dir <- "F:/CWS_2022_BBS_Analyses/output"
 
 n_cores = 3 # if desired, can be run in parallel across many species
 

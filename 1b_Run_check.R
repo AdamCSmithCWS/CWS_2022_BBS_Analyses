@@ -5,10 +5,10 @@ library(tidyverse)
 library(foreach)
 library(doParallel)
 
-#setwd("C:/github/HRE_testing")
-#setwd("C:/Users/SmithAC/Documents/GitHub/HRE_testing")
+#setwd("C:/github/CWS_2022_BBS_Analyses")
+#setwd("C:/Users/SmithAC/Documents/GitHub/CWS_2022_BBS_Analyses")
 
-#output_dir <- "F:/HRE_testing/output"
+#output_dir <- "F:/CWS_2022_BBS_Analyses/output"
 output_dir <- "D:/output_BBS"
 #output_dir <- "output"
 

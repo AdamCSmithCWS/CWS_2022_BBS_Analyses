@@ -10,7 +10,7 @@ library(bbsBayes2)
 library(tidyverse)
 library(patchwork)
 library(ggrepel)
-setwd("C:/GitHub/HRE_testing")
+setwd("C:/GitHub/CWS_2022_BBS_Analyses")
 
 
 source("functions/mapping.R")
