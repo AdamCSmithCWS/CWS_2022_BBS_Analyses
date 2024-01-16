@@ -8,8 +8,8 @@ library(patchwork)
 YYYY <- 2022
 short_time <- 10
 
-#setwd("C:/Users/SmithAC/Documents/GitHub/HRE_testing")
-setwd("C:/GitHub/HRE_testing")
+#setwd("C:/Users/SmithAC/Documents/GitHub/CWS_2022_BBS_Analyses")
+setwd("C:/github/CWS_2022_BBS_Analyses")
 
 
 # custom functions to calculate reliability categories and determine website inclusion
@@ -134,6 +134,11 @@ test <- foreach(i = rev(1:nrow(sp_list)),
       maps_out <- vector("list",3)
       names(maps_out) <- c("Long-term","Short-term","Three-generation")
 
+
+      maps_out_quart <- vector("list",3)
+      names(maps_out_quart) <- c("Long-term","Short-term","Three-generation")
+
+
       trends_out <- NULL
       inds_out <- NULL
 
@@ -168,6 +173,23 @@ test <- foreach(i = rev(1:nrow(sp_list)),
           labs(title = j)
 
         maps_out[[j]] <- map_tmp
+
+        map_tmp2 <- plot_map(trends_tmp,
+                    title = FALSE,
+                    alternate_column = "trend_q_0.25") +
+          labs(title = paste(j,"25% CI (trend_q_0.25)"))
+
+        map_tmp3 <- plot_map(trends_tmp,
+                             title = FALSE,
+                             alternate_column = "trend_q_0.75") +
+          labs(title = paste(j,"75% CI (trend_q_0.75)"))
+
+        map_tmp4 <- map_tmp2 + map_tmp3 + plot_layout(guides = "collect")
+        maps_out_quart[[j]] <- map_tmp4
+
+
+
+
 
           trend_sv <- trends_tmp$trends %>%
             mutate(species = sp,
@@ -227,6 +249,7 @@ test <- foreach(i = rev(1:nrow(sp_list)),
 
 
     saveRDS(maps_out,file = paste0("Figures/temp_rds_storage/",aou,"_maps.RDS"))
+    saveRDS(maps_out_quart,file = paste0("Figures/temp_rds_storage/",aou,"_quart_maps.RDS"))
 
 
     }
