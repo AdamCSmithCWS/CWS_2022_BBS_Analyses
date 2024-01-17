@@ -10,4 +10,7 @@ The analyses use the R-package [bbsBayes2](https://bbsbayes.github.io/bbsBayes2/
 
 The summaries and functions in all scripts after 1_bbs_script_parallel.R (e.g., all summaries of annual indices, trends, maps, etc.) can be run using saved model output for a given species. If you would like access to that saved model output for this analysis, please get in touch. In the near future, we are hoping to have a simple way to archive this saved model output in an openly accessible format, so check back here for updates.
 
+## Estimates from these analyses
+
+This [Google Drive](https://drive.google.com/drive/folders/1aq9GryGHtqcsv0sOq6BkZrRE9FdhjjvE?usp=drive_link) contains all estimates of trends and indices of annual abundance (population trajectories) in a downloadable format. It also includes population trajectory graphs, maps of estimated trends for long-term, short-term, and three-generation periods, plus other saved output. There are readme files in both English and French in the folder that explain the contents in more detail.
 
