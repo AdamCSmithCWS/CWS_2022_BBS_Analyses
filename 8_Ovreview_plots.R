@@ -10,11 +10,51 @@ library(bbsBayes2)
 library(tidyverse)
 library(patchwork)
 library(ggrepel)
+library(foreach)
+library(doParallel)
 setwd("C:/GitHub/CWS_2022_BBS_Analyses")
+
 
 
 sp_list <- readRDS("species_list.rds") %>%
   filter(model == TRUE)
+
+three_gens <- read_csv("data/full_bbs_species_list_w_generation_length.csv")
+
+three_gens <- three_gens %>%
+  select(aou,GenLength)
+
+sp_list <- sp_list %>%
+  inner_join(.,three_gens,
+             by = c("aou"))
+
+avian_core <- read_csv("data/ECCC Avian Core 20230601.csv") %>%
+  rename_with(.,.fn = ~paste0(.x,"_core")) %>%
+  mutate(aou = as.integer(BBS_Number_core))
+
+rep_aou <- avian_core %>% group_by(aou) %>% summarise(n = n()) %>% filter(n > 1, !is.na(aou))
+rep_core <- avian_core %>%
+  filter(aou %in% rep_aou$aou)
+
+avian_core <- avian_core %>%
+  filter(!(aou %in% rep_aou$aou & Full_Species_core == "No"))
+
+sp_list <- sp_list %>%
+  inner_join(.,avian_core,by = "aou")
+
+nature_counts_codes <- naturecounts::meta_species_codes() %>%
+  filter(authority == "BBS2") %>%
+  mutate(species_id = ifelse(species_id2 != species_id,species_id2,species_id)) %>%
+  select(species_id,species_code) %>%
+  mutate(aou = as.integer(species_code),
+         nature_counts_species_id = species_id) %>%
+  distinct() %>%
+  select(-c(species_id,species_code))
+
+sp_list <- sp_list %>%
+  left_join(.,nature_counts_codes,
+            by = "aou") %>%
+  arrange(Sort_Order_core)
 
 # Compile all trends and indices ------------------------------------------------------
 
@@ -53,8 +93,7 @@ ly_trends <- lastyear[,c("species","bbs_num","Region","Region_alt","Trend_Time",
 
 
 
-species_to_run <- sp_list %>%
-  arrange(-aou)
+species_to_run <- sp_list
 
 pdf(file = paste0("Figures/BBS_High_level_summary_",YYYY,".pdf"),
     height = 9,
@@ -121,4 +160,64 @@ tplot <- ggplot(data = trends_1)+
 dev.off()
 
 
+
+
+# Plotting trend maps -----------------------------------------------------
+
+
+
+start_years <- c("Long-term","Short-term","Three-generation")
+
+
+
+n_cores <- 12
+cluster <- makeCluster(n_cores, type = "PSOCK")
+registerDoParallel(cluster)
+
+
+test <- foreach(jj = rev(c(1:nrow(species_to_run))),
+                .packages = c("bbsBayes2",
+                              "tidyverse",
+                              "cmdstanr",
+                              "patchwork"),
+                .errorhandling = "pass") %dopar%
+  {
+
+  species <- as.character(species_to_run[jj,"english"])
+  espece <- as.character(species_to_run[jj,"french"])
+  aou <- as.integer(species_to_run[jj,"aou"])
+
+  if(file.exists(paste0("Figures/temp_rds_storage/",aou,"_maps.RDS"))){
+    species_f_bil <- gsub(paste(species,espece),pattern = "[[:space:]]|[[:punct:]]",
+                          replacement = "_")
+
+    tmaps <- readRDS(paste0("Figures/temp_rds_storage/",aou,"_maps.RDS"))
+    qmaps <- readRDS(paste0("Figures/temp_rds_storage/",aou,"_quart_maps.RDS"))
+
+    pdf(paste0("Figures/trend_maps/",species_f_bil,"_trend_maps.pdf"),
+        width = 11,
+        height = 8.5)
+
+
+    for(j in (start_years)){
+      tt <- tmaps[[j]]+
+        labs(title = paste(j,":",espece,"/",species))
+
+    print(tt)
+
+    tt <- qmaps[[j]]+
+      plot_annotation(title = paste(j,":",espece,"/",species))
+
+    print(tt)
+
+
+      }
+  dev.off()
+
+
+    }
+
+
+  }
+parallel::stopCluster(cluster)
 

@@ -18,7 +18,7 @@ source("functions/reliability.R")
 
 
 
-n_cores <- 6
+n_cores <- 10
 re_run <- TRUE
 
 
@@ -82,11 +82,12 @@ registerDoParallel(cluster)
 test <- foreach(i = rev(1:nrow(sp_list)),
                 .packages = c("bbsBayes2",
                               "tidyverse",
-                              "cmdstanr"),
+                              "cmdstanr",
+                              "patchwork"),
                 .errorhandling = "pass") %dopar%
   {
 
-    # for(i in 1:4){
+     #for(i in c(nrow(sp_list):(nrow(sp_list)-4))){
     sp <- as.character(sp_list[i,"english"])
     esp <- as.character(sp_list[i,"french"])
     aou <- as.integer(sp_list[i,"aou"])
