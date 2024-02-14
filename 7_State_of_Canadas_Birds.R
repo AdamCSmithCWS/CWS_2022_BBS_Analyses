@@ -65,7 +65,7 @@ if(nrow(tmp2) > 0){
 
 
 
-re_collect <- TRUE
+re_collect <- FALSE
 # Compile all trends and indices ------------------------------------------------------
 
 if(re_collect){

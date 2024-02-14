@@ -106,13 +106,13 @@ test <- foreach(i = rev(1:nrow(sp_list)),
       # identifying first years for selected species ----------------------------
       fy <- 1970
       if(aou %in% c(4661,4660)){ #Alder and Willow Flycatcher
-        fy <- 1978 #5 years after the split
+        fy <- max(fy,1978) #5 years after the split
       }
       if(aou %in% c(10,11,22860)){ # Clark's and Western Grebe and EUCD
-        fy <- 1990 #5 years after the split and first year EUCD observed on > 3 BBS routes
+        fy <- max(fy,1990) #5 years after the split and first year EUCD observed on > 3 BBS routes
       }
       if(aou == 6121){ # CAve Swallow
-        fy = 1985
+        fy = max(fy,1985)
       }
 
       ## set three generations

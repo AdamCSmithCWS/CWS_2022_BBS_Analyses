@@ -13,15 +13,15 @@ setwd("C:/Users/SmithAC/Documents/GitHub/CWS_2022_BBS_Analyses")
 # set output_dir to the directory where the saved modeling output rds files will be stored
 # necessary on most systems because these output files are very large ( up to 5GB for broad-ranging species)
 output_dir <- "F:/CWS_2022_BBS_Analyses/output"
-#output_dir <- "output"
+output_dir <- "output"
 
 re_run <- FALSE # set to TRUE if re-running poorly converged models
 
 
-miss <- TRUE
+miss <- FALSE
 csv_recover <- FALSE
 
-machine = 2#9 #as of Nov 30, machine 8 remains to be run
+machine = NULL#2#9 #as of Nov 30, machine 8 remains to be run
 n_cores = 8
 
 #n_cores <- floor((detectCores()-1)/4) # requires 4 cores per species

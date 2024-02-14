@@ -105,6 +105,25 @@ summ_comb <- bind_rows(summ_comb,
 
 saveRDS(summ_comb,"Convergence/All_species_convergence_summary.rds")
 
+summ_comb <- readRDS("Convergence/All_species_convergence_summary.rds")
+
+sp_run <- summ_comb %>%
+  group_by(sp_n) %>%
+  summarise(max_rhat = max(rhat, na.rm = TRUE))
+
+sp_not_run <- sp_list %>%
+  left_join(.,sp_run,
+            by = c("aou" = "sp_n")) %>%
+  filter(is.na(max_rhat)) %>%
+  arrange(-n_routes)
+
+sp_not_run_but_should <- sp_not_run %>%
+  filter(n_years > 20, n_routes > 20,
+         n_obs > 500)
+
+stop(paste(nrow(sp_not_run_but_should),"species or more are missing, including",
+           paste(sp_not_run_but_should$english,collapse = ", "),
+           "confirm that they each have > 1 stratum"))
 
 
 fail <- summ_comb %>%
