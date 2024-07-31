@@ -52,7 +52,7 @@ test <- foreach(i = rev(1:nrow(sp_list)),
 
 
     if(file.exists(paste0("Indices/Inds_",aou,".rds")) &
-       (!file.exists(paste0("Figures/temp_rds_storage/",aou,"_highlevel_trajs.RDS")) | re_run)){
+       (!file.exists(paste0("Figures/diagnostic_trajectories/",species_f_bil,"_diagnostic_trajectories.pdf")) | re_run)){
 
 
 
@@ -224,35 +224,35 @@ test <- foreach(i = rev(1:nrow(sp_list)),
 
         print(t1plot)
 
-        if(j %in% c("continent","Canada","United_States_of_America")){
-          t1save <- t1 +
-            geom_ribbon(data = n1, aes(x = year,y = index,ymin = index_q_0.05,ymax = index_q_0.95),
-                        fill = grey(0.5),alpha = 0.2)+
-            geom_line(data = n1, aes(x = year,y = index),
-                      colour = grey(0.5))+
-            geom_line(data = ly_inds,
-                      aes(x = Year,
-                          y = Index_q_0.05),
-                      colour = "darkgreen",alpha = 0.3, linetype = 6)+
-            geom_line(data = ly_inds,
-                      aes(x = Year,
-                          y = Index_q_0.95),
-                      colour = "darkgreen",alpha = 0.3, linetype = 6)+
-            geom_line(data = ly_inds_smooth,
-                      aes(x = Year,
-                          y = Index),
-                      colour = "darkgreen",alpha = 0.4, linetype = 6)+
-
-            labs(subtitle = labl)
-          traj_out[[j]] <- t1save
-        }
-
+        # if(j %in% c("continent","Canada","United_States_of_America")){
+        #   t1save <- t1 +
+        #     geom_ribbon(data = n1, aes(x = year,y = index,ymin = index_q_0.05,ymax = index_q_0.95),
+        #                 fill = grey(0.5),alpha = 0.2)+
+        #     geom_line(data = n1, aes(x = year,y = index),
+        #               colour = grey(0.5))+
+        #     geom_line(data = ly_inds,
+        #               aes(x = Year,
+        #                   y = Index_q_0.05),
+        #               colour = "darkgreen",alpha = 0.3, linetype = 6)+
+        #     geom_line(data = ly_inds,
+        #               aes(x = Year,
+        #                   y = Index_q_0.95),
+        #               colour = "darkgreen",alpha = 0.3, linetype = 6)+
+        #     geom_line(data = ly_inds_smooth,
+        #               aes(x = Year,
+        #                   y = Index),
+        #               colour = "darkgreen",alpha = 0.4, linetype = 6)+
+        #
+        #     labs(subtitle = labl)
+        #   traj_out[[j]] <- t1save
+        # }
+        #
 
       }
 
       dev.off()  # close diagnostic trajectory plotting
 
-      saveRDS(traj_out,file = paste0("Figures/temp_rds_storage/",aou,"_highlevel_trajs.RDS"))
+      #saveRDS(traj_out,file = paste0("Figures/temp_rds_storage/",aou,"_highlevel_trajs.RDS"))
 
 
     }

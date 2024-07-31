@@ -186,7 +186,7 @@ roll_trends_out <- roll_trends_out%>%
 
 saveRDS(roll_trends_out, file = paste0("Trends/Rolling_trends/",aou,"_rolling_trends.rds"))
 
-
+#write_csv(roll_trends_out,file = paste0("Trends/Rolling_trends/",aou,"_14-year_rolling_trends.csv"))
 thresh30 = (0.7^(1/gen3)-1)*100
 thresh50 = (0.5^(1/gen3)-1)*100
 

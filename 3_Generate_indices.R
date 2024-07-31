@@ -68,15 +68,16 @@ test <- foreach(i = rev(1:nrow(sp_list)),
       inds <- generate_indices(fit,
                                alternate_n = "n_smooth",
                                hpdi = TRUE,
-                               max_backcast = 15,
-                               regions = regs_to_estimate)
+                               regions = regs_to_estimate,
+                               max_backcast = 15
+                               )
       saveRDS(inds,paste0("Indices/Inds_",aou,".rds"))
 
       ind <- generate_indices(fit,
                                alternate_n = "n",
                                hpdi = TRUE,
-                               max_backcast = 15,
-                               regions = regs_to_estimate)
+                              regions = regs_to_estimate,
+                               max_backcast = 15)
       saveRDS(ind,paste0("Indices/Ind_plot_",aou,".rds"))
 
       raw_data <- fit$raw_data

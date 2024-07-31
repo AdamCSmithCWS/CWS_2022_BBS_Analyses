@@ -96,7 +96,8 @@ test <- foreach(i = rev(1:nrow(sp_list)),
               quiet = TRUE) %>%
   prepare_data(min_max_route_years = 2,
                quiet = TRUE,
-               min_year = fy)
+               min_year = fy)#,
+               #min_n_routes = 1)
 
    ## bbsBayes2 models do not currently work unless n_strata > 1
    if(nrow(s$meta_strata) == 1){stop(paste("Only 1 stratum for",sp,"skipping to next species"))}
@@ -116,7 +117,7 @@ test <- foreach(i = rev(1:nrow(sp_list)),
 
    if(csv_recover){
      fit <- bbs_dat
-     csv_files <- paste0(output_dir,"/fit_",aou,"-",c(2:4),".csv")
+     csv_files <- paste0(output_dir,"/fit_",aou,"-",c(1:4),".csv")
       fit[["model_fit"]] <- cmdstanr::as_cmdstan_fit(files = csv_files)
       save_model_run(fit,retain_csv = TRUE)
 

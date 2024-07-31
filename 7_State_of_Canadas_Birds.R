@@ -266,6 +266,10 @@ indices <- indices %>%
 
 # csv files with trends and indices for Google Drive ----------------------
 
+saveRDS(indices,paste0("Website/All_BBS_Full_Indices_",YYYY,".rds"))
+saveRDS(indices_smooth,paste0("Website/All_BBS_Smoothed_Indices_",YYYY,".rds"))
+saveRDS(trends,paste0("Website/All_BBS_Trends_",YYYY,".rds"))
+
 
 write_csv(indices,paste0("Website/All_BBS_Full_Indices_",YYYY,".csv"))
 write_csv(indices_smooth,paste0("Website/All_BBS_Smoothed_Indices_",YYYY,".csv"))
@@ -425,6 +429,11 @@ trends_socb <- trends_out2 %>%
 readr::write_excel_csv(trends_socb,
                        paste0("website/BBS_",YYYY,"_trends_for_socb.csv"))
 
+# tmp <- trends_socb %>%
+#   filter(species_name == "Killdeer")
+# readr::write_excel_csv(tmp,
+#                        paste0("website/BBS_",YYYY,"_trends_for_Killdeer.csv"))
+#
 
 
 # SOCB extra trends -------------------------------------------------------
@@ -601,6 +610,12 @@ indices_socb <- indices %>%
 readr::write_excel_csv(indices_socb,
                        file = paste0("website/BBS_",YYYY,"_annual_indices_for_socb.csv"))
 
+
+# tmp <- indices_socb %>%
+#   filter(species_name == "Killdeer")
+# readr::write_excel_csv(tmp,
+#                        file = paste0("website/BBS_",YYYY,"_annual_indices_for_Killdeer.csv"))
+#
 
 
 
