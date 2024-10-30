@@ -1,6 +1,9 @@
 ## testing bbsBayes2 parallel in HRE env
 
 shhh <- suppressPackageStartupMessages # so I don't get a bunch of start up messages in the output file, a tip I encountered while searching through StackOverflow...
+
+
+#pak::pkg_install("bbsBayes/bbsBayes2@v1.1.1") # package version used in 2022 analyses
 library(bbsBayes2)
 library(tidyverse)
 library(foreach)

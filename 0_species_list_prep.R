@@ -2,6 +2,7 @@
 ## generate list of species with simple data summaries
 ## identify which species to run and sort them into parallel-run groups (column "vm")
 
+#pak::pkg_install("bbsBayes/bbsBayes2@v1.1.1") # package version used in 2022 analyses
 library(bbsBayes2)
 library(tidyverse)
 
